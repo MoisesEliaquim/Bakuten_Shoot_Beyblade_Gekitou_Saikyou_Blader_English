@@ -1,12 +1,26 @@
 # Progress and validation
 
-## Current version: 1.48 — experimental, local draft
+## Current version: 1.50 — experimental, local draft
 
-The editable sources contain **585 speeches in 307 scenes (308–616)** and **816 UI strings**. Centers the Beyblade catalog title within its existing Japanese title field using the original narrow font. UI source inventory remains 816 strings.
+As fontes editáveis contêm **587 falas em 308 cenas (308–616)**, **816 strings de UI**, **28 recursos estruturados com 62 strings** e **837 recursos de batalha em 1.259 páginas**. A cena 312 agora tem “Gah...”, “N-no way...” e “This is a test.”; o construtor preserva a transição de texto sem falante inicial para um falante definido.
 
-The title uses the original 15-character fixed field. The portable build and independent IPS verification passed once (2260 records). The catalog attribute labels visible in the right panel are drawn outside the pointer-backed UI strings; their graphics/code source is still under investigation, so this release does not claim those labels are translated.
+O build portátil v1.50 e a verificação independente do IPS passaram (2.289 registros). A cena 312 passou as verificações de comandos, ordem dos falantes, CP932, largura e alocação. A única execução visual ficou na cena japonesa 353 já carregada; nenhuma frase nova foi confirmada na tela. A cena pode ser um recurso de teste; o acionamento natural e o jogo completo não foram verificados.
 
 The font and memory layout are unchanged. The portable build reproduced the development ROM and IPS byte-for-byte; independent IPS verification passed. The original ROM remains unchanged. No full-game, hardware, multiplayer, complete-battle, or save/load validation is claimed.
+
+## Historical snapshot: 1.49 — experimental, local draft
+
+The editable sources contain **585 speeches in 307 scenes (308–616)**, **816 UI strings**, **28 structured menu/event resources with 62 strings**, and **837 translated group-2 resources in 1,259 pages**. Centers the Beyblade catalog title within its existing Japanese title field using the original narrow font. UI source inventory remains 816 strings.
+
+Auditoria estática das cenas pendentes: a cena 311 só contém espaço e terminador. A cena 312 contém `ガーン・・・`, `そ、そんなぁ～` e `テストです。` (“É um teste”); parece recurso de teste, mas seu acionamento natural não foi confirmado. O grupo 2 tem tradução para todos os 837 recursos com texto; dez entradas da tabela estão vazias. Para 28 recursos estruturados do grupo 1 (0, 3, 9, 12, 17, 20, 29 e 35–95 de 3 em 3), traduzi 62 rótulos/opções. O novo construtor preserva os dados de controle e atualiza ponteiros. Build portátil e verificação independente do IPS v1.49 passaram (2.288 registros). Três amostras (`$ Machida Tenmangu`, `$ McDonald’s`, `$ Caramel Macchiato`) foram revisadas em fixture de diálogo para confirmar glifos e fonte estreita; isso não verifica o layout das listas de opções nem seus acionamentos naturais. As fixtures v1.48 de batalha 42, 43 e 674 continuam documentadas, mas não comprovam acionamento natural. Nenhum teste de campanha completa foi feito.
+
+The title uses the original 15-character fixed field. The catalog attribute labels visible in the right panel are drawn outside the pointer-backed UI strings; their graphics/code source is still under investigation, so this release does not claim those labels are translated.
+
+The font and memory layout are unchanged. The portable build reproduced the development ROM and IPS byte-for-byte; independent IPS verification passed. The original ROM remains unchanged. No full-game, hardware, multiplayer, complete-battle, or save/load validation is claimed.
+
+## Historical snapshot: 1.48 — experimental, local draft
+
+The previous draft contained the existing dialogue, pointer-backed UI, and battle translations before the structured menu/event batch. It remains unverified as a complete playthrough.
 
 ## Historical snapshot: 1.47 — experimental, local draft
 
@@ -1501,3 +1515,5 @@ The 1,251 extracted candidate speeches do not establish a full-game total. Do no
 - **1.47:** 585 speeches, 816 UI strings; 0 added scenes inspected in isolation.
 
 - **1.48:** 585 speeches, 816 UI strings; 0 added scenes inspected in isolation.
+
+- **1.50:** 587 speeches, 816 UI strings; 0 added scenes inspected in isolation.

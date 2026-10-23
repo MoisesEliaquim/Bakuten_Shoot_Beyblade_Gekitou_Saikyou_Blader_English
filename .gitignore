@@ -19,3 +19,19 @@ __pycache__/
 vendor/
 .DS_Store
 Thumbs.db
+
+# Saídas locais, capturas e versões históricas nunca entram no índice.
+*.log
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.bmp
+*.gif
+*.state*
+*.ss[0-9]
+captures/
+screenshots/
+beyblade-translation/
+patches/*.ips
+!patches/Beyblade-AHEJ-English-v150-EXPERIMENTAL.ips

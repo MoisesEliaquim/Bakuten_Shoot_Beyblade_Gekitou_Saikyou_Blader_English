@@ -6,8 +6,9 @@ Este projeto experimental inclui o patch IPS, fontes editáveis e ferramentas. F
 
 ## Estado atual
 
-- 585 falas traduzidas em 307 cenas.
+- 587 falas traduzidas em 308 cenas.
 - 816 textos de interface traduzidos.
+- 62 opções estruturadas de local, loja e navegação em 28 recursos.
 - 837 recursos de batalha em 1.259 páginas.
 - Fonte estreita com até 24 caracteres por linha e páginas extras.
 - Nomes japoneses e ordem dos personagens preservados.
@@ -23,7 +24,7 @@ Abra `Iniciar-Revisao.cmd` com dois cliques. O aplicativo reconstrói a ROM, ver
 Use Python 3.10 ou mais recente e sua própria ROM japonesa original, sem modificações. O programa cria uma cópia e não sobrescreve arquivos existentes.
 
 ```sh
-python tools/apply_patch.py --rom "/caminho/original.gba" --patch patches/Beyblade-AHEJ-English-v148-EXPERIMENTAL.ips --output "/caminho/Beyblade-English-v148.gba"
+python tools/apply_patch.py --rom "/caminho/original.gba" --patch patches/Beyblade-AHEJ-English-v150-EXPERIMENTAL.ips --output "/caminho/Beyblade-English-v150.gba"
 ```
 
 SHA-256 exigido para a ROM original:

@@ -7,11 +7,14 @@ project = json.loads((root / 'project.json').read_text('utf-8'))
 dialogue = json.loads((root / 'translations/dialogue-en.json').read_text('utf-8'))
 menus = json.loads((root / 'translations/menus-en.json').read_text('utf-8'))
 battle = json.loads((root / 'translations/battle-en.json').read_text('utf-8'))
+structured = json.loads((root / 'translations/structured-menus-en.json').read_text('utf-8'))
 print(json.dumps({
     'version': project['version'],
     'translated_speeches': sum(map(len, dialogue.values())),
     'translated_scenes': len(dialogue),
     'translated_ui_strings': len(menus),
+    'translated_structured_resources': len(structured['entries']),
+    'translated_structured_strings': sum(len(entry['english']) for entry in structured['entries']),
     'translated_battle_resources': len(battle),
     'translated_battle_pages': sum(len(e['english_pages']) for e in battle),
     'scene_ids': list(map(int, dialogue)),

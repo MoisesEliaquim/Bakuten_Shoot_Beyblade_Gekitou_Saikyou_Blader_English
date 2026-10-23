@@ -15,6 +15,7 @@ rom = args.rom.resolve()
 stem = json.loads((tools.parent / 'project.json').read_text('utf-8'))['artifact_stem']
 common = ['--rom', str(rom), '--output-dir', str(output)]
 for script, extra in [('build_dialogue.py', ['--narrow']),
+                       ('build_structured.py', []),
                        ('build_ui.py', ['--output-stem', stem]),
                        ('verify_patch.py', [stem])]:
     subprocess.run([sys.executable, str(tools / script), *common, *extra], check=True)

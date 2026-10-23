@@ -1,6 +1,6 @@
 # Publication notes
 
-The public GitHub repository has been created, but the local project files have not been pushed yet. GitHub Pages and a release have not been created.
+The GitHub repository tracks the experimental v1.50 project. No GitHub Release or GitHub Pages site has been created. The project has no selected license; do not imply permission to reuse or redistribute beyond the repository's stated terms.
 
 GitHub repository description to use when creating the repository:
 
@@ -11,10 +11,10 @@ Repository content is being limited to the current IPS patch, editable translati
 Before making a public release:
 
 1. Choose a project license and authorship policy before accepting contributions; the GitHub repository currently has no license.
-2. Rebuild with the exact source ROM and verify the generated v148 patch if translation sources change.
+2. Rebuild with the exact source ROM and verify the generated v150 patch if translation sources change.
 3. Review translated lines and record uncertainties or partial visual checks.
 4. Inspect staged files. Exclude ROMs, saves, emulator binaries, caches, logs, build output, and private references. `.gitignore` is a safeguard, not a substitute for reviewing the staged file list.
-5. Keep `docs/PROGRESS.md` and `patches/release-v148.json` aligned with actual validation.
+5. Keep `docs/PROGRESS.md` and `patches/release-v150.json` aligned with actual validation.
 6. Label releases experimental. Do not claim a complete translation or full-game test.
 
 The README can serve as the first project page. GitHub Pages can be added later if a separate website becomes useful.

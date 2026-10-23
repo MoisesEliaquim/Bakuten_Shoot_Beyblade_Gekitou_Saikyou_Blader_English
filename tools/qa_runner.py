@@ -102,7 +102,7 @@ def execute(args):
         output=ROOT/'build'/(project['artifact_stem']+'.gba')
         data=output.read_bytes();report['patched_sha256']=digest(data)
         report['automatic_build_and_ips']='passed'
-        engine=b''.join((ROOT/'tools'/name).read_bytes() for name in ['build_dialogue.py','build_ui.py','battle_patch.py','qa_emulator.py','qa_runner.py'])
+        engine=b''.join((ROOT/'tools'/name).read_bytes() for name in ['build_dialogue.py','build_structured.py','build_ui.py','battle_patch.py','qa_emulator.py','qa_runner.py'])
         profile=digest(engine+core.read_bytes()+state.read_bytes()+str(args.battle_frames).encode())
         selected,cache,candidates=select_resources(args.kind,args.count,args.scope,profile,args.resources)
         report['resource_filter']=args.resources
@@ -130,7 +130,10 @@ def execute(args):
                     trim=4 if context_data.endswith(b'WWEE') else 2 if context_data.endswith(b'EE') else 0
                     assert trim,'Unsupported headerless-scene test context ending.'
                     payload=context_data[:-trim]+b'PP'+data[offset:offset+e['bytes']]
-                    offset=0x4F0000
+                    # Structured group-1 fixtures occupy 0x4F0000–0x4FFFFF.
+                    # Place story continuations in the remaining gap before battle data.
+                    offset=0x4F1000
+                    assert offset+len(payload)<=0x500000,'Headerless story fixture exceeds its reserved test gap.'
                     assert all(v==255 for v in fixture[offset:offset+len(payload)])
                     fixture[offset:offset+len(payload)]=payload
                 struct.pack_into('<I',fixture,0x31CD4C+353*4,offset-0x31CD4C)

@@ -1,0 +1,324 @@
+{
+  "entries": [
+    {
+      "resource": 0,
+      "japanese": [
+        "＄　町田天満宮"
+      ],
+      "english": [
+        "$ Machida Tenmangu"
+      ]
+    },
+    {
+      "resource": 3,
+      "japanese": [
+        "＄マクドナルド",
+        "ドトール",
+        "＄スターバックス",
+        "＄キャラチェック",
+        "＄ショック"
+      ],
+      "english": [
+        "$ McDonald's",
+        "Doutor",
+        "$ Starbucks",
+        "$ Character Check",
+        "$ Shock"
+      ]
+    },
+    {
+      "resource": 9,
+      "japanese": [
+        "はい",
+        "いいえ"
+      ],
+      "english": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "resource": 12,
+      "japanese": [
+        "＄ビッグマッグ",
+        "＄マックシェイク",
+        "＄アイスコーヒー"
+      ],
+      "english": [
+        "$ Big Mac",
+        "$ McShake",
+        "$ Iced Coffee"
+      ]
+    },
+    {
+      "resource": 17,
+      "japanese": [
+        "店内",
+        "持ち帰り"
+      ],
+      "english": [
+        "For Here",
+        "To Go"
+      ]
+    },
+    {
+      "resource": 20,
+      "japanese": [
+        "＄アイスコーヒー",
+        "＄アイスラテ",
+        "＄アイスココア",
+        "＄ベーグルサンド"
+      ],
+      "english": [
+        "$ Iced Coffee",
+        "$ Iced Latte",
+        "$ Iced Cocoa",
+        "$ Bagel Sandwich"
+      ]
+    },
+    {
+      "resource": 29,
+      "japanese": [
+        "＄アイスコーヒー",
+        "＄アイスカフェモカ",
+        "＄キャラメルマキア"
+      ],
+      "english": [
+        "$ Iced Coffee",
+        "$ Iced Cafe Mocha",
+        "$ Caramel Macchiato"
+      ]
+    },
+    {
+      "resource": 35,
+      "japanese": [
+        "次に進む",
+        "前に戻る"
+      ],
+      "english": [
+        "Next",
+        "Back"
+      ]
+    },
+    {
+      "resource": 38,
+      "japanese": [
+        "次に進む",
+        "前に戻る"
+      ],
+      "english": [
+        "Next",
+        "Back"
+      ]
+    },
+    {
+      "resource": 41,
+      "japanese": [
+        "次に進む",
+        "前に戻る"
+      ],
+      "english": [
+        "Next",
+        "Back"
+      ]
+    },
+    {
+      "resource": 44,
+      "japanese": [
+        "次に進む",
+        "前に戻る"
+      ],
+      "english": [
+        "Next",
+        "Back"
+      ]
+    },
+    {
+      "resource": 47,
+      "japanese": [
+        "次に進む",
+        "前に戻る"
+      ],
+      "english": [
+        "Next",
+        "Back"
+      ]
+    },
+    {
+      "resource": 50,
+      "japanese": [
+        "次に進む",
+        "前に戻る"
+      ],
+      "english": [
+        "Next",
+        "Back"
+      ]
+    },
+    {
+      "resource": 53,
+      "japanese": [
+        "次に進む",
+        "前に戻る"
+      ],
+      "english": [
+        "Next",
+        "Back"
+      ]
+    },
+    {
+      "resource": 56,
+      "japanese": [
+        "次に進む",
+        "前に戻る"
+      ],
+      "english": [
+        "Next",
+        "Back"
+      ]
+    },
+    {
+      "resource": 59,
+      "japanese": [
+        "次に進む",
+        "前に戻る"
+      ],
+      "english": [
+        "Next",
+        "Back"
+      ]
+    },
+    {
+      "resource": 62,
+      "japanese": [
+        "次に進む",
+        "前に戻る"
+      ],
+      "english": [
+        "Next",
+        "Back"
+      ]
+    },
+    {
+      "resource": 65,
+      "japanese": [
+        "次に進む",
+        "前に戻る"
+      ],
+      "english": [
+        "Next",
+        "Back"
+      ]
+    },
+    {
+      "resource": 68,
+      "japanese": [
+        "次に進む",
+        "前に戻る"
+      ],
+      "english": [
+        "Next",
+        "Back"
+      ]
+    },
+    {
+      "resource": 71,
+      "japanese": [
+        "次に進む",
+        "前に戻る"
+      ],
+      "english": [
+        "Next",
+        "Back"
+      ]
+    },
+    {
+      "resource": 74,
+      "japanese": [
+        "次に進む",
+        "前に戻る"
+      ],
+      "english": [
+        "Next",
+        "Back"
+      ]
+    },
+    {
+      "resource": 77,
+      "japanese": [
+        "次に進む",
+        "前に戻る"
+      ],
+      "english": [
+        "Next",
+        "Back"
+      ]
+    },
+    {
+      "resource": 80,
+      "japanese": [
+        "次に進む",
+        "前に戻る"
+      ],
+      "english": [
+        "Next",
+        "Back"
+      ]
+    },
+    {
+      "resource": 83,
+      "japanese": [
+        "次に進む",
+        "前に戻る"
+      ],
+      "english": [
+        "Next",
+        "Back"
+      ]
+    },
+    {
+      "resource": 86,
+      "japanese": [
+        "次に進む",
+        "前に戻る"
+      ],
+      "english": [
+        "Next",
+        "Back"
+      ]
+    },
+    {
+      "resource": 89,
+      "japanese": [
+        "次に進む",
+        "前に戻る"
+      ],
+      "english": [
+        "Next",
+        "Back"
+      ]
+    },
+    {
+      "resource": 92,
+      "japanese": [
+        "次に進む",
+        "前に戻る"
+      ],
+      "english": [
+        "Next",
+        "Back"
+      ]
+    },
+    {
+      "resource": 95,
+      "japanese": [
+        "次に進む",
+        "前に戻る"
+      ],
+      "english": [
+        "Next",
+        "Back"
+      ]
+    }
+  ]
+}

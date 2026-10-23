@@ -54,11 +54,12 @@ for scene, messages in translations.items():
     else:
         raise AssertionError('Unsupported scene ending')
     expected_speakers = [match.group(1)[0] for match in re.finditer(rb'FF([\x00-\x3f])\x00', original_scene)]
-    if headerless:
-        # A null speaker preserves a continuation's inherited portrait state.
-        assert not expected_speakers, 'Mixed headerless/headered resource unsupported'
-        expected_speakers = [None]
-    assert expected_speakers == [message['speaker'] for message in messages], f'Speaker mismatch in scene {scene}'
+    translated_speakers = [message['speaker'] for message in messages if message['speaker'] is not None]
+    if expected_speakers:
+        # A null speaker preserves the inherited portrait until an inline FF command.
+        assert expected_speakers == translated_speakers, f'Speaker mismatch in scene {scene}'
+    else:
+        assert all(message['speaker'] is None for message in messages), f'Unexpected speaker in headerless scene {scene}'
     # Refuse to replace scenes containing commands not supported by this builder.
     position = 0
     name_commands = 0

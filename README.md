@@ -8,8 +8,9 @@ This experimental project is shared as an IPS patch and editable sources. It was
 
 ## Current progress
 
-- **585 translated speeches across 307 scenes.**
+- **587 translated speeches across 308 scenes.**
 - **816 translated interface strings.**
+- **62 structured location, shop, and navigation strings across 28 resources.**
 - **837 translated battle resources across 1,259 pages.**
 - Built-in narrow Latin font, with up to 24 characters per line and extra dialogue pages.
 - Original Japanese character names and speaker order preserved.
@@ -32,7 +33,7 @@ Supported original SHA-256:
 ```
 
 ```sh
-python tools/apply_patch.py --rom "/path/to/original.gba" --patch patches/Beyblade-AHEJ-English-v148-EXPERIMENTAL.ips --output "/path/to/Beyblade-English-v148.gba"
+python tools/apply_patch.py --rom "/path/to/original.gba" --patch patches/Beyblade-AHEJ-English-v150-EXPERIMENTAL.ips --output "/path/to/Beyblade-English-v150.gba"
 ```
 
 The original file must be unmodified. The patcher rejects other hashes and refuses to overwrite existing output files. Open the resulting `.gba` with a GBA emulator. Tests so far used the mGBA libretro core; compatibility with other emulators and hardware is not established.

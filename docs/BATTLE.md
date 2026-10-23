@@ -1,4 +1,4 @@
-# Battle text, version 0.18
+# Battle text — current status v1.48
 
 Battle text uses resource group 2, whose relative-pointer base is file offset `0x32AACC`. It is separate from group 1, used by the existing story/result translation.
 
@@ -7,7 +7,9 @@ Battle text uses resource group 2, whose relative-pointer base is file offset `0
 | `きあいバッチリ / ぜんかいでいこうぜっ！` | 678 | `0x33739C` |
 | `N1∝！？ / そろそろ本気をださないと` and its following page | 843 | `0x33900C` |
 
-The editable source is `translations/battle-en.json`. Version 0.18 translates 90 resources: 0–17, 675–731, 735–737, and 834–845. These include early Daichi launch/attack lines, recurring selection and defeat reactions, and DJ commentary. The remaining group-2 resources are not claimed translated.
+A fonte editável `translations/battle-en.json` cobre 837 recursos com texto da tabela do grupo 2, total de 1.259 páginas. A varredura dos índices 0–846 encontrou os 837 recursos com texto traduzidos; dez entradas não têm texto. O recurso 846 contém apenas espaço e comandos de controle. Isso cobre o conteúdo textual enumerado nessa tabela, mas não confirma todos os acionamentos naturais ou todos os eventos do jogo.
+
+Na QA v1.48, o build e a verificação independente do IPS passaram. As fixtures dos recursos 42, 43 e 674 foram revisadas visualmente; uma página útil apareceu por recurso e o restante foi validado estruturalmente. A substituição de RAM usada pela QA não prova acionamento natural.
 
 `tools/battle_patch.py`, invoked by `build_ui.py`, relocates these streams into the reserved pool beginning at `0x500000`. It checks the original pages and dynamic-name sequence and retains `FF` parameters, `WF` wait values, `PP`, and the complete `EE` tail, including metadata. `KK` line wrapping can change. The optional `∝` marker adds a Japanese honorific after a name; the English stream omits that marker and retains the runtime `N1`/`N2` command.
 

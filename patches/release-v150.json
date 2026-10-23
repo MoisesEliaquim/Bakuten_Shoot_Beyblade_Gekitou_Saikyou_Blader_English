@@ -1,0 +1,29 @@
+{
+  "version": "1.50-experimental",
+  "game_code": "AHEJ",
+  "source_sha256": "58b7ad86fae87e572e8474eb935ecda165e71c741096cd687f96bed96fbba05c",
+  "patched_rom_sha256": "5c45c88f5f731001217650500a0b75805d8cbf6abeaa14d80cc0631b5f4eab39",
+  "patch_sha256": "083c7d0118b1f3348751f7b04723c57b9dafb6e0da9aebfcae07d266db8620af",
+  "translated_speeches": 587,
+  "translated_scenes": 308,
+  "translated_ui_strings": 816,
+  "status": "local_draft_unpublished",
+  "tested_scene_ids": [],
+  "validation": "Portable v1.50 build and independent IPS verification passed (2289 records). Scene 312 passed command, speaker-sequence, CP932, width, and allocation checks. The single visual QA execution completed but remained on the preloaded Japanese scene 353, so none of the new English text was visually confirmed. Natural triggering and full-game behavior remain unverified.",
+  "translated_battle_resources": 837,
+  "translated_battle_pages": 1259,
+  "tested_battle_resources": [
+    42,
+    43,
+    674
+  ],
+  "translated_structured_resources": 28,
+  "translated_structured_strings": 62,
+  "visual_structured_samples": [
+    "$ Machida Tenmangu",
+    "$ McDonald's",
+    "$ Caramel Macchiato"
+  ],
+  "structured_sample_method": "Test-only story-dialogue fixture confirmed glyphs and narrow-font rendering; it did not validate menu-list layout or natural triggers.",
+  "structured_menu_layout_verified": false
+}

@@ -8,8 +8,8 @@ The resource loader at `0x08002B30` reads a group pointer, then a 32-bit little-
 
 | Group | Base file offset | Notes |
 | --- | --- | --- |
-| 1 | `0x31CD4C` | Story resources, including the translated scenes |
-| 2 | `0x32AACC` | Other dialogue resources; not fully mapped |
+| 1 | `0x31CD4C` | Story and structured menu/event resources. Scenes 308–616 are the translated dialogue range. Resources 0, 3, 9, 12, 17, 20, 29, and 35–95 (step 3) have a 62-string English draft in `structured-menus-en.json`; `build_structured.py` relocates the complete records and rewrites their text and group-1 pointers, preserving the observed control bytes. Visual behavior of these option lists remains unverified. |
+| 2 | `0x32AACC` | Tabela de falas de batalha: 837 recursos com texto estão traduzidos em 1.259 páginas; acionamentos naturais e semântica completa dos eventos seguem sem verificação integral. |
 
 For group 1, the entry for scene `n` is at `0x31CD4C + 4*n`. The target is the group base plus the stored offset. Resource boundaries must not be inferred solely from a text search.
 
@@ -25,7 +25,7 @@ Text uses two-byte CP932/Shift-JIS characters. The game's fullwidth Latin charac
 | `57 57` | `WW` | End/wait-related marker; preserve its context |
 | `45 45` | `EE` | Scene termination in the tested combinations |
 
-The builder currently accepts scenes ending in `WWEE` and preserves speaker order. It intentionally rejects other command types. `N1` occurs in untranslated scenes as a runtime name-related command; its full semantics and safe wrapping are not implemented. These observations are not a complete specification for all game interpreters.
+The builder accepts scenes ending in `WWEE` and preserves speaker order, including transitions from inherited speaker state to an inline `FF` speaker command (observed in scene 312). It intentionally rejects other command types. `N1` occurs in untranslated scenes as a runtime name-related command; its full semantics and safe wrapping are not implemented. These observations are not a complete specification for all game interpreters.
 
 ## The `.tbl` file
 
