@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="pt-BR"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Beyblade · Revisão local</title><style>[hidden]{display:none!important}</style>
+<style>
+:root{color-scheme:dark;font:16px system-ui;background:#101821;color:#e4edf6}body{max-width:1000px;margin:40px auto;padding:0 24px}h1{font-size:30px;margin-bottom:6px}.muted{color:#a6b8ca;line-height:1.6}.tag{color:#8ce2bd;font-size:13px;letter-spacing:1px}.panel{background:#1a2838;border:1px solid #314154;border-radius:16px;padding:24px;margin:24px 0}label{display:block;margin-bottom:16px}input,select{display:block;width:100%;box-sizing:border-box;margin-top:6px;padding:11px;background:#101c2a;color:#edf6ff;border:1px solid #496079;border-radius:8px}details{margin:18px 0}.grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:16px}button,.button{display:inline-block;border:0;border-radius:8px;padding:12px 18px;background:#83dcbd;color:#10271f;font-weight:700;cursor:pointer;text-decoration:none;margin:5px 8px 5px 0}button.secondary{background:#30445a;color:#fff}button:disabled{opacity:.4;cursor:default}pre{white-space:pre-wrap;word-break:break-word;background:#0e1722;padding:18px;border-radius:8px;min-height:100px;max-height:350px;overflow:auto}#status{font-weight:600}.busy{display:none;height:4px;background:linear-gradient(90deg,#8ce2bd,#527cb5);border-radius:5px;animation:blink 1s alternate infinite}@keyframes blink{to{opacity:.35}}@media(max-width:700px){.grid{grid-template-columns:1fr}body{margin-top:22px}}
+</style>
+<div class="tag">EXECUÇÃO OFFLINE · SEM IA NAS CAPTURAS</div>
+<h1>Beyblade · Revisão local</h1>
+<p class="muted">Construa a tradução, verifique o patch e prepare uma galeria para revisar os textos. A ROM original fica preservada.</p>
+<form id="form" class="panel">
+<div class="grid"><label>Grupo<select id="kind"><option value="battle">Batalha</option><option value="story">História</option></select></label>
+<label>Seleção<select id="scope"><option value="all">Maiores do grupo</option><option value="changed">Alterados ainda não testados</option></select></label>
+<label>Tamanho da amostra<input id="count" type="number" min="1" max="20" value="3" required></label></div>
+<p class="muted">A seleção usa o tamanho do texto codificado. Em “Alterados”, nomes dinâmicos e formatos sem cabeçalho entram além da amostra. “Testado” significa execução concluída, não revisão visual aprovada.</p>
+<label>Recursos deste lote (opcional)<input id="resources" placeholder="Ex.: 738-779,783-785"></label>
+<details><summary>Arquivos locais e estados de teste</summary>
+<p class="muted">Os caminhos deste projeto são preenchidos automaticamente. Edite-os caso mova os arquivos.</p>
+<label>ROM japonesa original<input id="rom" required></label><label>Núcleo mGBA (.dll)<input id="core" required></label>
+<label>Estado anterior à história<input id="story_state"></label><label>Estado anterior ao combate<input id="battle_state"></label></details>
+<button id="run" type="submit">Construir e verificar</button><button id="cancel" type="button" class="secondary" disabled>Cancelar após teste atual</button>
+<a id="report" class="button" hidden target="_blank">Abrir galeria</a></form>
+<div class="busy" id="busy"></div><p id="status">Carregando configuração…</p><pre id="log"></pre>
+<p class="muted">O aplicativo não avalia sozinho a fidelidade ao japonês, cortes visuais ou a campanha completa. As cenas usam testes isolados; podem incluir alguns quadros posteriores ao diálogo. Capturas idênticas são ocultadas na galeria.</p>
+<button id="shutdown" class="secondary">Encerrar aplicativo local</button>
+<script>
+const token=new URLSearchParams(location.search).get('token');const ids=['rom','core','story_state','battle_state','kind','scope','count','resources'];let running=false;
+async function api(path,body){const r=await fetch(path,{method:body?'POST':'GET',headers:{'X-Local-Token':token,'Content-Type':'application/json'},body:body?JSON.stringify(body):undefined});const d=await r.json();if(!r.ok)throw Error(d.error||'Falha local');return d}
+api('/settings').then(c=>{ids.forEach(id=>document.getElementById(id).value=c[id]);document.getElementById('status').textContent='Pronto para executar.'}).catch(e=>document.getElementById('status').textContent=e.message);
+document.getElementById('form').onsubmit=async e=>{e.preventDefault();const c=Object.fromEntries(ids.map(id=>[id,document.getElementById(id).value]));try{await api('/run',c);document.getElementById('status').textContent='Iniciando…'}catch(e){document.getElementById('status').textContent=e.message}};
+document.getElementById('cancel').onclick=()=>api('/cancel',{}).catch(e=>alert(e.message));
+document.getElementById('shutdown').onclick=async()=>{try{await api('/shutdown',{});clearInterval(timer);document.getElementById('status').textContent='Aplicativo encerrado. Você pode fechar esta aba.';document.getElementById('run').disabled=true}catch(e){alert(e.message)}};
+const timer=setInterval(async()=>{try{const s=await api('/status');running=s.running;document.getElementById('run').disabled=running;document.getElementById('cancel').disabled=!running;document.getElementById('busy').style.display=running?'block':'none';document.getElementById('log').textContent=s.lines.join('\n');if(s.lines.length)document.getElementById('status').textContent=running?s.lines.at(-1):(s.exit_code===0?'Execução concluída. Abra a galeria para revisar.':'Falha: consulte o registro.');const a=document.getElementById('report');a.hidden=!s.report;if(s.report)a.href='/report/report.html?token='+encodeURIComponent(token)}catch{}},800);
+</script></html>

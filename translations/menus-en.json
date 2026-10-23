@@ -1,0 +1,7784 @@
+[
+  {
+    "offset": "0x46A1C",
+    "japanese": "ベイブレードずかん",
+    "english": "Bey Guide",
+    "pointers": [
+      "0x26660"
+    ]
+  },
+  {
+    "offset": "0x46A30",
+    "japanese": "どのカテゴリのデータをみますか？　",
+    "english": "Which category?",
+    "pointers": [
+      "0x26668",
+      "0x27E0C"
+    ]
+  },
+  {
+    "offset": "0x46A54",
+    "japanese": "　　　アタックリングパーツ　　　　",
+    "english": "Attack Ring Parts",
+    "pointers": [
+      "0x2666C",
+      "0x27BA4"
+    ]
+  },
+  {
+    "offset": "0x46A78",
+    "japanese": "　　　　データがありません　　　　",
+    "english": "     No data     ",
+    "pointers": [
+      "0x26BB8"
+    ]
+  },
+  {
+    "offset": "0x46AC8",
+    "japanese": "　　　ウエイトディスクパーツ　　　",
+    "english": "Weight Disk Parts",
+    "pointers": [
+      "0x27BC8"
+    ]
+  },
+  {
+    "offset": "0x46AEC",
+    "japanese": "　　　ブレードベースパーツ　　　　",
+    "english": "Blade Base Parts",
+    "pointers": [
+      "0x27C44"
+    ]
+  },
+  {
+    "offset": "0x46D60",
+    "japanese": "これでいいですか？",
+    "english": "Confirm?",
+    "pointers": [
+      "0x29A18"
+    ]
+  },
+  {
+    "offset": "0x46D74",
+    "japanese": "は　い　　いいえ",
+    "english": "Yes  No",
+    "pointers": [
+      "0x29A20"
+    ]
+  },
+  {
+    "offset": "0x46D88",
+    "japanese": "←→：せんたく",
+    "english": "←→Pick",
+    "pointers": [
+      "0x29A58"
+    ]
+  },
+  {
+    "offset": "0x46D98",
+    "japanese": "Ａ　：けってい",
+    "english": "A : OK",
+    "pointers": [
+      "0x29A60"
+    ]
+  },
+  {
+    "offset": "0x46DA8",
+    "japanese": "シューター・セレクト",
+    "english": "Shooter",
+    "pointers": [
+      "0x29B34"
+    ]
+  },
+  {
+    "offset": "0x46DC0",
+    "japanese": "パワー　　：",
+    "english": "Power:",
+    "pointers": [
+      "0x29B3C"
+    ]
+  },
+  {
+    "offset": "0x46DD0",
+    "japanese": "シンクロ　：",
+    "english": "Sync :",
+    "pointers": [
+      "0x29B48"
+    ]
+  },
+  {
+    "offset": "0x4666c",
+    "japanese": "レベル　　：",
+    "english": "Level:",
+    "pointers": [
+      "0x1ef20"
+    ]
+  },
+  {
+    "offset": "0x4667c",
+    "japanese": "タイプ　　：",
+    "english": "Type :",
+    "pointers": [
+      "0x1ef30"
+    ]
+  },
+  {
+    "offset": "0x4668c",
+    "japanese": "ビット　　：",
+    "english": "Bit  :",
+    "pointers": [
+      "0x1ef3c"
+    ]
+  },
+  {
+    "offset": "0x4669c",
+    "japanese": "パワー　　：",
+    "english": "Power:",
+    "pointers": [
+      "0x1ef44"
+    ]
+  },
+  {
+    "offset": "0x466ac",
+    "japanese": "シンクロ　：",
+    "english": "Sync :",
+    "pointers": [
+      "0x1ef54"
+    ]
+  },
+  {
+    "offset": "0x466bc",
+    "japanese": "けいけんち：",
+    "english": "Exp  :",
+    "pointers": [
+      "0x1ef60",
+      "0x1efe4"
+    ]
+  },
+  {
+    "offset": "0x467a4",
+    "japanese": "　　ベイブレード・ステータス　　　",
+    "english": "Beyblade Stats",
+    "pointers": [
+      "0x20ab0"
+    ]
+  },
+  {
+    "offset": "0x46970",
+    "japanese": "　ベイブレード・セッティング　",
+    "english": " Beyblade Setup",
+    "pointers": [
+      "0x24058"
+    ]
+  },
+  {
+    "offset": "0x46730",
+    "japanese": "キャラクターステータス２",
+    "english": "Char.Stats 2",
+    "pointers": [
+      "0x1fe88"
+    ]
+  },
+  {
+    "offset": "0x468f0",
+    "japanese": "　　ベイブレード・セレクト　　",
+    "english": "   Beyblade    ",
+    "pointers": [
+      "0x21c58"
+    ]
+  },
+  {
+    "offset": "0x46d1c",
+    "japanese": "なまえ：",
+    "english": "Name",
+    "pointers": [
+      "0x287e4"
+    ]
+  },
+  {
+    "offset": "0x46de8",
+    "japanese": "　アタックリング・セッティング",
+    "english": "Ring Setup",
+    "pointers": [
+      "0x2a9f0"
+    ]
+  },
+  {
+    "offset": "0x46e08",
+    "japanese": "ウェイトディスク・セッティング",
+    "english": "Disk Setup",
+    "pointers": [
+      "0x2aa00"
+    ]
+  },
+  {
+    "offset": "0x46e28",
+    "japanese": "　ブレードベース・セッティング",
+    "english": "Base Setup",
+    "pointers": [
+      "0x2aa14"
+    ]
+  },
+  {
+    "offset": "0x46f74",
+    "japanese": "ビット：",
+    "english": "Bit:",
+    "pointers": [
+      "0x2fda4"
+    ]
+  },
+  {
+    "offset": "0x46f80",
+    "japanese": "レベル：",
+    "english": "Lv.:",
+    "pointers": [
+      "0x2fdac"
+    ]
+  },
+  {
+    "offset": "0x46f8c",
+    "japanese": "パワー：",
+    "english": "Pow:",
+    "pointers": [
+      "0x2fdb4"
+    ]
+  },
+  {
+    "offset": "0x46f98",
+    "japanese": "シンクロ：",
+    "english": "Sync:",
+    "pointers": [
+      "0x2fdbc"
+    ]
+  },
+  {
+    "offset": "0x4713c",
+    "japanese": "ビット：",
+    "english": "Bit:",
+    "pointers": [
+      "0x35cd4"
+    ]
+  },
+  {
+    "offset": "0x47148",
+    "japanese": "レベル：",
+    "english": "Lv.:",
+    "pointers": [
+      "0x35cdc"
+    ]
+  },
+  {
+    "offset": "0x47154",
+    "japanese": "パワー：",
+    "english": "Pow:",
+    "pointers": [
+      "0x35ce4"
+    ]
+  },
+  {
+    "offset": "0x47160",
+    "japanese": "シンクロ：",
+    "english": "Sync:",
+    "pointers": [
+      "0x35cec"
+    ]
+  },
+  {
+    "offset": "0x465e4",
+    "japanese": "ひっさつ",
+    "english": "Special",
+    "pointers": [
+      "0x1a3a0"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x465f0",
+    "japanese": "かいひ",
+    "english": "Evade",
+    "pointers": [
+      "0x1a3ec"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x465f8",
+    "japanese": "ガード",
+    "english": "Guard",
+    "pointers": [
+      "0x1a3f0"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x46600",
+    "japanese": "カウンター",
+    "english": "Counter",
+    "pointers": [
+      "0x1a3f4"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x42200",
+    "japanese": "ダイチ",
+    "english": "Daichi",
+    "pointers": [
+      "0x1212ec",
+      "0x131c14"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x421d4",
+    "japanese": "タカオ",
+    "english": "Takao",
+    "pointers": [
+      "0x12138c",
+      "0x131c24"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x421b0",
+    "japanese": "カイ",
+    "english": "Kai",
+    "pointers": [
+      "0x12142c",
+      "0x131c34"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x42190",
+    "japanese": "レイ",
+    "english": "Rei",
+    "pointers": [
+      "0x1214cc",
+      "0x131c44"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x42164",
+    "japanese": "マックス",
+    "english": "Max",
+    "pointers": [
+      "0x12156c",
+      "0x131c54"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x42150",
+    "japanese": "ノブオ",
+    "english": "Nobuo",
+    "pointers": [
+      "0x121608",
+      "0x12160c",
+      "0x131c64"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x42148",
+    "japanese": "アキラ",
+    "english": "Akira",
+    "pointers": [
+      "0x1216a8",
+      "0x1216ac",
+      "0x131c6c"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x4213c",
+    "japanese": "セーイチ",
+    "english": "Seiichi",
+    "pointers": [
+      "0x121748",
+      "0x12174c",
+      "0x131c74"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x42130",
+    "japanese": "マイケル",
+    "english": "Michael",
+    "pointers": [
+      "0x1217e8",
+      "0x1217ec",
+      "0x131c7c"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x4211c",
+    "japanese": "ラルフ",
+    "english": "Ralf",
+    "pointers": [
+      "0x121888",
+      "0x12188c",
+      "0x131c84"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x42104",
+    "japanese": "ユーリ",
+    "english": "Yuri",
+    "pointers": [
+      "0x121928",
+      "0x12192c",
+      "0x131c8c"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x420f0",
+    "japanese": "ライ",
+    "english": "Rai",
+    "pointers": [
+      "0x1219c8",
+      "0x1219cc",
+      "0x131c94"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x420dc",
+    "japanese": "マオ",
+    "english": "Mao",
+    "pointers": [
+      "0x121a68",
+      "0x121a6c",
+      "0x131c9c"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x420c8",
+    "japanese": "キキ",
+    "english": "Kiki",
+    "pointers": [
+      "0x121b08",
+      "0x121b0c",
+      "0x131ca4"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x42088",
+    "japanese": "カオル",
+    "english": "Kaoru",
+    "pointers": [
+      "0x121c4c",
+      "0x131cac"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44c60",
+    "japanese": "かいひ",
+    "english": "Evade",
+    "pointers": [
+      "0x12ceb4",
+      "0x12d058",
+      "0x12d1fc",
+      "0x12d3a0",
+      "0x12d544",
+      "0x12d6e8",
+      "0x12d88c",
+      "0x12da30",
+      "0x12dbd4",
+      "0x12dd78",
+      "0x12df1c",
+      "0x12e0c0",
+      "0x12e264",
+      "0x12e408",
+      "0x12e750"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x44c44",
+    "japanese": "ガード",
+    "english": "Guard",
+    "pointers": [
+      "0x12ceec",
+      "0x12d090",
+      "0x12d234",
+      "0x12d3d8",
+      "0x12d57c",
+      "0x12d720",
+      "0x12d8c4",
+      "0x12da68",
+      "0x12dc0c",
+      "0x12ddb0",
+      "0x12df54",
+      "0x12e0f8",
+      "0x12e29c",
+      "0x12e440",
+      "0x12e788"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x44cb8",
+    "japanese": "アタック",
+    "english": "Attack",
+    "pointers": [
+      "0x12ce0c",
+      "0x12cf24",
+      "0x12cfb0",
+      "0x12d0c8",
+      "0x12d154",
+      "0x12d26c",
+      "0x12d2f8",
+      "0x12d410",
+      "0x12d49c",
+      "0x12d5b4",
+      "0x12d640",
+      "0x12d7e4",
+      "0x12d8fc",
+      "0x12d988",
+      "0x12daa0",
+      "0x12db2c",
+      "0x12dc44",
+      "0x12dcd0",
+      "0x12dde8",
+      "0x12de74",
+      "0x12df8c",
+      "0x12e018",
+      "0x12e130",
+      "0x12e1bc",
+      "0x12e2d4",
+      "0x12e360",
+      "0x12e478",
+      "0x12e6a8",
+      "0x12e7c0"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x44ca4",
+    "japanese": "ジャンプアタック",
+    "english": "Jump Attack",
+    "pointers": [
+      "0x12ce28",
+      "0x12cfcc",
+      "0x12d170",
+      "0x12d314",
+      "0x12d4b8",
+      "0x12d65c",
+      "0x12d800",
+      "0x12d9a4",
+      "0x12db48",
+      "0x12dcec",
+      "0x12de90",
+      "0x12e034",
+      "0x12e1d8",
+      "0x12e37c",
+      "0x12e6c4"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x44c90",
+    "japanese": "スーパーアタック",
+    "english": "Super Attack",
+    "pointers": [
+      "0x12ce44",
+      "0x12cfe8",
+      "0x12d18c",
+      "0x12d330",
+      "0x12d4d4",
+      "0x12d678",
+      "0x12d81c",
+      "0x12d9c0",
+      "0x12db64",
+      "0x12dd08",
+      "0x12deac",
+      "0x12e050",
+      "0x12e1f4",
+      "0x12e398",
+      "0x12e6e0"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x44cc8",
+    "japanese": "スパークシュート",
+    "english": "Spark Shot",
+    "pointers": [
+      "0x12cdd4"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x44cdc",
+    "japanese": "シュート",
+    "english": "Launch",
+    "pointers": [
+      "0x12cdb8",
+      "0x12cf5c",
+      "0x12d100",
+      "0x12d2a4",
+      "0x12d448",
+      "0x12d5ec",
+      "0x12d790",
+      "0x12d934",
+      "0x12dad8",
+      "0x12dc7c",
+      "0x12de20",
+      "0x12dfc4",
+      "0x12e168",
+      "0x12e30c",
+      "0x12e654"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x465d8",
+    "japanese": "こうげき",
+    "english": "ATK",
+    "pointers": [
+      "0x1A39C"
+    ],
+    "max_chars": 4
+  },
+  {
+    "offset": "0x4660c",
+    "japanese": "イベント",
+    "english": "Evt",
+    "pointers": [
+      "0x1443FC"
+    ],
+    "max_chars": 4
+  },
+  {
+    "offset": "0x46618",
+    "japanese": "じきゅう",
+    "english": "STA",
+    "pointers": [
+      "0x1443F8"
+    ],
+    "max_chars": 4
+  },
+  {
+    "offset": "0x46624",
+    "japanese": "スピード",
+    "english": "SPD",
+    "pointers": [
+      "0x1443F4"
+    ],
+    "max_chars": 4
+  },
+  {
+    "offset": "0x46630",
+    "japanese": "バランス",
+    "english": "BAL",
+    "pointers": [
+      "0x1443F0"
+    ],
+    "max_chars": 4
+  },
+  {
+    "offset": "0x4663c",
+    "japanese": "こうげき",
+    "english": "ATK",
+    "pointers": [
+      "0x1443EC"
+    ],
+    "max_chars": 4
+  },
+  {
+    "offset": "0x467f0",
+    "japanese": "ぶんかい",
+    "english": "Dism",
+    "pointers": [
+      "0x21A10"
+    ],
+    "max_chars": 4
+  },
+  {
+    "offset": "0x467fc",
+    "japanese": "ブースターをえらんでください　",
+    "english": "Pick a booster",
+    "pointers": [
+      "0x21A64"
+    ],
+    "max_chars": 15
+  },
+  {
+    "offset": "0x4681c",
+    "japanese": "　　　ブースター：　　　　　　",
+    "english": "Booster:",
+    "pointers": [
+      "0x21A6C"
+    ],
+    "max_chars": 15
+  },
+  {
+    "offset": "0x4683c",
+    "japanese": "　こうもくをえらんでください　",
+    "english": "Select an item",
+    "pointers": [
+      "0x21AA8"
+    ],
+    "max_chars": 15
+  },
+  {
+    "offset": "0x4685c",
+    "japanese": "カスタム　　なまえ　　ぶんかい",
+    "english": "Edit Name Split",
+    "pointers": [
+      "0x21AB0"
+    ],
+    "max_chars": 15
+  },
+  {
+    "offset": "0x4687c",
+    "japanese": "ブースターをぶんかいしますか？",
+    "english": "Split booster?",
+    "pointers": [
+      "0x21AE4"
+    ],
+    "max_chars": 15
+  },
+  {
+    "offset": "0x4689c",
+    "japanese": "　　　は　い　　いいえ　　　　",
+    "english": "Yes   No",
+    "pointers": [
+      "0x21AEC"
+    ],
+    "max_chars": 15
+  },
+  {
+    "offset": "0x468bc",
+    "japanese": "どのパーツをカスタムしますか？",
+    "english": "Select part",
+    "pointers": [
+      "0x21B20"
+    ],
+    "max_chars": 15
+  },
+  {
+    "offset": "0x47054",
+    "japanese": "接続をチェックします",
+    "english": "Check link",
+    "pointers": [
+      "0x35068"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x4706c",
+    "japanese": "接続チェック中です",
+    "english": "Linking",
+    "pointers": [
+      "0x350CC"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x47080",
+    "japanese": "キャンセルされました",
+    "english": "Cancelled",
+    "pointers": [
+      "0x35294"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x47098",
+    "japanese": "接続チェック完了！！",
+    "english": "Link OK!",
+    "pointers": [
+      "0x352A8"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x470b0",
+    "japanese": "接続できませんでした",
+    "english": "Offline",
+    "pointers": [
+      "0x352C8"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x470c8",
+    "japanese": "相手がパーツ交換画面にいます",
+    "english": "Parts menu",
+    "pointers": [
+      "0x352F8"
+    ],
+    "max_chars": 14
+  },
+  {
+    "offset": "0x470e8",
+    "japanese": "ＶＳバトルできません",
+    "english": "No VS",
+    "pointers": [
+      "0x35300"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x47100",
+    "japanese": "　　通信できません",
+    "english": "No link",
+    "pointers": [
+      "0x35324"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x4718c",
+    "japanese": "　　　こうかんするパーツを　　　",
+    "english": "Choose part",
+    "pointers": [
+      "0x37BE0"
+    ],
+    "max_chars": 16
+  },
+  {
+    "offset": "0x471b0",
+    "japanese": "　　　　えらんでください　　　　",
+    "english": "to trade",
+    "pointers": [
+      "0x37BE4"
+    ],
+    "max_chars": 16
+  },
+  {
+    "offset": "0x471d4",
+    "japanese": "　　このパーツでいいですか？　　",
+    "english": "Trade this part?",
+    "pointers": [
+      "0x37C08"
+    ],
+    "max_chars": 16
+  },
+  {
+    "offset": "0x471f8",
+    "japanese": "　　　は　い　　　　いいえ　　　",
+    "english": "Yes   No",
+    "pointers": [
+      "0x37C0C"
+    ],
+    "max_chars": 16
+  },
+  {
+    "offset": "0x4721c",
+    "japanese": "　このパーツはしようちゅうです　",
+    "english": "Part in use",
+    "pointers": [
+      "0x37C30"
+    ],
+    "max_chars": 16
+  },
+  {
+    "offset": "0x47240",
+    "japanese": "　　えらびなおしてください　　　",
+    "english": "Choose another",
+    "pointers": [
+      "0x37C34"
+    ],
+    "max_chars": 16
+  },
+  {
+    "offset": "0x47264",
+    "japanese": "パーツこうかん　",
+    "english": "Trade",
+    "pointers": [
+      "0x37D38"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x472dc",
+    "japanese": "　パーツをこうかんします",
+    "english": "Traded!",
+    "pointers": [
+      "0x3A338"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x472f8",
+    "japanese": "　Ａボタンをおしてください",
+    "english": "Press A",
+    "pointers": [
+      "0x3A340"
+    ],
+    "max_chars": 13
+  },
+  {
+    "offset": "0x47314",
+    "japanese": "　通信待機中です　Ｂボタン",
+    "english": "Waiting... B",
+    "pointers": [
+      "0x3A41C"
+    ],
+    "max_chars": 13
+  },
+  {
+    "offset": "0x47330",
+    "japanese": "　でキャンセルできます",
+    "english": "to cancel",
+    "pointers": [
+      "0x3A424"
+    ],
+    "max_chars": 11
+  },
+  {
+    "offset": "0x47348",
+    "japanese": "　パーツを交換しました！",
+    "english": "Trade OK!",
+    "pointers": [
+      "0x3A45C"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x47364",
+    "japanese": "　　　通信できません",
+    "english": "Offline",
+    "pointers": [
+      "0x3A510"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x4737c",
+    "japanese": "　　キャンセルされました",
+    "english": "Cancelled",
+    "pointers": [
+      "0x3A538"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x47398",
+    "japanese": "相手がＶＳバトル画面にいます",
+    "english": "In battle",
+    "pointers": [
+      "0x3A574"
+    ],
+    "max_chars": 14
+  },
+  {
+    "offset": "0x473b8",
+    "japanese": "こうかんできません",
+    "english": "No trade",
+    "pointers": [
+      "0x3A57C"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x473d4",
+    "japanese": "　交換して、このパーツを",
+    "english": "Got part!",
+    "pointers": [
+      "0x3B3D8"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x473f0",
+    "japanese": "　ゲットしました！",
+    "english": "Got it!",
+    "pointers": [
+      "0x3B3E0"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x46170",
+    "japanese": "　　　　　へへん！　これがおいらのベイブレードだ！",
+    "english": "    Hey! My Bey is ready!",
+    "pointers": [
+      "0x132558"
+    ],
+    "max_chars": 25
+  },
+  {
+    "offset": "0x461a4",
+    "japanese": "　　　　　　　　どのベイでたたかうんだ？",
+    "english": "      Pick your Bey!",
+    "pointers": [
+      "0x13255C"
+    ],
+    "max_chars": 20
+  },
+  {
+    "offset": "0x461d0",
+    "japanese": "　　　　　　　　いくぜ！　ドラグーン！",
+    "english": "       Go, Dragoon!",
+    "pointers": [
+      "0x132560"
+    ],
+    "max_chars": 19
+  },
+  {
+    "offset": "0x461f8",
+    "japanese": "　　　　　　どれでたたかう？　ドラグーン！",
+    "english": "  Which Bey, Dragoon?",
+    "pointers": [
+      "0x132564"
+    ],
+    "max_chars": 21
+  },
+  {
+    "offset": "0x46224",
+    "japanese": "　　　　　　じゅんびはいいか？　ドランザー！",
+    "english": "      Ready, Dranzer?",
+    "pointers": [
+      "0x132568"
+    ],
+    "max_chars": 22
+  },
+  {
+    "offset": "0x46254",
+    "japanese": "　　　　　テキにゆうこうなベイをえらぶんだな",
+    "english": "     Choose a counter!",
+    "pointers": [
+      "0x13256C"
+    ],
+    "max_chars": 22
+  },
+  {
+    "offset": "0x46284",
+    "japanese": "　　　　　　　いくぞっ！　ドライガー！！",
+    "english": "   Let's go, Driger!",
+    "pointers": [
+      "0x132570"
+    ],
+    "max_chars": 20
+  },
+  {
+    "offset": "0x462b0",
+    "japanese": "　　　　　　どれでいく！？　ドライガー！？",
+    "english": "  Which Bey, Driger?",
+    "pointers": [
+      "0x132574"
+    ],
+    "max_chars": 21
+  },
+  {
+    "offset": "0x462dc",
+    "japanese": "　　　　　レッツプレイ！！　ボクのドラシエルゥ！",
+    "english": "    Let's play, Draciel!",
+    "pointers": [
+      "0x132578"
+    ],
+    "max_chars": 24
+  },
+  {
+    "offset": "0x46310",
+    "japanese": "　　　　　どれでたたかおうか？　ドラシエル！？",
+    "english": "    Pick one, Draciel!",
+    "pointers": [
+      "0x13257C"
+    ],
+    "max_chars": 23
+  },
+  {
+    "offset": "0x46340",
+    "japanese": "　　　　　　　いくぜ！　ＧＯシュートッ！",
+    "english": "    Go! GO Shoot!",
+    "pointers": [
+      "0x1325A8",
+      "0x1325B0"
+    ],
+    "max_chars": 20
+  },
+  {
+    "offset": "0x4636c",
+    "japanese": "　　　　　　ひっさつシュートもうてちゃうぞ！",
+    "english": "    Special Shots too!",
+    "pointers": [
+      "0x1325AC"
+    ],
+    "max_chars": 22
+  },
+  {
+    "offset": "0x4639c",
+    "japanese": "　　　　　　　　どのシュートでたたかう？",
+    "english": "     Which shot?",
+    "pointers": [
+      "0x1325B4"
+    ],
+    "max_chars": 20
+  },
+  {
+    "offset": "0x463c8",
+    "japanese": "　　　　　　　くらえっ！　ＧＯシュートッ！",
+    "english": "    Take this! Shoot!",
+    "pointers": [
+      "0x1325B8"
+    ],
+    "max_chars": 21
+  },
+  {
+    "offset": "0x463f4",
+    "japanese": "　　　　　　　あいてをみてシュートをえらべ",
+    "english": " Pick a counter shot.",
+    "pointers": [
+      "0x1325BC"
+    ],
+    "max_chars": 21
+  },
+  {
+    "offset": "0x46420",
+    "japanese": "　　　　　　シュートのじゅんびはいいかい？",
+    "english": "    Ready to launch?",
+    "pointers": [
+      "0x1325C0"
+    ],
+    "max_chars": 21
+  },
+  {
+    "offset": "0x4644c",
+    "japanese": "　　　　　　　　シュートをえらんでくれ！",
+    "english": "   Choose your shot!",
+    "pointers": [
+      "0x1325C4"
+    ],
+    "max_chars": 20
+  },
+  {
+    "offset": "0x46478",
+    "japanese": "　　　　　　　シュートはこれでいくよ！？",
+    "english": "    This shot it is!",
+    "pointers": [
+      "0x1325C8"
+    ],
+    "max_chars": 20
+  },
+  {
+    "offset": "0x464a4",
+    "japanese": "　　　　　　ボクたちにぴったりのシュートはどれ？",
+    "english": "    Which shot suits us?",
+    "pointers": [
+      "0x1325CC"
+    ],
+    "max_chars": 24
+  },
+  {
+    "offset": "0x46050",
+    "japanese": "アタックリング",
+    "english": "A-Ring",
+    "pointers": [
+      "0x13241C"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x46060",
+    "japanese": "ブレードベース",
+    "english": "B-Base",
+    "pointers": [
+      "0x132420"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x46070",
+    "japanese": "ウエイトディスク",
+    "english": "W-Disk",
+    "pointers": [
+      "0x132424"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x46084",
+    "japanese": "シューター",
+    "english": "Shoot",
+    "pointers": [
+      "0x132428"
+    ],
+    "max_chars": 5
+  },
+  {
+    "offset": "0x466dc",
+    "japanese": "　☆ひっさつシュート☆　",
+    "english": " ☆Special☆ ",
+    "pointers": [
+      "0x1F0D0"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x466fc",
+    "japanese": "　☆　ひっさつわざ　☆　",
+    "english": " ☆Special☆ ",
+    "pointers": [
+      "0x1F0EC"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x46754",
+    "japanese": "☆ひっさつシュート☆",
+    "english": "☆Special☆",
+    "pointers": [
+      "0x1FEA0"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x46770",
+    "japanese": "☆　ひっさつわざ　☆",
+    "english": "☆Special☆",
+    "pointers": [
+      "0x1FEB8"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x46514",
+    "japanese": "ドランザーＦ",
+    "english": "DranzF",
+    "pointers": [
+      "0x13018"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x46524",
+    "japanese": "ドライガーＦ",
+    "english": "DrigF",
+    "pointers": [
+      "0x1301C"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x46534",
+    "japanese": "ドラシエルＦ",
+    "english": "DracF",
+    "pointers": [
+      "0x13020"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x46544",
+    "japanese": "ゴルザー",
+    "english": "Golz",
+    "pointers": [
+      "0x13024"
+    ],
+    "max_chars": 4
+  },
+  {
+    "offset": "0x46090",
+    "japanese": "タイプが間違ってるよ",
+    "english": "Wrong type",
+    "pointers": [
+      "0x13242C"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x46ec0",
+    "japanese": "キッズドラグーン",
+    "english": "KidDrag",
+    "pointers": [
+      "0x144B88"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x46ed4",
+    "japanese": "ドラシエルＳ",
+    "english": "DracS",
+    "pointers": [
+      "0x144B84"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x46ee4",
+    "japanese": "ドライガーＳ",
+    "english": "DrigS",
+    "pointers": [
+      "0x144B80"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x46ef4",
+    "japanese": "ドランザーＳ",
+    "english": "DranzS",
+    "pointers": [
+      "0x144B7C"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x46f04",
+    "japanese": "ドラグーンＳ",
+    "english": "DragS",
+    "pointers": [
+      "0x144B78"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x46f14",
+    "japanese": "ブースター５",
+    "english": "Bst5",
+    "pointers": [
+      "0x144B9C"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x46f24",
+    "japanese": "ブースター４",
+    "english": "Bst4",
+    "pointers": [
+      "0x144B98"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x46f34",
+    "japanese": "ブースター３",
+    "english": "Bst3",
+    "pointers": [
+      "0x144B94"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x46f44",
+    "japanese": "ブースター２",
+    "english": "Bst2",
+    "pointers": [
+      "0x144B90"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x46f54",
+    "japanese": "ブースター１",
+    "english": "Bst1",
+    "pointers": [
+      "0x144B8C"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x46fb8",
+    "japanese": "ステージ　１",
+    "english": "Stage1",
+    "pointers": [
+      "0x30010"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x46fc8",
+    "japanese": "ヤマからおりてきたしょうねん",
+    "english": "Mountain boy",
+    "pointers": [
+      "0x30018"
+    ],
+    "max_chars": 14
+  },
+  {
+    "offset": "0x46fe8",
+    "japanese": "しゅつじょうけんをかけて",
+    "english": "Qualify!",
+    "pointers": [
+      "0x30038"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x4221c",
+    "japanese": "ドランザーシューターＤＸ",
+    "english": "Dranz Sho DX",
+    "pointers": [
+      "0x1223E8"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x42238",
+    "japanese": "ドライガーシューターＤＸ",
+    "english": "Drig Sho DX",
+    "pointers": [
+      "0x1223D0"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x42254",
+    "japanese": "ドラグーンシューターＤＸ",
+    "english": "Drag Sho DX",
+    "pointers": [
+      "0x1223B8",
+      "0x122400"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x42270",
+    "japanese": "カタパルトグリップ",
+    "english": "Catapult",
+    "pointers": [
+      "0x1223A0"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x42284",
+    "japanese": "ベイグリップシューター",
+    "english": "Bey Grip",
+    "pointers": [
+      "0x122388"
+    ],
+    "max_chars": 11
+  },
+  {
+    "offset": "0x4229c",
+    "japanese": "スナイパーグリップ",
+    "english": "Sniper",
+    "pointers": [
+      "0x122370"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x422b0",
+    "japanese": "スプリングシューター",
+    "english": "Spr Shoot",
+    "pointers": [
+      "0x122358"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x422c8",
+    "japanese": "スライディングシューター",
+    "english": "SlideSht",
+    "pointers": [
+      "0x122340"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x422e4",
+    "japanese": "ＥＺシューター",
+    "english": "EZ Sht",
+    "pointers": [
+      "0x122328"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x42308",
+    "japanese": "グレートエッヂ",
+    "english": "G. Edge",
+    "pointers": [
+      "0x127270"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x423a8",
+    "japanese": "ウイングブレード",
+    "english": "Wng Blad",
+    "pointers": [
+      "0x126FEC"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x423bc",
+    "japanese": "Ｇメタルドラゴン",
+    "english": "G.M.Drg",
+    "pointers": [
+      "0x126F90"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x42460",
+    "japanese": "グレートドラゴン",
+    "english": "Grt Drgn",
+    "pointers": [
+      "0x126D0C"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x42504",
+    "japanese": "エイトアタッカー",
+    "english": "8 Atk",
+    "pointers": [
+      "0x126A88"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x425a8",
+    "japanese": "クロスグリフォン",
+    "english": "X Griff",
+    "pointers": [
+      "0x126804"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x42634",
+    "japanese": "エイトスパイク",
+    "english": "8 Spike",
+    "pointers": [
+      "0x126580"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x426bc",
+    "japanese": "クロスファング",
+    "english": "X Fang",
+    "pointers": [
+      "0x1262FC"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x4275c",
+    "japanese": "フレイムウイング",
+    "english": "Flm Wng",
+    "pointers": [
+      "0x126078"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x42800",
+    "japanese": "デュアルドラゴン",
+    "english": "DualDrg",
+    "pointers": [
+      "0x125DF4"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x4288c",
+    "japanese": "ウイングＡＴ",
+    "english": "Wng AT",
+    "pointers": [
+      "0x125B70"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x42914",
+    "japanese": "ウイングＤＦ",
+    "english": "Wng DF",
+    "pointers": [
+      "0x1258EC"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x4299c",
+    "japanese": "ホエールＣＲＳ",
+    "english": "WhaleCS",
+    "pointers": [
+      "0x125668"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x42a24",
+    "japanese": "リバースウルフ",
+    "english": "RevWlf",
+    "pointers": [
+      "0x1253E4"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x42ac4",
+    "japanese": "バウンドアタック",
+    "english": "Bnd Atk",
+    "pointers": [
+      "0x125160"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x42b68",
+    "japanese": "スパークアタック",
+    "english": "Spk Atk",
+    "pointers": [
+      "0x124EDC"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x42c0c",
+    "japanese": "ローラーアタック",
+    "english": "Rlr Atk",
+    "pointers": [
+      "0x124C58"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x42c20",
+    "japanese": "ウォーリンクス",
+    "english": "W.Lynx",
+    "pointers": [
+      "0x124BFC"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x42c94",
+    "japanese": "ウォーライオン",
+    "english": "WarLion",
+    "pointers": [
+      "0x1249D4"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x42d1c",
+    "japanese": "ウォーベアー",
+    "english": "W.Bear",
+    "pointers": [
+      "0x124750"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x42da4",
+    "japanese": "ウォーモンキー",
+    "english": "WarMky",
+    "pointers": [
+      "0x1244CC"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x42e44",
+    "japanese": "マックスシールド",
+    "english": "MaxShld",
+    "pointers": [
+      "0x124248"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x42ee8",
+    "japanese": "ウイングカッター",
+    "english": "Wng Cut",
+    "pointers": [
+      "0x123FC4"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x42f74",
+    "japanese": "タートルＳＶＶ",
+    "english": "TurtSVV",
+    "pointers": [
+      "0x123D40"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x42ffc",
+    "japanese": "シザーカッター",
+    "english": "ScisCut",
+    "pointers": [
+      "0x123ABC"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x43084",
+    "japanese": "スターシェイプ",
+    "english": "StarShp",
+    "pointers": [
+      "0x123838"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x43124",
+    "japanese": "トリプルウイング",
+    "english": "TriWing",
+    "pointers": [
+      "0x1235B4"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x431b0",
+    "japanese": "ナイトクロウズ",
+    "english": "NCrows",
+    "pointers": [
+      "0x123330"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x43250",
+    "japanese": "スマッシュＴＴＬ",
+    "english": "SmashTTL",
+    "pointers": [
+      "0x1230AC"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x432dc",
+    "japanese": "アッパーＤＲＧ",
+    "english": "UpprDRG",
+    "pointers": [
+      "0x122E28"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x43364",
+    "japanese": "クロススパイク",
+    "english": "X Spike",
+    "pointers": [
+      "0x122BA4"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x433ec",
+    "japanese": "タイガーＤＦ",
+    "english": "TigrDF",
+    "pointers": [
+      "0x122920"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x43474",
+    "japanese": "ダブルウィング",
+    "english": "DblWing",
+    "pointers": [
+      "0x12269C"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x43514",
+    "japanese": "リバースドラゴン",
+    "english": "RevDrgn",
+    "pointers": [
+      "0x122418"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x43540",
+    "japanese": "レジェンドベース",
+    "english": "LegBase",
+    "pointers": [
+      "0x12B09C"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x435f4",
+    "japanese": "アースウイング",
+    "english": "ErthWng",
+    "pointers": [
+      "0x12AD60"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x436a4",
+    "japanese": "Ｇ－スペシャル",
+    "english": "G-Spec",
+    "pointers": [
+      "0x12AA24"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x43754",
+    "japanese": "マグネフラット",
+    "english": "MagFlat",
+    "pointers": [
+      "0x12A6E8"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x438a4",
+    "japanese": "ジャンピング",
+    "english": "Jump",
+    "pointers": [
+      "0x12A070"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x43954",
+    "japanese": "フォートレス",
+    "english": "Fort",
+    "pointers": [
+      "0x129D34"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x43a04",
+    "japanese": "ＦＡクラッチ",
+    "english": "FA Clt",
+    "pointers": [
+      "0x1299F8"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x43ad4",
+    "japanese": "フレイムチェンジ",
+    "english": "FlmChng",
+    "pointers": [
+      "0x1296BC"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x43ba8",
+    "japanese": "ファントムＧＲＰ",
+    "english": "PhntGRP",
+    "pointers": [
+      "0x129380"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x43c5c",
+    "japanese": "スパイラルＣＨ",
+    "english": "SpirlCH",
+    "pointers": [
+      "0x129044"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x43d0c",
+    "japanese": "メタルボール",
+    "english": "MtlBal",
+    "pointers": [
+      "0x128D08"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x43dbc",
+    "japanese": "メタルチェンジ",
+    "english": "MtlChng",
+    "pointers": [
+      "0x1289CC"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x43e8c",
+    "japanese": "メタルスティング",
+    "english": "MtlStng",
+    "pointers": [
+      "0x128690"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x43f20",
+    "japanese": "ベアリング",
+    "english": "Bear",
+    "pointers": [
+      "0x128354"
+    ],
+    "max_chars": 5
+  },
+  {
+    "offset": "0x43fcc",
+    "japanese": "オートチェンジ",
+    "english": "AutoChg",
+    "pointers": [
+      "0x128018"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x4409c",
+    "japanese": "ＳＧセミフラット",
+    "english": "SG Semi",
+    "pointers": [
+      "0x127CDC"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44150",
+    "japanese": "ＳＧフラット",
+    "english": "SGFlat",
+    "pointers": [
+      "0x1279A0"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x44200",
+    "japanese": "ＳＧシャープ",
+    "english": "SGShp",
+    "pointers": [
+      "0x127664"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x442d0",
+    "japanese": "ストームグリップ",
+    "english": "StrmGrp",
+    "pointers": [
+      "0x127328"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44398",
+    "japanese": "ウイングスレイブ",
+    "english": "WngSlv",
+    "pointers": [
+      "0x12CA7C"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x4440c",
+    "japanese": "テンワイド",
+    "english": "10Wde",
+    "pointers": [
+      "0x12C7F8"
+    ],
+    "max_chars": 5
+  },
+  {
+    "offset": "0x44490",
+    "japanese": "ヘビィアタック",
+    "english": "HvyAtk",
+    "pointers": [
+      "0x12C574"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x44500",
+    "japanese": "ワイドＤＦ",
+    "english": "WideD",
+    "pointers": [
+      "0x12C2F0"
+    ],
+    "max_chars": 5
+  },
+  {
+    "offset": "0x4456c",
+    "japanese": "スパーク",
+    "english": "Spk",
+    "pointers": [
+      "0x12C06C"
+    ],
+    "max_chars": 4
+  },
+  {
+    "offset": "0x44678",
+    "japanese": "バランス",
+    "english": "Bal",
+    "pointers": [
+      "0x12B8E0"
+    ],
+    "max_chars": 4
+  },
+  {
+    "offset": "0x446fc",
+    "japanese": "エイトバランス",
+    "english": "8Bal",
+    "pointers": [
+      "0x12B65C"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x44784",
+    "japanese": "エイトヘビィ",
+    "english": "8Hvy",
+    "pointers": [
+      "0x12B3D8"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x4481c",
+    "japanese": "ウイングディフェンス",
+    "english": "WngDef",
+    "pointers": [
+      "0x12E7A4"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x44834",
+    "japanese": "ウイングシャドー",
+    "english": "WngShdw",
+    "pointers": [
+      "0x12E76C"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44848",
+    "japanese": "バーニングウイング",
+    "english": "BrnWing",
+    "pointers": [
+      "0x12E718",
+      "0x12E7DC"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x4485c",
+    "japanese": "バーニングクロー",
+    "english": "BrnClaw",
+    "pointers": [
+      "0x12E6FC"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44870",
+    "japanese": "オーバーバーン",
+    "english": "OverBrn",
+    "pointers": [
+      "0x12E670"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x44880",
+    "japanese": "モンキーガード",
+    "english": "MkyGrd",
+    "pointers": [
+      "0x12E45C"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x44890",
+    "japanese": "ドランクシャドー",
+    "english": "DrnkShd",
+    "pointers": [
+      "0x12E424"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x448a4",
+    "japanese": "ドランクモンキーＡＴＫ",
+    "english": "D.Mky ATK",
+    "pointers": [
+      "0x12E3D0",
+      "0x12E494"
+    ],
+    "max_chars": 11
+  },
+  {
+    "offset": "0x448bc",
+    "japanese": "ドランクモンキーパンチ",
+    "english": "Mky Punch",
+    "pointers": [
+      "0x12E3B4"
+    ],
+    "max_chars": 11
+  },
+  {
+    "offset": "0x448d4",
+    "japanese": "ドランキーシュート",
+    "english": "DrnkyShot",
+    "pointers": [
+      "0x12E328"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x448e8",
+    "japanese": "キャティーミラージュ",
+    "english": "CatyMrg",
+    "pointers": [
+      "0x12E280"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x44900",
+    "japanese": "キャティーラッシュ",
+    "english": "CatyRush",
+    "pointers": [
+      "0x12E22C",
+      "0x12E2F0"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x44914",
+    "japanese": "キャティーバイツ",
+    "english": "CatyBite",
+    "pointers": [
+      "0x12E210"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44928",
+    "japanese": "キャティーシュート",
+    "english": "CatyShot",
+    "pointers": [
+      "0x12E184"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x44940",
+    "japanese": "レオシャドー",
+    "english": "LeoShd",
+    "pointers": [
+      "0x12E0DC"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x44950",
+    "japanese": "ダークライトニング",
+    "english": "DrkLight",
+    "pointers": [
+      "0x12E088",
+      "0x12E14C"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x44964",
+    "japanese": "ライトニングシュート",
+    "english": "LiteShot",
+    "pointers": [
+      "0x12DFE0"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x4497c",
+    "japanese": "リオートディフェンス",
+    "english": "ReortDef",
+    "pointers": [
+      "0x12DF70"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x44994",
+    "japanese": "サバイバルダンス",
+    "english": "SurvDnc",
+    "pointers": [
+      "0x12DF38"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x449a8",
+    "japanese": "ヴァイナローグ",
+    "english": "VainRog",
+    "pointers": [
+      "0x12DEE4",
+      "0x12DFA8"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x449b8",
+    "japanese": "ブリザローグ",
+    "english": "BlizRg",
+    "pointers": [
+      "0x12DEC8"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x449c8",
+    "japanese": "グラートシュート",
+    "english": "GratShot",
+    "pointers": [
+      "0x12DE3C"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x449dc",
+    "japanese": "ウイングダガー",
+    "english": "WngDgr",
+    "pointers": [
+      "0x12DD40",
+      "0x12DE04"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x449ec",
+    "japanese": "ウイングタイフーン",
+    "english": "WngTyph",
+    "pointers": [
+      "0x12DD24"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x44a00",
+    "japanese": "ウイングリッパー",
+    "english": "WngRip",
+    "pointers": [
+      "0x12DCB4"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44a14",
+    "japanese": "ハリケーンミキサー",
+    "english": "HurMix",
+    "pointers": [
+      "0x12DC98"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x44a28",
+    "japanese": "キャノンボンバー",
+    "english": "CnBombr",
+    "pointers": [
+      "0x12DB9C",
+      "0x12DC60"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44a3c",
+    "japanese": "キャノンボールアッパー",
+    "english": "CanUpper",
+    "pointers": [
+      "0x12DB80"
+    ],
+    "max_chars": 11
+  },
+  {
+    "offset": "0x44a54",
+    "japanese": "キャノンボールシュート",
+    "english": "CanShot",
+    "pointers": [
+      "0x12DAF4"
+    ],
+    "max_chars": 11
+  },
+  {
+    "offset": "0x44a6c",
+    "japanese": "スーパーエスケイプ",
+    "english": "SupEsc",
+    "pointers": [
+      "0x12DA4C",
+      "0x12DBF0",
+      "0x12DD94"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x44a80",
+    "japanese": "シャドーアタック",
+    "english": "ShdAtk",
+    "pointers": [
+      "0x12D9DC",
+      "0x12DABC"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44a94",
+    "japanese": "アキラガード",
+    "english": "AkiraG",
+    "pointers": [
+      "0x12D8E0"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x44aa4",
+    "japanese": "アキラスペシャル",
+    "english": "AkiraSp",
+    "pointers": [
+      "0x12D838",
+      "0x12D918"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44ab8",
+    "japanese": "スーパーダンク",
+    "english": "SupDunk",
+    "pointers": [
+      "0x12D7AC"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x44ac8",
+    "japanese": "ビートスパイラル",
+    "english": "BeatSp",
+    "pointers": [
+      "0x12D694"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44adc",
+    "japanese": "ドラシエルブロック",
+    "english": "DclBlock",
+    "pointers": [
+      "0x12D598"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x44af0",
+    "japanese": "ウエーブゲート",
+    "english": "WvGate",
+    "pointers": [
+      "0x12D4F0",
+      "0x12D5D0"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x44b00",
+    "japanese": "ウエーブシュート",
+    "english": "WvShot",
+    "pointers": [
+      "0x12D464"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44b14",
+    "japanese": "タイガーディフェンス",
+    "english": "TigrDef",
+    "pointers": [
+      "0x12D3F4"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x44b2c",
+    "japanese": "ドライガーシャドー",
+    "english": "DgrShad",
+    "pointers": [
+      "0x12D3BC"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x44b40",
+    "japanese": "タイガーファング",
+    "english": "TgrFang",
+    "pointers": [
+      "0x12D368"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44b54",
+    "japanese": "タイガークロー",
+    "english": "TgrClaw",
+    "pointers": [
+      "0x12D34C",
+      "0x12D42C",
+      "0x12E06C"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x44b64",
+    "japanese": "タイガーシュート",
+    "english": "TgrShot",
+    "pointers": [
+      "0x12D2C0"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44b78",
+    "japanese": "ファイヤーシャドー",
+    "english": "FireShd",
+    "pointers": [
+      "0x12D218"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x44b8c",
+    "japanese": "ファイヤーアロー",
+    "english": "FireArr",
+    "pointers": [
+      "0x12D1C4",
+      "0x12D288"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44ba0",
+    "japanese": "スピンファイヤーボム",
+    "english": "SpnFireB",
+    "pointers": [
+      "0x12D1A8"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x44bb8",
+    "japanese": "ファイヤーシュート",
+    "english": "FireShot",
+    "pointers": [
+      "0x12D11C"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x44bcc",
+    "japanese": "バニシングシャドー",
+    "english": "VanShad",
+    "pointers": [
+      "0x12D074"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x44be0",
+    "japanese": "ストームアタック",
+    "english": "StormAtk",
+    "pointers": [
+      "0x12D020",
+      "0x12D0E4"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44bf4",
+    "japanese": "バニシングストーム",
+    "english": "VanStorm",
+    "pointers": [
+      "0x12D004"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x44c08",
+    "japanese": "ストームシュート",
+    "english": "StormSht",
+    "pointers": [
+      "0x12CF94"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44c1c",
+    "japanese": "スクリューシュート",
+    "english": "ScrewSht",
+    "pointers": [
+      "0x12CF78"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x44c30",
+    "japanese": "スパークバリアー",
+    "english": "SparkBar",
+    "pointers": [
+      "0x12CF08"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44c4c",
+    "japanese": "サンダーサバイヴ",
+    "english": "ThndrSrv",
+    "pointers": [
+      "0x12CED0"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44c68",
+    "japanese": "サンダークランチ",
+    "english": "ThndrCr",
+    "pointers": [
+      "0x12CE7C",
+      "0x12CF40"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44c7c",
+    "japanese": "サンダーサーベル",
+    "english": "ThndrSab",
+    "pointers": [
+      "0x12CE60"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x4525c",
+    "japanese": "まぼろしのアタックリング",
+    "english": "PhantomRing",
+    "pointers": [
+      "0x1321DC"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x45278",
+    "japanese": "ぶきみにかがやく",
+    "english": "EerieLit",
+    "pointers": [
+      "0x1321D8",
+      "0x1322D4"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x4528c",
+    "japanese": "なにかがおこる",
+    "english": "Occurs",
+    "pointers": [
+      "0x1321D0"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x4529c",
+    "japanese": "つばさがひらいたとき",
+    "english": "WingsOpen",
+    "pointers": [
+      "0x1321CC"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x452b4",
+    "japanese": "はかいする",
+    "english": "Smash",
+    "pointers": [
+      "0x1321B8",
+      "0x1321C4"
+    ],
+    "max_chars": 5
+  },
+  {
+    "offset": "0x452c0",
+    "japanese": "２まいのはですべてのてきを",
+    "english": "2BladesAll",
+    "pointers": [
+      "0x1321B4",
+      "0x1321C0"
+    ],
+    "max_chars": 13
+  },
+  {
+    "offset": "0x452dc",
+    "japanese": "どんなてきでもはかいする",
+    "english": "CrushAnyFoe",
+    "pointers": [
+      "0x1321AC"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x452f8",
+    "japanese": "８まいのウイングで",
+    "english": "8Wings",
+    "pointers": [
+      "0x1321A8"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x4530c",
+    "japanese": "こうげきがたアタックリング",
+    "english": "AttackRing",
+    "pointers": [
+      "0x1321A0"
+    ],
+    "max_chars": 13
+  },
+  {
+    "offset": "0x45328",
+    "japanese": "ちょうこうせいのうバランスの",
+    "english": "HiPerfBalance",
+    "pointers": [
+      "0x13219C"
+    ],
+    "max_chars": 14
+  },
+  {
+    "offset": "0x45348",
+    "japanese": "きょういのあんていをみにつけた",
+    "english": "StableDesign",
+    "pointers": [
+      "0x132194"
+    ],
+    "max_chars": 15
+  },
+  {
+    "offset": "0x45368",
+    "japanese": "８まいのスパイクが",
+    "english": "8Spikes",
+    "pointers": [
+      "0x132190"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x4537c",
+    "japanese": "クロスじょうのアタックリング",
+    "english": "CrossAtkRing",
+    "pointers": [
+      "0x132188"
+    ],
+    "max_chars": 14
+  },
+  {
+    "offset": "0x4539c",
+    "japanese": "こうぼうバランスのよい",
+    "english": "AtkDefBal",
+    "pointers": [
+      "0x132184"
+    ],
+    "max_chars": 11
+  },
+  {
+    "offset": "0x453b4",
+    "japanese": "ぼうぎょじゅうしにかいはつされた",
+    "english": "DefenseFocus",
+    "pointers": [
+      "0x132178"
+    ],
+    "max_chars": 16
+  },
+  {
+    "offset": "0x453d8",
+    "japanese": "ちょうきょうりょくパーツ",
+    "english": "PowerParts",
+    "pointers": [
+      "0x132170"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x453f4",
+    "japanese": "ＡＢＳじゅしとポリカーボネイトの",
+    "english": "ABS+Polycarb",
+    "pointers": [
+      "0x13216C"
+    ],
+    "max_chars": 16
+  },
+  {
+    "offset": "0x45418",
+    "japanese": "きょうりょくなこうげきをうみだす",
+    "english": "PowerAttack",
+    "pointers": [
+      "0x132164"
+    ],
+    "max_chars": 16
+  },
+  {
+    "offset": "0x4543c",
+    "japanese": "えんしんりょくでひらくウイングが",
+    "english": "SpinOpenWings",
+    "pointers": [
+      "0x132160"
+    ],
+    "max_chars": 16
+  },
+  {
+    "offset": "0x45460",
+    "japanese": "ウイングシステムで",
+    "english": "WingSys",
+    "pointers": [
+      "0x132154"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x45474",
+    "japanese": "こうげきとぼうぎょにたいおう",
+    "english": "AtkDefBoth",
+    "pointers": [
+      "0x13214C"
+    ],
+    "max_chars": 14
+  },
+  {
+    "offset": "0x45494",
+    "japanese": "アタックフレームのくみかえで",
+    "english": "RearrngFrame",
+    "pointers": [
+      "0x132148"
+    ],
+    "max_chars": 14
+  },
+  {
+    "offset": "0x454b4",
+    "japanese": "せいのうがへんかするぞ",
+    "english": "StatsChange",
+    "pointers": [
+      "0x132140"
+    ],
+    "max_chars": 11
+  },
+  {
+    "offset": "0x454cc",
+    "japanese": "こうげきタイプぼうぎょタイプに",
+    "english": "AtkToDef",
+    "pointers": [
+      "0x13213C"
+    ],
+    "max_chars": 15
+  },
+  {
+    "offset": "0x454ec",
+    "japanese": "バウンドりょくのある",
+    "english": "BouncPwr",
+    "pointers": [
+      "0x132130"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x45504",
+    "japanese": "きょうりょくなアタックをじつげん",
+    "english": "StrongAttack",
+    "pointers": [
+      "0x132128"
+    ],
+    "max_chars": 16
+  },
+  {
+    "offset": "0x45528",
+    "japanese": "スパークディスクで",
+    "english": "SparkDisc",
+    "pointers": [
+      "0x132124"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x4553c",
+    "japanese": "てきのこうげきをうけながす",
+    "english": "DeflectAtk",
+    "pointers": [
+      "0x13211C",
+      "0x132158"
+    ],
+    "max_chars": 13
+  },
+  {
+    "offset": "0x45558",
+    "japanese": "ローラーのこうかにより",
+    "english": "RollerFx",
+    "pointers": [
+      "0x132118"
+    ],
+    "max_chars": 11
+  },
+  {
+    "offset": "0x45570",
+    "japanese": "マオせんようのアタックリング",
+    "english": "MaoOnlyRing",
+    "pointers": [
+      "0x132110"
+    ],
+    "max_chars": 14
+  },
+  {
+    "offset": "0x45590",
+    "japanese": "ウォーライオンとどうとうの",
+    "english": "WarLionEqual",
+    "pointers": [
+      "0x13210C"
+    ],
+    "max_chars": 13
+  },
+  {
+    "offset": "0x455ac",
+    "japanese": "じざいにきりかえるぞ",
+    "english": "FreeSwitch",
+    "pointers": [
+      "0x132104"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x455c4",
+    "japanese": "こうげきとぼうぎょを",
+    "english": "AtkAndDef",
+    "pointers": [
+      "0x132100"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x455dc",
+    "japanese": "もつこうげきタイプ",
+    "english": "AtkType",
+    "pointers": [
+      "0x1320F8"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x455f0",
+    "japanese": "さいだいきゅうのこうげきはんいを",
+    "english": "MaxAtkRange",
+    "pointers": [
+      "0x1320F4"
+    ],
+    "max_chars": 16
+  },
+  {
+    "offset": "0x45614",
+    "japanese": "フリーかいてんするぞ",
+    "english": "FreeSpins",
+    "pointers": [
+      "0x1320EC"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x4562c",
+    "japanese": "２じゅうこうぞうのウイングが",
+    "english": "DoubleWing",
+    "pointers": [
+      "0x1320E8"
+    ],
+    "max_chars": 14
+  },
+  {
+    "offset": "0x4564c",
+    "japanese": "てっぺきのぼうぎょをじつげん",
+    "english": "IroncladDef",
+    "pointers": [
+      "0x1320E0"
+    ],
+    "max_chars": 14
+  },
+  {
+    "offset": "0x4566c",
+    "japanese": "こうらじょうの４つのスパイクで",
+    "english": "4ShellSpikes",
+    "pointers": [
+      "0x1320DC"
+    ],
+    "max_chars": 15
+  },
+  {
+    "offset": "0x4568c",
+    "japanese": "こうぼうのとれたバランスタイプだ",
+    "english": "AtkDefBalance",
+    "pointers": [
+      "0x1320D4"
+    ],
+    "max_chars": 16
+  },
+  {
+    "offset": "0x456b0",
+    "japanese": "ウイングじょうのカッターは",
+    "english": "WingCutters",
+    "pointers": [
+      "0x1320D0"
+    ],
+    "max_chars": 13
+  },
+  {
+    "offset": "0x456cc",
+    "japanese": "じきゅうせんでこうかをはっきする",
+    "english": "LongBattleUse",
+    "pointers": [
+      "0x1320C8"
+    ],
+    "max_chars": 16
+  },
+  {
+    "offset": "0x456f0",
+    "japanese": "４まいのウイングは",
+    "english": "4Wings",
+    "pointers": [
+      "0x1320C4"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x45704",
+    "japanese": "かくじつにてきをきりきざむ",
+    "english": "SliceFoes",
+    "pointers": [
+      "0x1320BC"
+    ],
+    "max_chars": 13
+  },
+  {
+    "offset": "0x45720",
+    "japanese": "カマがたのするどいやいばで",
+    "english": "SickleBlades",
+    "pointers": [
+      "0x1320B8"
+    ],
+    "max_chars": 13
+  },
+  {
+    "offset": "0x4573c",
+    "japanese": "こうじげんのぼうぎょをじつげん",
+    "english": "HiLevelDef",
+    "pointers": [
+      "0x1320B0"
+    ],
+    "max_chars": 15
+  },
+  {
+    "offset": "0x4575c",
+    "japanese": "ほしがたのアタックリングで",
+    "english": "StarAtkRing",
+    "pointers": [
+      "0x1320AC"
+    ],
+    "max_chars": 13
+  },
+  {
+    "offset": "0x45778",
+    "japanese": "きょういのバランスをじつげん",
+    "english": "GreatBalance",
+    "pointers": [
+      "0x1320A4",
+      "0x132308"
+    ],
+    "max_chars": 14
+  },
+  {
+    "offset": "0x45798",
+    "japanese": "３つのウイングで",
+    "english": "3Wings",
+    "pointers": [
+      "0x1320A0"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x457ac",
+    "japanese": "きょうりょくなアタックをうみだす",
+    "english": "PowerAttack",
+    "pointers": [
+      "0x132098"
+    ],
+    "max_chars": 16
+  },
+  {
+    "offset": "0x457d0",
+    "japanese": "３つのツメ（ナイトクロウズ）で",
+    "english": "3NightClaws",
+    "pointers": [
+      "0x132094"
+    ],
+    "max_chars": 15
+  },
+  {
+    "offset": "0x457f0",
+    "japanese": "バランスタイプ",
+    "english": "Balance",
+    "pointers": [
+      "0x13208C"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x45800",
+    "japanese": "スマッシュこうげきをとくいとする",
+    "english": "SmashExpert",
+    "pointers": [
+      "0x132088"
+    ],
+    "max_chars": 16
+  },
+  {
+    "offset": "0x45824",
+    "japanese": "こうげきタイプのアタックリング",
+    "english": "AtkTypeRing",
+    "pointers": [
+      "0x132080",
+      "0x132134"
+    ],
+    "max_chars": 15
+  },
+  {
+    "offset": "0x45844",
+    "japanese": "アッパーこうげきをくりだす",
+    "english": "UpperAttack",
+    "pointers": [
+      "0x13207C"
+    ],
+    "max_chars": 13
+  },
+  {
+    "offset": "0x45860",
+    "japanese": "こうげきりょくがさらにＵＰ",
+    "english": "AtkPowerUp",
+    "pointers": [
+      "0x132074"
+    ],
+    "max_chars": 13
+  },
+  {
+    "offset": "0x4587c",
+    "japanese": "スパイクにそうびしたカッターで",
+    "english": "SpikeCutters",
+    "pointers": [
+      "0x132070"
+    ],
+    "max_chars": 15
+  },
+  {
+    "offset": "0x4589c",
+    "japanese": "てきのこうげきをうえにうけながす",
+    "english": "DeflectUp",
+    "pointers": [
+      "0x132068"
+    ],
+    "max_chars": 16
+  },
+  {
+    "offset": "0x458c0",
+    "japanese": "やりがたのアタックリングで",
+    "english": "SpearAtkRing",
+    "pointers": [
+      "0x132064"
+    ],
+    "max_chars": 13
+  },
+  {
+    "offset": "0x458dc",
+    "japanese": "アタックリング",
+    "english": "AtkRing",
+    "pointers": [
+      "0x13205C",
+      "0x13217C"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x458ec",
+    "japanese": "すべてにおいてバランスのとれた",
+    "english": "AllRoundBal",
+    "pointers": [
+      "0x132058"
+    ],
+    "max_chars": 15
+  },
+  {
+    "offset": "0x4590c",
+    "japanese": "きのうへんかがたのアタックリング",
+    "english": "VarAtkRing",
+    "pointers": [
+      "0x132050"
+    ],
+    "max_chars": 16
+  },
+  {
+    "offset": "0x45930",
+    "japanese": "マルチバランスをじつげんした",
+    "english": "MultiBalance",
+    "pointers": [
+      "0x13204C"
+    ],
+    "max_chars": 14
+  },
+  {
+    "offset": "0x45950",
+    "japanese": "まぼろしのブレードベース",
+    "english": "PhantomBase",
+    "pointers": [
+      "0x1322D8"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x4596c",
+    "japanese": "こうせいのうブレードベース",
+    "english": "HiPerfBase",
+    "pointers": [
+      "0x1322CC"
+    ],
+    "max_chars": 13
+  },
+  {
+    "offset": "0x45988",
+    "japanese": "カオルのためにかいはつされた",
+    "english": "KaoruDesign",
+    "pointers": [
+      "0x1322C8"
+    ],
+    "max_chars": 14
+  },
+  {
+    "offset": "0x459a8",
+    "japanese": "きょういのじきゅうをはっきする",
+    "english": "GreatEndure",
+    "pointers": [
+      "0x1322C0"
+    ],
+    "max_chars": 15
+  },
+  {
+    "offset": "0x459c8",
+    "japanese": "しんきのうをとうさいして",
+    "english": "NewFeature",
+    "pointers": [
+      "0x1322BC"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x459e4",
+    "japanese": "しんがたブレードベース",
+    "english": "NeoBase",
+    "pointers": [
+      "0x1322B4"
+    ],
+    "max_chars": 11
+  },
+  {
+    "offset": "0x459fc",
+    "japanese": "ネオジウムをそうびした",
+    "english": "Neodymium",
+    "pointers": [
+      "0x1322B0"
+    ],
+    "max_chars": 11
+  },
+  {
+    "offset": "0x45a14",
+    "japanese": "オリジナルブレードベース",
+    "english": "OrigBase",
+    "pointers": [
+      "0x1322A8"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x45a30",
+    "japanese": "へんけいようにせっけいされた",
+    "english": "TransformFit",
+    "pointers": [
+      "0x1322A4"
+    ],
+    "max_chars": 14
+  },
+  {
+    "offset": "0x45a50",
+    "japanese": "きょうれつなこうげきをあたえる",
+    "english": "FierceAtk",
+    "pointers": [
+      "0x13229C"
+    ],
+    "max_chars": 15
+  },
+  {
+    "offset": "0x45a70",
+    "japanese": "ジャンピングシステムで",
+    "english": "JumpSystem",
+    "pointers": [
+      "0x132298"
+    ],
+    "max_chars": 11
+  },
+  {
+    "offset": "0x45a88",
+    "japanese": "オイルボールシステムで",
+    "english": "OilBallSys",
+    "pointers": [
+      "0x13228C"
+    ],
+    "max_chars": 11
+  },
+  {
+    "offset": "0x45aa0",
+    "japanese": "じきゅうのタイプにオートチェンジ",
+    "english": "AutoEndure",
+    "pointers": [
+      "0x132284"
+    ],
+    "max_chars": 16
+  },
+  {
+    "offset": "0x45ac4",
+    "japanese": "かいてんりょくによりこうげきと",
+    "english": "SpinAtkDef",
+    "pointers": [
+      "0x132280"
+    ],
+    "max_chars": 15
+  },
+  {
+    "offset": "0x45ae4",
+    "japanese": "えらばない",
+    "english": "Auto",
+    "pointers": [
+      "0x132278"
+    ],
+    "max_chars": 5
+  },
+  {
+    "offset": "0x45af0",
+    "japanese": "３つのモードでたたかいのばを",
+    "english": "3ModeBattle",
+    "pointers": [
+      "0x132274"
+    ],
+    "max_chars": 14
+  },
+  {
+    "offset": "0x45b10",
+    "japanese": "きょういのスピードをほこる",
+    "english": "GreatSpeed",
+    "pointers": [
+      "0x13226C"
+    ],
+    "max_chars": 13
+  },
+  {
+    "offset": "0x45b2c",
+    "japanese": "おおがたのなんしつグリップで",
+    "english": "SoftGripLarge",
+    "pointers": [
+      "0x132268"
+    ],
+    "max_chars": 14
+  },
+  {
+    "offset": "0x45b4c",
+    "japanese": "ぼうぎょのモードをとうさいする",
+    "english": "DefenseMode",
+    "pointers": [
+      "0x132260"
+    ],
+    "max_chars": 15
+  },
+  {
+    "offset": "0x45b6c",
+    "japanese": "チェンジギミックでこうげきと",
+    "english": "ChangeAtkDef",
+    "pointers": [
+      "0x13225C"
+    ],
+    "max_chars": 14
+  },
+  {
+    "offset": "0x45b8c",
+    "japanese": "きょういのじきゅうりょくをほこる",
+    "english": "GreatEndure",
+    "pointers": [
+      "0x132254",
+      "0x132290"
+    ],
+    "max_chars": 16
+  },
+  {
+    "offset": "0x45bb0",
+    "japanese": "２つのボールをないぞうして",
+    "english": "DualBalls",
+    "pointers": [
+      "0x132250"
+    ],
+    "max_chars": 13
+  },
+  {
+    "offset": "0x45bcc",
+    "japanese": "こうげきとじきゅうのちからをもつ",
+    "english": "AtkEndure",
+    "pointers": [
+      "0x132248"
+    ],
+    "max_chars": 16
+  },
+  {
+    "offset": "0x45bf0",
+    "japanese": "メタルチェンジのじくにより",
+    "english": "MetalChange",
+    "pointers": [
+      "0x132244"
+    ],
+    "max_chars": 13
+  },
+  {
+    "offset": "0x45c0c",
+    "japanese": "きょういのじきゅうをほこる",
+    "english": "GreatEndure",
+    "pointers": [
+      "0x13223C"
+    ],
+    "max_chars": 13
+  },
+  {
+    "offset": "0x45c28",
+    "japanese": "きんぞくせいのシャープディスクで",
+    "english": "MetalSharpD",
+    "pointers": [
+      "0x132238"
+    ],
+    "max_chars": 16
+  },
+  {
+    "offset": "0x45c4c",
+    "japanese": "じきゅうりょくがおおはばにＵＰ",
+    "english": "EndureUp",
+    "pointers": [
+      "0x132230"
+    ],
+    "max_chars": 15
+  },
+  {
+    "offset": "0x45c6c",
+    "japanese": "ベアリングきのうにより",
+    "english": "BearingSys",
+    "pointers": [
+      "0x13222C"
+    ],
+    "max_chars": 11
+  },
+  {
+    "offset": "0x45c84",
+    "japanese": "せいのうをもちあわせるぞ",
+    "english": "HasPerf",
+    "pointers": [
+      "0x132224"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x45ca0",
+    "japanese": "オートチェンジシステムで２つの",
+    "english": "AutoChange2",
+    "pointers": [
+      "0x132220"
+    ],
+    "max_chars": 15
+  },
+  {
+    "offset": "0x45cc0",
+    "japanese": "ブレードベース",
+    "english": "BladeBs",
+    "pointers": [
+      "0x132218"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x45cd0",
+    "japanese": "バランスのとれたフラットタイプの",
+    "english": "FlatBalance",
+    "pointers": [
+      "0x132214"
+    ],
+    "max_chars": 16
+  },
+  {
+    "offset": "0x45cf4",
+    "japanese": "アタックをしかける",
+    "english": "Attacks",
+    "pointers": [
+      "0x13220C"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x45d08",
+    "japanese": "こうそくいどうできょうりょくな",
+    "english": "FastPowerMove",
+    "pointers": [
+      "0x132208"
+    ],
+    "max_chars": 15
+  },
+  {
+    "offset": "0x45d28",
+    "japanese": "じきゅうタイプのブレードベース",
+    "english": "EndureBase",
+    "pointers": [
+      "0x132200"
+    ],
+    "max_chars": 15
+  },
+  {
+    "offset": "0x45d48",
+    "japanese": "まさつていこうのすくない",
+    "english": "LowFriction",
+    "pointers": [
+      "0x1321FC"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x45d64",
+    "japanese": "グリップをじつげん",
+    "english": "GripPlus",
+    "pointers": [
+      "0x1321F4"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x45d78",
+    "japanese": "ゴムじくによりきょうりょくな",
+    "english": "RubberTipPower",
+    "pointers": [
+      "0x1321F0"
+    ],
+    "max_chars": 14
+  },
+  {
+    "offset": "0x45d98",
+    "japanese": "まぼろしのウエイトディスク",
+    "english": "PhantomWDisc",
+    "pointers": [
+      "0x132374"
+    ],
+    "max_chars": 13
+  },
+  {
+    "offset": "0x45db4",
+    "japanese": "なぞにつつまれた",
+    "english": "Secret",
+    "pointers": [
+      "0x132370"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x45dc8",
+    "japanese": "イカリがたのウエイトディスク",
+    "english": "AnchorWDisc",
+    "pointers": [
+      "0x132368"
+    ],
+    "max_chars": 14
+  },
+  {
+    "offset": "0x45de8",
+    "japanese": "スピードとウエイトをそなえた",
+    "english": "Speed+Weight",
+    "pointers": [
+      "0x132364"
+    ],
+    "max_chars": 14
+  },
+  {
+    "offset": "0x45e08",
+    "japanese": "きょういのじきゅうをそなえる",
+    "english": "GreatEndure",
+    "pointers": [
+      "0x13235C"
+    ],
+    "max_chars": 14
+  },
+  {
+    "offset": "0x45e28",
+    "japanese": "１０かくがたのウエイトディスクで",
+    "english": "10SideDisk",
+    "pointers": [
+      "0x132358"
+    ],
+    "max_chars": 16
+  },
+  {
+    "offset": "0x45e4c",
+    "japanese": "こうげきもぼうぎょもこなす",
+    "english": "AtkDefReady",
+    "pointers": [
+      "0x132350"
+    ],
+    "max_chars": 13
+  },
+  {
+    "offset": "0x45e68",
+    "japanese": "とっきとおもいじゅうりょうで",
+    "english": "Spikes+Mass",
+    "pointers": [
+      "0x13234C"
+    ],
+    "max_chars": 14
+  },
+  {
+    "offset": "0x45e88",
+    "japanese": "じきゅうとぼうぎょをそなえる",
+    "english": "Endure+Def",
+    "pointers": [
+      "0x132344"
+    ],
+    "max_chars": 14
+  },
+  {
+    "offset": "0x45ea8",
+    "japanese": "おおがたのえんけいにより",
+    "english": "LargeRound",
+    "pointers": [
+      "0x132340"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x45ed0",
+    "japanese": "とくしゅなギミックでスパークを",
+    "english": "SpecialSpark",
+    "pointers": [
+      "0x132334"
+    ],
+    "max_chars": 15
+  },
+  {
+    "offset": "0x45ef0",
+    "japanese": "おおがたのワイドディスク",
+    "english": "WideDisk",
+    "pointers": [
+      "0x132328"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x45f0c",
+    "japanese": "ぼうぎょりょくがたかい",
+    "english": "HighDef",
+    "pointers": [
+      "0x132320"
+    ],
+    "max_chars": 11
+  },
+  {
+    "offset": "0x45f24",
+    "japanese": "とてもおもたいウエイトディスク",
+    "english": "HeavyDisk",
+    "pointers": [
+      "0x13231C"
+    ],
+    "max_chars": 15
+  },
+  {
+    "offset": "0x45f44",
+    "japanese": "とれたせいのうをもつ",
+    "english": "TopQuality",
+    "pointers": [
+      "0x132314"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x45f5c",
+    "japanese": "ぼうぎょとじきゅうともにバランスの",
+    "english": "DefEndBal",
+    "pointers": [
+      "0x132310"
+    ],
+    "max_chars": 17
+  },
+  {
+    "offset": "0x45f80",
+    "japanese": "８かくがたのウエイトディスクで",
+    "english": "8SideDisk",
+    "pointers": [
+      "0x132304"
+    ],
+    "max_chars": 15
+  },
+  {
+    "offset": "0x45fa0",
+    "japanese": "ヘビィタイプ",
+    "english": "Heavy",
+    "pointers": [
+      "0x1322FC"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x47040",
+    "japanese": "かいはつスタッフ",
+    "english": "Staff",
+    "pointers": [
+      "0x033C94"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x45fb0",
+    "japanese": "８かくがたウエイトディスクの",
+    "english": "8SideWDisc",
+    "pointers": [
+      "0x1322F8"
+    ],
+    "max_chars": 14
+  },
+  {
+    "offset": "0x45fd0",
+    "japanese": "えんしんりょくでじきゅうＵＰ",
+    "english": "SpinEndUp",
+    "pointers": [
+      "0x1322F0",
+      "0x13232C"
+    ],
+    "max_chars": 14
+  },
+  {
+    "offset": "0x45ff0",
+    "japanese": "８かくがたのワイドディスク",
+    "english": "8SideWide",
+    "pointers": [
+      "0x1322EC"
+    ],
+    "max_chars": 13
+  },
+  {
+    "offset": "0x41fb4",
+    "japanese": "キッズドラグーン",
+    "english": "KidsDgn",
+    "pointers": [
+      "0x121230"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x41fc8",
+    "japanese": "ブースター２",
+    "english": "Boost2",
+    "pointers": [
+      "0x121234"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x41fd8",
+    "japanese": "ブースター３",
+    "english": "Boost3",
+    "pointers": [
+      "0x121238"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x41fe8",
+    "japanese": "ブースター４",
+    "english": "Boost4",
+    "pointers": [
+      "0x12123C"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x41ff8",
+    "japanese": "ブースター５",
+    "english": "Boost5",
+    "pointers": [
+      "0x121240"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x42014",
+    "japanese": "ミズハラ・チチ",
+    "english": "Dad",
+    "pointers": [
+      "0x122288"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x42024",
+    "japanese": "じっちゃん",
+    "english": "Gramp",
+    "pointers": [
+      "0x1221E8",
+      "0x1221EC",
+      "0x131D00"
+    ],
+    "max_chars": 5
+  },
+  {
+    "offset": "0x42040",
+    "japanese": "ブレーダーDJ",
+    "english": "BldrDJ",
+    "pointers": [
+      "0x121E28",
+      "0x121EC8",
+      "0x121F68",
+      "0x122008",
+      "0x1220A8",
+      "0x131CD0"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x42050",
+    "japanese": "キョウジュ",
+    "english": "Prof.",
+    "pointers": [
+      "0x121D88",
+      "0x121D8C",
+      "0x131CC4"
+    ],
+    "max_chars": 5
+  },
+  {
+    "offset": "0x4205c",
+    "japanese": "マサムネ",
+    "english": "Masa",
+    "pointers": [
+      "0x121CEC",
+      "0x131CBC"
+    ],
+    "max_chars": 4
+  },
+  {
+    "offset": "0x42068",
+    "japanese": "チザン・マサムネ",
+    "english": "Masamune",
+    "pointers": [
+      "0x121CE8"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x4207c",
+    "japanese": "ペガシオン",
+    "english": "Pegas",
+    "pointers": [
+      "0x121C50"
+    ],
+    "max_chars": 5
+  },
+  {
+    "offset": "0x42090",
+    "japanese": "アモウ・カオル",
+    "english": "Kaoru",
+    "pointers": [
+      "0x121C48",
+      "0x131CB0"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x420a8",
+    "japanese": "オオマツ・キヨシ",
+    "english": "Kiyoshi",
+    "pointers": [
+      "0x121BA8"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x420bc",
+    "japanese": "ガルマーン",
+    "english": "GalMn",
+    "pointers": [
+      "0x121B10"
+    ],
+    "max_chars": 5
+  },
+  {
+    "offset": "0x420d0",
+    "japanese": "ガルクス",
+    "english": "Galx",
+    "pointers": [
+      "0x00821F",
+      "0x008313",
+      "0x008417",
+      "0x121A70"
+    ],
+    "max_chars": 4
+  },
+  {
+    "offset": "0x420e4",
+    "japanese": "ガルオン",
+    "english": "Glon",
+    "pointers": [
+      "0x1219D0"
+    ],
+    "max_chars": 4
+  },
+  {
+    "offset": "0x420f8",
+    "japanese": "ウルボーグ",
+    "english": "Wolbg",
+    "pointers": [
+      "0x121930"
+    ],
+    "max_chars": 5
+  },
+  {
+    "offset": "0x4210c",
+    "japanese": "グリフォリオン",
+    "english": "GrifLn",
+    "pointers": [
+      "0x121890",
+      "0x12A3AC"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x42124",
+    "japanese": "トライグル",
+    "english": "Trygl",
+    "pointers": [
+      "0x1217F0"
+    ],
+    "max_chars": 5
+  },
+  {
+    "offset": "0x42158",
+    "japanese": "ドラシエル",
+    "english": "Dracl",
+    "pointers": [
+      "0x121570"
+    ],
+    "max_chars": 5
+  },
+  {
+    "offset": "0x42170",
+    "japanese": "ミズハラ・マックス",
+    "english": "Max",
+    "pointers": [
+      "0x121568",
+      "0x131C58"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x42184",
+    "japanese": "ドライガー",
+    "english": "Drigr",
+    "pointers": [
+      "0x1214D0"
+    ],
+    "max_chars": 5
+  },
+  {
+    "offset": "0x42198",
+    "japanese": "コン・レイ",
+    "english": "Rei",
+    "pointers": [
+      "0x1214C8",
+      "0x131C48"
+    ],
+    "max_chars": 5
+  },
+  {
+    "offset": "0x421a4",
+    "japanese": "ドランザー",
+    "english": "Dranz",
+    "pointers": [
+      "0x121430"
+    ],
+    "max_chars": 5
+  },
+  {
+    "offset": "0x421b8",
+    "japanese": "ヒワタリ・カイ",
+    "english": "Kai",
+    "pointers": [
+      "0x121428",
+      "0x131C38"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x421c8",
+    "japanese": "ドラグーン",
+    "english": "Dragn",
+    "pointers": [
+      "0x121390"
+    ],
+    "max_chars": 5
+  },
+  {
+    "offset": "0x421dc",
+    "japanese": "キノミヤ・タカオ",
+    "english": "Takao",
+    "pointers": [
+      "0x121388",
+      "0x131C28"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x421f0",
+    "japanese": "Ａドラグーン",
+    "english": "ADrgn",
+    "pointers": [
+      "0x1212F0"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x42208",
+    "japanese": "スメラギ・ダイチ",
+    "english": "Daichi",
+    "pointers": [
+      "0x1212E8",
+      "0x131C18"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44fec",
+    "japanese": "スペシャルサンクス",
+    "english": "Thanks",
+    "pointers": [
+      "0x131EE8",
+      "0x131F08",
+      "0x131F28",
+      "0x131F58",
+      "0x131F88",
+      "0x131F98",
+      "0x131FD8"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x45000",
+    "japanese": "はやしべ　とものり",
+    "english": "HayTom",
+    "pointers": [
+      "0x131EBC"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x45014",
+    "japanese": "コンポーザー",
+    "english": "Comp",
+    "pointers": [
+      "0x131EB8"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x45044",
+    "japanese": "こしろ　ゆうぞう",
+    "english": "KoshiYuz",
+    "pointers": [
+      "0x131E8C"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x45058",
+    "japanese": "サウンドディレクター",
+    "english": "SndDir",
+    "pointers": [
+      "0x131E88"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x45070",
+    "japanese": "にしじま　あきお",
+    "english": "NishiAk",
+    "pointers": [
+      "0x131E6C"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x45084",
+    "japanese": "さど　せーいち",
+    "english": "SadoSei",
+    "pointers": [
+      "0x131E5C"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x45094",
+    "japanese": "たむら　またきちＦＸ",
+    "english": "TamuraFX",
+    "pointers": [
+      "0x131E4C"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x450ac",
+    "japanese": "むらを　みわ",
+    "english": "MuraMi",
+    "pointers": [
+      "0x131E3C"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x450bc",
+    "japanese": "さとう　みのる",
+    "english": "SatoMin",
+    "pointers": [
+      "0x131E2C"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x450CC",
+    "japanese": "かねだ　ひろゆき",
+    "english": "KanedaH",
+    "pointers": [
+      "0x131E1C"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x450E0",
+    "japanese": "グラフィック　デザイナー",
+    "english": "GfxDesign",
+    "pointers": [
+      "0x131E18",
+      "0x131E48"
+    ],
+    "max_chars": 12
+  },
+  {
+    "offset": "0x450FC",
+    "japanese": "ごとう　ひでとし",
+    "english": "GotoHid",
+    "pointers": [
+      "0x131DFC"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x45110",
+    "japanese": "ほりい　いっぺい",
+    "english": "HoriiIp",
+    "pointers": [
+      "0x131DEC"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x45124",
+    "japanese": "せぐち　ともひろ",
+    "english": "SegTomo",
+    "pointers": [
+      "0x131DDC"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x45138",
+    "japanese": "たなか　ひろのり",
+    "english": "TanaHir",
+    "pointers": [
+      "0x131DCC"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x4514C",
+    "japanese": "ひらさわ　なおき",
+    "english": "HiraNao",
+    "pointers": [
+      "0x131DBC"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x45160",
+    "japanese": "たかばたけ　のりひさ",
+    "english": "TakabaN",
+    "pointers": [
+      "0x131DAC"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x45178",
+    "japanese": "プログラマー",
+    "english": "Coder",
+    "pointers": [
+      "0x131DA8",
+      "0x131DD8"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x45188",
+    "japanese": "やまぎし　よしのり",
+    "english": "YamaYos",
+    "pointers": [
+      "0x131D8C"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x4519C",
+    "japanese": "ふゆき　じんいち",
+    "english": "FuyukiJ",
+    "pointers": [
+      "0x131D7C"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x451B0",
+    "japanese": "ほしや　ひでき",
+    "english": "HoshiH",
+    "pointers": [
+      "0x131D6C"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x451C0",
+    "japanese": "ディレクター",
+    "english": "Direct",
+    "pointers": [
+      "0x131D68"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x451D0",
+    "japanese": "かどわき　みつひろ",
+    "english": "KadoMits",
+    "pointers": [
+      "0x131D4C"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x451E4",
+    "japanese": "プロダクトマネージャー",
+    "english": "Prod.Mgr",
+    "pointers": [
+      "0x131D48"
+    ],
+    "max_chars": 11
+  },
+  {
+    "offset": "0x451FC",
+    "japanese": "おおたか　ひろゆき",
+    "english": "OtaHiro",
+    "pointers": [
+      "0x131D2C"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x45210",
+    "japanese": "プロデューサー",
+    "english": "Prod.",
+    "pointers": [
+      "0x131D28"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x45228",
+    "japanese": "きだに　たかあき",
+    "english": "KidaTaka",
+    "pointers": [
+      "0x131D0C"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x4523C",
+    "japanese": "エグゼクティブ　プロデューサー",
+    "english": "ExecProd",
+    "pointers": [
+      "0x131D08"
+    ],
+    "max_chars": 15
+  },
+  {
+    "offset": "0x42318",
+    "japanese": "ウイングブレード⇒⇔",
+    "english": "W.Blade⇒⇔",
+    "pointers": [
+      "0x127214"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x42330",
+    "japanese": "ウイングブレード∨￢",
+    "english": "W.Blade∨￢",
+    "pointers": [
+      "0x1271B8"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x423D0",
+    "japanese": "グレートドラゴン⇒⇔",
+    "english": "G.Dragon⇒⇔",
+    "pointers": [
+      "0x126F34"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x423E8",
+    "japanese": "グレートドラゴン∨￢",
+    "english": "G.Dragon∨￢",
+    "pointers": [
+      "0x126ED8"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x42474",
+    "japanese": "エイトアタッカー⇒⇔",
+    "english": "8.Attack⇒⇔",
+    "pointers": [
+      "0x126CB0"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x4248C",
+    "japanese": "エイトアタッカー∨￢",
+    "english": "8.Attack∨￢",
+    "pointers": [
+      "0x126C54"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x42518",
+    "japanese": "クロスグリフォン⇒⇔",
+    "english": "X.Griff⇒⇔",
+    "pointers": [
+      "0x126A2C"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x42530",
+    "japanese": "クロスグリフォン∨￢",
+    "english": "X.Griff∨￢",
+    "pointers": [
+      "0x1269D0"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x425D0",
+    "japanese": "エイトスパイク∨￢",
+    "english": "8.Spike∨￢",
+    "pointers": [
+      "0x12674C"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x43020",
+    "japanese": "スターシェイプ∨￢",
+    "english": "StarShp∨￢",
+    "pointers": [
+      "0x123A04"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x43094",
+    "japanese": "トリプルウイング⇒⇔",
+    "english": "TriWing⇒⇔",
+    "pointers": [
+      "0x1237DC"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x430AC",
+    "japanese": "トリプルウイング∨￢",
+    "english": "TriWing∨￢",
+    "pointers": [
+      "0x123780"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x43138",
+    "japanese": "ナイトクロウズ⇒⇔",
+    "english": "N.Crow⇒⇔",
+    "pointers": [
+      "0x123558"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x4314C",
+    "japanese": "ナイトクロウズ∨￢",
+    "english": "N.Crow∨￢",
+    "pointers": [
+      "0x1234FC"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x431C0",
+    "japanese": "スマッシュＴＴＬ⇒⇔",
+    "english": "SmashT⇒⇔",
+    "pointers": [
+      "0x1232D4"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x431D8",
+    "japanese": "スマッシュＴＴＬ∨￢",
+    "english": "SmashT∨￢",
+    "pointers": [
+      "0x123278"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x43264",
+    "japanese": "アッパーＤＲＧ⇒⇔",
+    "english": "UpDRG⇒⇔",
+    "pointers": [
+      "0x123050"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x43300",
+    "japanese": "クロススパイク∨￢",
+    "english": "XSpike∨￢",
+    "pointers": [
+      "0x122D70",
+      "0x306EF7",
+      "0x306F23",
+      "0x306F2F",
+      "0x306F4F"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x43374",
+    "japanese": "タイガーＤＦ⇒⇔",
+    "english": "TigrDF⇒⇔",
+    "pointers": [
+      "0x122B48"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x43410",
+    "japanese": "ダブルウィング∨￢",
+    "english": "D.Wing∨￢",
+    "pointers": [
+      "0x122868"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x43424",
+    "japanese": "ダブルウィング∀∃",
+    "english": "D.Wing∀∃",
+    "pointers": [
+      "0x12280C"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x43484",
+    "japanese": "リバースドラゴン⇒⇔",
+    "english": "R.Drg⇒⇔",
+    "pointers": [
+      "0x122640"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x4349C",
+    "japanese": "リバースドラゴン∨￢",
+    "english": "R.Drg∨￢",
+    "pointers": [
+      "0x1225E4"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x4357C",
+    "japanese": "アースウイング∀∃",
+    "english": "EarthW∀∃",
+    "pointers": [
+      "0x12AF88"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x43590",
+    "japanese": "アースウイング⇒⇔",
+    "english": "EarthW⇒⇔",
+    "pointers": [
+      "0x12AF2C"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x435A4",
+    "japanese": "アースウイング∨￢",
+    "english": "EarthW∨￢",
+    "pointers": [
+      "0x12AED0"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x4362C",
+    "japanese": "Ｇ－スペシャル∀∃",
+    "english": "G.Spec∀∃",
+    "pointers": [
+      "0x12AC4C"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x43640",
+    "japanese": "Ｇ－スペシャル⇒⇔",
+    "english": "G.Spec⇒⇔",
+    "pointers": [
+      "0x12ABF0"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x43654",
+    "japanese": "Ｇ－スペシャル∨￢",
+    "english": "G.Spec∨￢",
+    "pointers": [
+      "0x12AB94"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x436DC",
+    "japanese": "マグネフラット∀∃",
+    "english": "M.Flat∀∃",
+    "pointers": [
+      "0x12A910"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x436F0",
+    "japanese": "マグネフラット⇒⇔",
+    "english": "M.Flat⇒⇔",
+    "pointers": [
+      "0x12A8B4"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x43704",
+    "japanese": "マグネフラット∨￢",
+    "english": "M.Flat∨￢",
+    "pointers": [
+      "0x12A858"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x4378C",
+    "japanese": "グリフォリオン∀∃",
+    "english": "Griff∀∃",
+    "pointers": [
+      "0x12A5D4"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x437A0",
+    "japanese": "グリフォリオン⇒⇔",
+    "english": "Griff⇒⇔",
+    "pointers": [
+      "0x12A578"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x437B4",
+    "japanese": "グリフォリオン∨￢",
+    "english": "Griff∨￢",
+    "pointers": [
+      "0x12A51C"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x4382C",
+    "japanese": "ジャンピング∀∃",
+    "english": "Jump∀∃",
+    "pointers": [
+      "0x12A298"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x43840",
+    "japanese": "ジャンピング⇒⇔",
+    "english": "Jump⇒⇔",
+    "pointers": [
+      "0x12A23C"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x43854",
+    "japanese": "ジャンピング∨￢",
+    "english": "Jump∨￢",
+    "pointers": [
+      "0x12A1E0"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x438DC",
+    "japanese": "フォートレス∀∃",
+    "english": "Fort⇒⇔",
+    "pointers": [
+      "0x129F5C"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x438F0",
+    "japanese": "フォートレス⇒⇔",
+    "english": "Fort⇒⇔",
+    "pointers": [
+      "0x129F00"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x43904",
+    "japanese": "フォートレス∨￢",
+    "english": "Fort∨￢",
+    "pointers": [
+      "0x129EA4"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x4398C",
+    "japanese": "ＦＡクラッチ∀∃",
+    "english": "FACl∀∃",
+    "pointers": [
+      "0x129C20"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x439A0",
+    "japanese": "ＦＡクラッチ⇒⇔",
+    "english": "FACl⇒⇔",
+    "pointers": [
+      "0x129BC4"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x439B4",
+    "japanese": "ＦＡクラッチ∨￢",
+    "english": "FACl∨￢",
+    "pointers": [
+      "0x129B68"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x43A44",
+    "japanese": "フレイムチェンジ∀∃",
+    "english": "FlmChg∀∃",
+    "pointers": [
+      "0x1298E4"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x43A5C",
+    "japanese": "フレイムチェンジ⇒⇔",
+    "english": "FlmChg⇒⇔",
+    "pointers": [
+      "0x129888"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x43A74",
+    "japanese": "フレイムチェンジ∨￢",
+    "english": "FlmChg∨￢",
+    "pointers": [
+      "0x12982C"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x43B18",
+    "japanese": "ファントムＧＲＰ∀∃",
+    "english": "PhantGRP∀∃",
+    "pointers": [
+      "0x1295A8"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x43B30",
+    "japanese": "ファントムＧＲＰ⇒⇔",
+    "english": "PhantGRP⇒⇔",
+    "pointers": [
+      "0x12954C"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x43E14",
+    "japanese": "メタルスティング⇒⇔",
+    "english": "M.Sting⇒⇔",
+    "pointers": [
+      "0x12885C"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x43E2C",
+    "japanese": "メタルスティング∨￢",
+    "english": "M.Sting∨￢",
+    "pointers": [
+      "0x128800"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x43EC0",
+    "japanese": "ベアリング∀∃",
+    "english": "Bear∀∃",
+    "pointers": [
+      "0x12857C"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x43ED0",
+    "japanese": "ベアリング⇒⇔",
+    "english": "Bear⇒⇔",
+    "pointers": [
+      "0x128520"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x43EE0",
+    "japanese": "ベアリング∨￢",
+    "english": "Bear∨￢",
+    "pointers": [
+      "0x1284C4"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x43F54",
+    "japanese": "オートチェンジ∀∃",
+    "english": "AutoChg∀∃",
+    "pointers": [
+      "0x128240"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x43F68",
+    "japanese": "オートチェンジ⇒⇔",
+    "english": "AutoChg⇒⇔",
+    "pointers": [
+      "0x1281E4"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x43F7C",
+    "japanese": "オートチェンジ∨￢",
+    "english": "AutoChg∨￢",
+    "pointers": [
+      "0x128188"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x4400C",
+    "japanese": "ＳＧセミフラット∀∃",
+    "english": "SGSFlat∀∃",
+    "pointers": [
+      "0x127F04"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x44024",
+    "japanese": "ＳＧセミフラット⇒⇔",
+    "english": "SGSFlat⇒⇔",
+    "pointers": [
+      "0x127EA8"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x43B48",
+    "japanese": "ファントムＧＲＰ∨￢",
+    "english": "PhantGRP∨￢",
+    "pointers": [
+      "0x1294F0"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x43BE4",
+    "japanese": "スパイラルＣＨ∀∃",
+    "english": "SpirCH∀∃",
+    "pointers": [
+      "0x12926C"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x43BF8",
+    "japanese": "スパイラルＣＨ⇒⇔",
+    "english": "SpirCH⇒⇔",
+    "pointers": [
+      "0x129210"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x43C0C",
+    "japanese": "スパイラルＣＨ∨￢",
+    "english": "SpirCH∨￢",
+    "pointers": [
+      "0x1291B4"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x43C94",
+    "japanese": "メタルボール∀∃",
+    "english": "MtBall∀∃",
+    "pointers": [
+      "0x128F30"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x43CA8",
+    "japanese": "メタルボール⇒⇔",
+    "english": "MtBall⇒⇔",
+    "pointers": [
+      "0x128ED4"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x43CBC",
+    "japanese": "メタルボール∨￢",
+    "english": "MtBall∨￢",
+    "pointers": [
+      "0x128E78"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x43D44",
+    "japanese": "メタルチェンジ∀∃",
+    "english": "MChg∀∃",
+    "pointers": [
+      "0x128BF4"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x43D58",
+    "japanese": "メタルチェンジ⇒⇔",
+    "english": "MChg⇒⇔",
+    "pointers": [
+      "0x128B98"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x43D6C",
+    "japanese": "メタルチェンジ∨￢",
+    "english": "MChg∨￢",
+    "pointers": [
+      "0x128B3C"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x4403C",
+    "japanese": "ＳＧセミフラット∨￢",
+    "english": "SGSFlat∨￢",
+    "pointers": [
+      "0x127E4C"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x440D8",
+    "japanese": "ＳＧフラット∀∃",
+    "english": "SGFlat∀∃",
+    "pointers": [
+      "0x127BC8"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x440EC",
+    "japanese": "ＳＧフラット⇒⇔",
+    "english": "SGFlat⇒⇔",
+    "pointers": [
+      "0x127B6C"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44100",
+    "japanese": "ＳＧフラット∨￢",
+    "english": "SGFlat∨￢",
+    "pointers": [
+      "0x127B10"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44188",
+    "japanese": "ＳＧシャープ∀∃",
+    "english": "SGShar∀∃",
+    "pointers": [
+      "0x12788C"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x4419C",
+    "japanese": "ＳＧシャープ⇒⇔",
+    "english": "SGShar⇒⇔",
+    "pointers": [
+      "0x127830"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x441B0",
+    "japanese": "ＳＧシャープ∨￢",
+    "english": "SGShar∨￢",
+    "pointers": [
+      "0x1277D4"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44240",
+    "japanese": "ストームグリップ∀∃",
+    "english": "StormGr∀∃",
+    "pointers": [
+      "0x127550"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x44258",
+    "japanese": "ストームグリップ⇒⇔",
+    "english": "StormGr⇒⇔",
+    "pointers": [
+      "0x1274F4"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x44270",
+    "japanese": "ストームグリップ∨￢",
+    "english": "StormGr∨￢",
+    "pointers": [
+      "0x127498"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x442F8",
+    "japanese": "ザ・ウエイト",
+    "english": "Weight",
+    "pointers": [
+      "0x12CD00"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x44308",
+    "japanese": "ウイングスレイブ⇒⇔",
+    "english": "WingSlv⇒⇔",
+    "pointers": [
+      "0x12CCA4"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x44320",
+    "japanese": "ウイングスレイブ∨￢",
+    "english": "WingSlv∨￢",
+    "pointers": [
+      "0x12CC48"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x443AC",
+    "japanese": "テンワイド⇒⇔",
+    "english": "TnWid⇒⇔",
+    "pointers": [
+      "0x12CA20"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x443BC",
+    "japanese": "テンワイド∨￢",
+    "english": "TnWid∨￢",
+    "pointers": [
+      "0x12C9C4"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x44418",
+    "japanese": "ヘビィアタック⇒⇔",
+    "english": "HvyAtk⇒⇔",
+    "pointers": [
+      "0x12C79C"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x4442C",
+    "japanese": "ヘビィアタック∨￢",
+    "english": "HvyAtk∨￢",
+    "pointers": [
+      "0x12C740"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x444A0",
+    "japanese": "ワイドＤＦ⇒⇔",
+    "english": "W.DF⇒⇔",
+    "pointers": [
+      "0x12C518"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x444B0",
+    "japanese": "ワイドＤＦ∨￢",
+    "english": "W.DF∨￢",
+    "pointers": [
+      "0x12C4BC"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x4450C",
+    "japanese": "スパーク⇒⇔",
+    "english": "Spk⇒⇔",
+    "pointers": [
+      "0x12C294"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x4451C",
+    "japanese": "スパーク∨￢",
+    "english": "Spk∨￢",
+    "pointers": [
+      "0x12C238"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x44578",
+    "japanese": "ワイド⇒⇔",
+    "english": "Wid⇒⇔",
+    "pointers": [
+      "0x12C010"
+    ],
+    "max_chars": 5
+  },
+  {
+    "offset": "0x44584",
+    "japanese": "ワイド∨￢",
+    "english": "Wid∨￢",
+    "pointers": [
+      "0x12BFB4"
+    ],
+    "max_chars": 5
+  },
+  {
+    "offset": "0x445C8",
+    "japanese": "ヘビィ⇒⇔",
+    "english": "Hvy⇒⇔",
+    "pointers": [
+      "0x12BD8C"
+    ],
+    "max_chars": 5
+  },
+  {
+    "offset": "0x445D4",
+    "japanese": "ヘビィ∨￢",
+    "english": "Hvy∨￢",
+    "pointers": [
+      "0x12BD30"
+    ],
+    "max_chars": 5
+  },
+  {
+    "offset": "0x44618",
+    "japanese": "バランス⇒⇔",
+    "english": "Bal⇒⇔",
+    "pointers": [
+      "0x12BB08"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x44628",
+    "japanese": "バランス∨￢",
+    "english": "Bal∨￢",
+    "pointers": [
+      "0x12BAAC"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x44684",
+    "japanese": "エイトバランス⇒⇔",
+    "english": "8Bal⇒⇔",
+    "pointers": [
+      "0x12B884"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x44698",
+    "japanese": "エイトバランス∨￢",
+    "english": "8Bal∨￢",
+    "pointers": [
+      "0x12B828"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x4470C",
+    "japanese": "エイトヘビィ⇒⇔",
+    "english": "8Hvy⇒⇔",
+    "pointers": [
+      "0x12B600"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44720",
+    "japanese": "エイトヘビィ∨￢",
+    "english": "8Hvy∨￢",
+    "pointers": [
+      "0x12B5A4"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44794",
+    "japanese": "エイトワイド⇒⇔",
+    "english": "8Wide⇒⇔",
+    "pointers": [
+      "0x12B37C"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x447A8",
+    "japanese": "エイトワイド∨￢",
+    "english": "8Wide∨￢",
+    "pointers": [
+      "0x12B320"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x4480C",
+    "japanese": "エイトワイド",
+    "english": "8Wide",
+    "pointers": [
+      "0x12B154"
+    ],
+    "max_chars": 6
+  },
+  {
+    "offset": "0x44CE8",
+    "japanese": "ジッチャン",
+    "english": "Gramp",
+    "pointers": [
+      "0x131CFC"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44CF4",
+    "japanese": "ＢＢＡ",
+    "english": "BBA",
+    "pointers": [
+      "0x131CF8"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44CFC",
+    "japanese": "だいてんじ",
+    "english": "Daitenji",
+    "pointers": [
+      "0x131CF4"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44D08",
+    "japanese": "ひるた",
+    "english": "Hiruta",
+    "pointers": [
+      "0x131CEC"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44D10",
+    "japanese": "ヒルタ",
+    "english": "Hiruta",
+    "pointers": [
+      "0x131CE8"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44D18",
+    "japanese": "すずか",
+    "english": "Suzuka",
+    "pointers": [
+      "0x131CE4"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44D20",
+    "japanese": "スズカ",
+    "english": "Suzuka",
+    "pointers": [
+      "0x131CE0"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44D28",
+    "japanese": "つくば",
+    "english": "Tsukuba",
+    "pointers": [
+      "0x131CDC"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44D30",
+    "japanese": "ツクバ",
+    "english": "Tsukuba",
+    "pointers": [
+      "0x131CD8"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44D38",
+    "japanese": "ぶれーだーＤＪ",
+    "english": "BldrDJ",
+    "pointers": [
+      "0x131CD4"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44D48",
+    "japanese": "きょうじゅ",
+    "english": "Prof.",
+    "pointers": [
+      "0x131CC8"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44D54",
+    "japanese": "まさむね",
+    "english": "Masamune",
+    "pointers": [
+      "0x131CC0"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44D60",
+    "japanese": "あもう・かおる",
+    "english": "Kaoru",
+    "pointers": [
+      "0x131CB8"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44D70",
+    "japanese": "かおる",
+    "english": "Kaoru",
+    "pointers": [
+      "0x131CB4"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44D78",
+    "japanese": "きき",
+    "english": "Kiki",
+    "pointers": [
+      "0x131CA8"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44D80",
+    "japanese": "まお",
+    "english": "Mao",
+    "pointers": [
+      "0x131CA0"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44D88",
+    "japanese": "らい",
+    "english": "Rai",
+    "pointers": [
+      "0x131C98"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44D90",
+    "japanese": "ゆーり",
+    "english": "Yuri",
+    "pointers": [
+      "0x131C90"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44D98",
+    "japanese": "らるふ",
+    "english": "Ralf",
+    "pointers": [
+      "0x131C88"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44DA0",
+    "japanese": "まいける",
+    "english": "Michael",
+    "pointers": [
+      "0x131C80"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44DB8",
+    "japanese": "あきら",
+    "english": "Akira",
+    "pointers": [
+      "0x131C70"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44DC0",
+    "japanese": "のぶお",
+    "english": "Nobuo",
+    "pointers": [
+      "0x131C68"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44DC8",
+    "japanese": "みずはら・まっくす",
+    "english": "Max",
+    "pointers": [
+      "0x131C60"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44DDC",
+    "japanese": "まっくす",
+    "english": "Max",
+    "pointers": [
+      "0x131C5C"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44DE8",
+    "japanese": "こん・れい",
+    "english": "Rei",
+    "pointers": [
+      "0x131C50"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44DF4",
+    "japanese": "れい",
+    "english": "Rei",
+    "pointers": [
+      "0x131C4C"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44DFC",
+    "japanese": "ひわたり・かい",
+    "english": "Kai",
+    "pointers": [
+      "0x131C40"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44E0C",
+    "japanese": "かい",
+    "english": "Kai",
+    "pointers": [
+      "0x131C3C"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44E14",
+    "japanese": "きのみや・たかお",
+    "english": "Takao",
+    "pointers": [
+      "0x131C30"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44E1E",
+    "japanese": "たかお",
+    "english": "Takao",
+    "pointers": [
+      "0x0AD7CD"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44E28",
+    "japanese": "たかお",
+    "english": "Takao",
+    "pointers": [
+      "0x131C2C"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44E30",
+    "japanese": "すめらぎ・だいち",
+    "english": "Daichi",
+    "pointers": [
+      "0x131C20"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44E44",
+    "japanese": "だいち",
+    "english": "Daichi",
+    "pointers": [
+      "0x131C1C"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x445E0",
+    "japanese": "ヘビィ・∧",
+    "english": "Hvy・∧",
+    "pointers": [
+      "0x12BCD4"
+    ],
+    "japanese_hex": "83778372834281c781c8",
+    "english_hex": "82678296829981c781c8"
+  },
+  {
+    "offset": "0x445EC",
+    "japanese": "ヘビィ・・",
+    "english": "Hvy・・",
+    "pointers": [
+      "0x12BC78"
+    ],
+    "japanese_hex": "83778372834281c581c6",
+    "english_hex": "82678296829981c581c6"
+  },
+  {
+    "offset": "0x445F8",
+    "japanese": "ヘビィ・・",
+    "english": "Hvy・・",
+    "pointers": [
+      "0x12BC1C"
+    ],
+    "japanese_hex": "83778372834281c381c4",
+    "english_hex": "82678296829981c381c4"
+  },
+  {
+    "offset": "0x44604",
+    "japanese": "ヘビィ・・",
+    "english": "Hvy・・",
+    "pointers": [
+      "0x12BBC0"
+    ],
+    "japanese_hex": "83778372834281c181c2",
+    "english_hex": "82678296829981c181c2"
+  },
+  {
+    "offset": "0x44638",
+    "japanese": "バランス・∧",
+    "english": "Bal・∧",
+    "pointers": [
+      "0x12BA50"
+    ],
+    "japanese_hex": "836f83898393835881c781c8",
+    "english_hex": "82618281828c81c781c8"
+  },
+  {
+    "offset": "0x44648",
+    "japanese": "バランス・・",
+    "english": "Bal・・",
+    "pointers": [
+      "0x12B9F4"
+    ],
+    "japanese_hex": "836f83898393835881c581c6",
+    "english_hex": "82618281828c81c581c6"
+  },
+  {
+    "offset": "0x44658",
+    "japanese": "バランス・・",
+    "english": "Bal・・",
+    "pointers": [
+      "0x12B998"
+    ],
+    "japanese_hex": "836f83898393835881c381c4",
+    "english_hex": "82618281828c81c381c4"
+  },
+  {
+    "offset": "0x44668",
+    "japanese": "バランス・・",
+    "english": "Bal・・",
+    "pointers": [
+      "0x12B93C"
+    ],
+    "japanese_hex": "836f83898393835881c181c2",
+    "english_hex": "82618281828c81c181c2"
+  },
+  {
+    "offset": "0x446AC",
+    "japanese": "エイトバランス・∧",
+    "english": "8Bal・∧",
+    "pointers": [
+      "0x12B7CC"
+    ],
+    "japanese_hex": "834783438367836f83898393835881c781c8",
+    "english_hex": "825782618281828c81c781c8"
+  },
+  {
+    "offset": "0x446C0",
+    "japanese": "エイトバランス・・",
+    "english": "8Bal・・",
+    "pointers": [
+      "0x12B770"
+    ],
+    "japanese_hex": "834783438367836f83898393835881c581c6",
+    "english_hex": "825782618281828c81c581c6"
+  },
+  {
+    "offset": "0x446D4",
+    "japanese": "エイトバランス・・",
+    "english": "8Bal・・",
+    "pointers": [
+      "0x12B714"
+    ],
+    "japanese_hex": "834783438367836f83898393835881c381c4",
+    "english_hex": "825782618281828c81c381c4"
+  },
+  {
+    "offset": "0x446E8",
+    "japanese": "エイトバランス・・",
+    "english": "8Bal・・",
+    "pointers": [
+      "0x12B6B8"
+    ],
+    "japanese_hex": "834783438367836f83898393835881c181c2",
+    "english_hex": "825782618281828c81c181c2"
+  },
+  {
+    "offset": "0x44734",
+    "japanese": "エイトヘビィ・∧",
+    "english": "8Hvy・∧",
+    "pointers": [
+      "0x12B548"
+    ],
+    "japanese_hex": "83478343836783778372834281c781c8",
+    "english_hex": "825782678296829981c781c8"
+  },
+  {
+    "offset": "0x44748",
+    "japanese": "エイトヘビィ・・",
+    "english": "8Hvy・・",
+    "pointers": [
+      "0x12B4EC"
+    ],
+    "japanese_hex": "83478343836783778372834281c581c6",
+    "english_hex": "825782678296829981c581c6"
+  },
+  {
+    "offset": "0x4475C",
+    "japanese": "エイトヘビィ・・",
+    "english": "8Hvy・・",
+    "pointers": [
+      "0x12B490"
+    ],
+    "japanese_hex": "83478343836783778372834281c381c4",
+    "english_hex": "825782678296829981c381c4"
+  },
+  {
+    "offset": "0x44770",
+    "japanese": "エイトヘビィ・・",
+    "english": "8Hvy・・",
+    "pointers": [
+      "0x12B434"
+    ],
+    "japanese_hex": "83478343836783778372834281c181c2",
+    "english_hex": "825782678296829981c181c2"
+  },
+  {
+    "offset": "0x447BC",
+    "japanese": "エイトワイド・∧",
+    "english": "8Wide・∧",
+    "pointers": [
+      "0x12B2C4"
+    ],
+    "japanese_hex": "834783438367838f8343836881c781c8",
+    "english_hex": "8257827682898284828581c781c8"
+  },
+  {
+    "offset": "0x447D0",
+    "japanese": "エイトワイド・・",
+    "english": "8Wide・・",
+    "pointers": [
+      "0x12B268"
+    ],
+    "japanese_hex": "834783438367838f8343836881c581c6",
+    "english_hex": "8257827682898284828581c581c6"
+  },
+  {
+    "offset": "0x447E4",
+    "japanese": "エイトワイド・・",
+    "english": "8Wide・・",
+    "pointers": [
+      "0x12B20C"
+    ],
+    "japanese_hex": "834783438367838f8343836881c381c4",
+    "english_hex": "8257827682898284828581c381c4"
+  },
+  {
+    "offset": "0x447F8",
+    "japanese": "エイトワイド・・",
+    "english": "8Wide・・",
+    "pointers": [
+      "0x12B1B0"
+    ],
+    "japanese_hex": "834783438367838f8343836881c181c2",
+    "english_hex": "8257827682898284828581c181c2"
+  },
+  {
+    "offset": "0x42008",
+    "japanese": "おじさん",
+    "english": "Old Man",
+    "pointers": [
+      "0x12228C"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x42030",
+    "japanese": "ダイテンジ",
+    "english": "Daitenji",
+    "pointers": [
+      "0x122148",
+      "0x12214C",
+      "0x131CF0"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x42348",
+    "japanese_hex": "834583438393834f8375838c815b836881c781c8",
+    "english": "W.Blade・∧",
+    "english_hex": "827681448261828c82818284828581c781c8",
+    "pointers": [
+      "0x12715c"
+    ],
+    "max_chars": 10,
+    "japanese": "ウイングブレード・∧"
+  },
+  {
+    "offset": "0x42360",
+    "japanese_hex": "834583438393834f8375838c815b836881c581c6",
+    "english": "W.Blade・・",
+    "english_hex": "827681448261828c82818284828581c581c6",
+    "pointers": [
+      "0x127100"
+    ],
+    "max_chars": 10,
+    "japanese": "ウイングブレード・・"
+  },
+  {
+    "offset": "0x42378",
+    "japanese_hex": "834583438393834f8375838c815b836881c381c4",
+    "english": "W.Blade・・",
+    "english_hex": "827681448261828c82818284828581c381c4",
+    "pointers": [
+      "0x1270a4"
+    ],
+    "max_chars": 10,
+    "japanese": "ウイングブレード・・"
+  },
+  {
+    "offset": "0x42390",
+    "japanese_hex": "834583438393834f8375838c815b836881c181c2",
+    "english": "W.Blade・・",
+    "english_hex": "827681448261828c82818284828581c181c2",
+    "pointers": [
+      "0x127048"
+    ],
+    "max_chars": 10,
+    "japanese": "ウイングブレード・・"
+  },
+  {
+    "offset": "0x42400",
+    "japanese_hex": "834f838c815b8367836883898353839381c781c8",
+    "english": "G.Dragon・∧",
+    "english_hex": "826681448263829282818287828f828e81c781c8",
+    "pointers": [
+      "0x126e7c"
+    ],
+    "max_chars": 10,
+    "japanese": "グレートドラゴン・∧"
+  },
+  {
+    "offset": "0x42418",
+    "japanese_hex": "834f838c815b8367836883898353839381c581c6",
+    "english": "G.Dragon・・",
+    "english_hex": "826681448263829282818287828f828e81c581c6",
+    "pointers": [
+      "0x126e20"
+    ],
+    "max_chars": 10,
+    "japanese": "グレートドラゴン・・"
+  },
+  {
+    "offset": "0x42430",
+    "japanese_hex": "834f838c815b8367836883898353839381c381c4",
+    "english": "G.Dragon・・",
+    "english_hex": "826681448263829282818287828f828e81c381c4",
+    "pointers": [
+      "0x126dc4"
+    ],
+    "max_chars": 10,
+    "japanese": "グレートドラゴン・・"
+  },
+  {
+    "offset": "0x42448",
+    "japanese_hex": "834f838c815b8367836883898353839381c181c2",
+    "english": "G.Dragon・・",
+    "english_hex": "826681448263829282818287828f828e81c181c2",
+    "pointers": [
+      "0x126d68"
+    ],
+    "max_chars": 10,
+    "japanese": "グレートドラゴン・・"
+  },
+  {
+    "offset": "0x424a4",
+    "japanese": "エイトアタッカー・∧",
+    "japanese_hex": "8347834383678341835e8362834a815b81c781c8",
+    "english": "8.Attack・∧",
+    "english_hex": "8257814482608294829482818283828b81c781c8",
+    "pointers": [
+      "0x126bf8"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x424bc",
+    "japanese": "エイトアタッカー・・",
+    "japanese_hex": "8347834383678341835e8362834a815b81c581c6",
+    "english": "8.Attack・・",
+    "english_hex": "8257814482608294829482818283828b81c581c6",
+    "pointers": [
+      "0x126b9c"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x424d4",
+    "japanese": "エイトアタッカー・・",
+    "japanese_hex": "8347834383678341835e8362834a815b81c381c4",
+    "english": "8.Attack・・",
+    "english_hex": "8257814482608294829482818283828b81c381c4",
+    "pointers": [
+      "0x126b40"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x424ec",
+    "japanese": "エイトアタッカー・・",
+    "japanese_hex": "8347834383678341835e8362834a815b81cf81d0",
+    "english": "8.Attack・・",
+    "english_hex": "8257814482608294829482818283828b81c181c2",
+    "pointers": [
+      "0x126ae4"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x42548",
+    "japanese": "クロスグリフォン・∧",
+    "japanese_hex": "834e838d8358834f838a83748348839381c781c8",
+    "english": "X.Griff・∧",
+    "english_hex": "827781448266829282898286828681c781c8",
+    "pointers": [
+      "0x126974"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x42560",
+    "japanese": "クロスグリフォン・・",
+    "japanese_hex": "834e838d8358834f838a83748348839381c581c6",
+    "english": "X.Griff・・",
+    "english_hex": "827781448266829282898286828681c581c6",
+    "pointers": [
+      "0x126918"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x42578",
+    "japanese": "クロスグリフォン・・",
+    "japanese_hex": "834e838d8358834f838a83748348839381c381c4",
+    "english": "X.Griff・・",
+    "english_hex": "827781448266829282898286828681c381c4",
+    "pointers": [
+      "0x1268bc"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x42590",
+    "japanese": "クロスグリフォン・・",
+    "japanese_hex": "834e838d8358834f838a83748348839381c181c2",
+    "english": "X.Griff・・",
+    "english_hex": "827781448266829282898286828681c181c2",
+    "pointers": [
+      "0x126860"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x44ea4",
+    "japanese": "かたぎ　あきら",
+    "english": "KatagiA",
+    "pointers": [
+      "0x131ffc"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x44eb4",
+    "japanese": "よしだ　てつま",
+    "english": "YoshidT",
+    "pointers": [
+      "0x131fec"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x44ec4",
+    "japanese": "あらい　ひろゆき",
+    "english": "AraiH",
+    "pointers": [
+      "0x131fdc"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44ed8",
+    "japanese": "みかみ　ゆきこ",
+    "english": "MikamiY",
+    "pointers": [
+      "0x131fcc"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x44ee8",
+    "japanese": "むらやま　けんたろう",
+    "english": "MurayamaK",
+    "pointers": [
+      "0x131fbc"
+    ],
+    "max_chars": 10
+  },
+  {
+    "offset": "0x44f00",
+    "japanese": "うめまつ　ゆきお",
+    "english": "UmematY",
+    "pointers": [
+      "0x131fac"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44f14",
+    "japanese": "きむら　おさむ",
+    "english": "KimuraO",
+    "pointers": [
+      "0x131f9c"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x44f24",
+    "japanese": "なかた　ともひろ",
+    "english": "NakataT",
+    "pointers": [
+      "0x131f8c"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44f38",
+    "japanese": "まえだ　のりゆき",
+    "english": "MaedaN",
+    "pointers": [
+      "0x131f6c"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44f4c",
+    "japanese": "すずき　としのぶ",
+    "english": "SuzukiT",
+    "pointers": [
+      "0x131f5c"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44f60",
+    "japanese": "（タカラ）",
+    "english": "(Takara)",
+    "pointers": [
+      "0x131f4c",
+      "0x131f7c"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44f6c",
+    "japanese": "おおさわ　たかし",
+    "english": "OosawaT",
+    "pointers": [
+      "0x131f3c"
+    ],
+    "max_chars": 8
+  },
+  {
+    "offset": "0x44f80",
+    "japanese": "まつかわ　ひろゆき",
+    "english": "MatsukaH",
+    "pointers": [
+      "0x131f2c"
+    ],
+    "max_chars": 9
+  },
+  {
+    "offset": "0x44fac",
+    "japanese": "あおき　まみこ",
+    "english": "AokiM",
+    "pointers": [
+      "0x131f0c"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x44fbc",
+    "japanese": "あおき　たかお",
+    "english": "AokiT",
+    "pointers": [
+      "0x131efc"
+    ],
+    "max_chars": 7
+  },
+  {
+    "offset": "0x44fcc",
+    "japanese": "コロコロコミックへんしゅうぶ",
+    "english": "CoroCoro Ed.",
+    "pointers": [
+      "0x131eec"
+    ],
+    "max_chars": 14
+  },
+  {
+    "offset": "0x425BC",
+    "japanese": "エイトスパイク・・",
+    "english": "8Spike・・",
+    "pointers": [
+      "0x1267A8"
+    ],
+    "japanese_hex": "834783438367835883708343834e81d181d2",
+    "english_hex": "8257827282908289828b828581d181d2",
+    "max_chars": 9
+  },
+  {
+    "offset": "0x425E4",
+    "japanese": "エイトスパイク・∧",
+    "english": "8Spike・∧",
+    "pointers": [
+      "0x1266F0"
+    ],
+    "japanese_hex": "834783438367835883708343834e81c781c8",
+    "english_hex": "8257827282908289828b828581c781c8",
+    "max_chars": 9
+  },
+  {
+    "offset": "0x425F8",
+    "japanese": "エイトスパイク・・",
+    "english": "8Spike・・",
+    "pointers": [
+      "0x126694"
+    ],
+    "japanese_hex": "834783438367835883708343834e81c581c6",
+    "english_hex": "8257827282908289828b828581c581c6",
+    "max_chars": 9
+  },
+  {
+    "offset": "0x4260C",
+    "japanese": "エイトスパイク・・",
+    "english": "8Spike・・",
+    "pointers": [
+      "0x126638"
+    ],
+    "japanese_hex": "834783438367835883708343834e81c381c4",
+    "english_hex": "8257827282908289828b828581c381c4",
+    "max_chars": 9
+  },
+  {
+    "offset": "0x42620",
+    "japanese": "エイトスパイク・・",
+    "english": "8Spike・・",
+    "pointers": [
+      "0x1265DC"
+    ],
+    "japanese_hex": "834783438367835883708343834e81c181c2",
+    "english_hex": "8257827282908289828b828581c181c2",
+    "max_chars": 9
+  },
+  {
+    "offset": "0x42644",
+    "japanese": "クロスファング⇒⇔",
+    "english": "X.Fang⇒⇔",
+    "pointers": [
+      "0x126524"
+    ]
+  },
+  {
+    "offset": "0x42658",
+    "japanese": "クロスファング∨￢",
+    "english": "X.Fang∨￢",
+    "pointers": [
+      "0x1264C8"
+    ]
+  },
+  {
+    "offset": "0x4266C",
+    "japanese": "クロスファング・∧",
+    "english": "X.Fang・∧",
+    "pointers": [
+      "0x12646C"
+    ],
+    "japanese_hex": "834e838d8358837483408393834f81c781c8",
+    "english_hex": "8277814482658281828e828781c781c8",
+    "max_chars": 9
+  },
+  {
+    "offset": "0x42680",
+    "japanese": "クロスファング・・",
+    "english": "X.Fang・・",
+    "pointers": [
+      "0x126410"
+    ],
+    "japanese_hex": "834e838d8358837483408393834f81c581c6",
+    "english_hex": "8277814482658281828e828781c581c6",
+    "max_chars": 9
+  },
+  {
+    "offset": "0x42694",
+    "japanese": "クロスファング・・",
+    "english": "X.Fang・・",
+    "pointers": [
+      "0x1263B4"
+    ],
+    "japanese_hex": "834e838d8358837483408393834f81c381c4",
+    "english_hex": "8277814482658281828e828781c381c4",
+    "max_chars": 9
+  },
+  {
+    "offset": "0x426A8",
+    "japanese": "クロスファング・・",
+    "english": "X.Fang・・",
+    "pointers": [
+      "0x126358"
+    ],
+    "japanese_hex": "834e838d8358837483408393834f81c181c2",
+    "english_hex": "8277814482658281828e828781c181c2",
+    "max_chars": 9
+  },
+  {
+    "offset": "0x426BC",
+    "japanese": "クロスファング",
+    "english": "X.Fang",
+    "pointers": [
+      "0x1262FC"
+    ]
+  },
+  {
+    "offset": "0x426CC",
+    "japanese": "フレイムウイング⇒⇔",
+    "english": "FlmWing⇒⇔",
+    "pointers": [
+      "0x1262A0"
+    ]
+  },
+  {
+    "offset": "0x426E4",
+    "japanese": "フレイムウイング∨￢",
+    "english": "FlmWing∨￢",
+    "pointers": [
+      "0x126244"
+    ]
+  },
+  {
+    "offset": "0x426FC",
+    "japanese": "フレイムウイング・・",
+    "english": "FlmWing・・",
+    "japanese_hex": "8374838c83438380834583438393834f81d181d2",
+    "english_hex": "8265828c828d82768289828e828781d181d2",
+    "max_chars": 10,
+    "pointers": [
+      "0x1261E8"
+    ]
+  },
+  {
+    "offset": "0x42714",
+    "japanese": "フレイムウイング・・",
+    "english": "FlmWing・・",
+    "japanese_hex": "8374838c83438380834583438393834f81c581c6",
+    "english_hex": "8265828c828d82768289828e828781c581c6",
+    "max_chars": 10,
+    "pointers": [
+      "0x12618C"
+    ]
+  },
+  {
+    "offset": "0x4272C",
+    "japanese": "フレイムウイング・・",
+    "english": "FlmWing・・",
+    "japanese_hex": "8374838c83438380834583438393834f81c381c4",
+    "english_hex": "8265828c828d82768289828e828781c381c4",
+    "max_chars": 10,
+    "pointers": [
+      "0x126130"
+    ]
+  },
+  {
+    "offset": "0x42744",
+    "japanese": "フレイムウイング・・",
+    "english": "FlmWing・・",
+    "japanese_hex": "8374838c83438380834583438393834f81c181c2",
+    "english_hex": "8265828c828d82768289828e828781c181c2",
+    "max_chars": 10,
+    "pointers": [
+      "0x1260D4"
+    ]
+  },
+  {
+    "offset": "0x42770",
+    "japanese": "デュアルドラゴン⇒⇔",
+    "english": "DualDrag⇒⇔",
+    "pointers": [
+      "0x12601C"
+    ]
+  },
+  {
+    "offset": "0x42788",
+    "japanese": "デュアルドラゴン∨￢",
+    "english": "DualDrag∨￢",
+    "pointers": [
+      "0x125FC0"
+    ]
+  },
+  {
+    "offset": "0x427A0",
+    "japanese": "デュアルドラゴン・・",
+    "english": "DualDrag・・",
+    "japanese_hex": "836683858341838b836883898353839381c781c8",
+    "english_hex": "826382958281828c826382928281828781c781c8",
+    "max_chars": 10,
+    "pointers": [
+      "0x125F64"
+    ]
+  },
+  {
+    "offset": "0x427B8",
+    "japanese": "デュアルドラゴン・・",
+    "english": "DualDrag・・",
+    "japanese_hex": "836683858341838b836883898353839381c581c6",
+    "english_hex": "826382958281828c826382928281828781c581c6",
+    "max_chars": 10,
+    "pointers": [
+      "0x125F08"
+    ]
+  },
+  {
+    "offset": "0x427D0",
+    "japanese": "デュアルドラゴン・・",
+    "english": "DualDrag・・",
+    "japanese_hex": "836683858341838b836883898353839381c381c4",
+    "english_hex": "826382958281828c826382928281828781c381c4",
+    "max_chars": 10,
+    "pointers": [
+      "0x125EAC"
+    ]
+  },
+  {
+    "offset": "0x427E8",
+    "japanese": "デュアルドラゴン∀∃",
+    "english": "DualDrag∀∃",
+    "pointers": [
+      "0x125E50"
+    ]
+  },
+  {
+    "offset": "0x42814",
+    "japanese": "ウイングＡＴ⇒⇔",
+    "english": "WingAT⇒⇔",
+    "pointers": [
+      "0x125D98"
+    ]
+  },
+  {
+    "offset": "0x42828",
+    "japanese": "ウイングＡＴ∨￢",
+    "english": "WingAT∨￢",
+    "pointers": [
+      "0x125D3C"
+    ]
+  },
+  {
+    "offset": "0x42850",
+    "japanese": "ウイングＡＴ∀∃",
+    "english": "WingAT∀∃",
+    "pointers": [
+      "0x125C84"
+    ]
+  },
+  {
+    "offset": "0x4283C",
+    "japanese": "ウイングＡＴ・・",
+    "english": "WingAT・・",
+    "japanese_hex": "834583438393834f8260827381c781c8",
+    "english_hex": "82768289828e82878260827381c781c8",
+    "max_chars": 8,
+    "pointers": [
+      "0x125CE0"
+    ]
+  },
+  {
+    "offset": "0x42864",
+    "japanese": "ウイングＡＴ・・",
+    "english": "WingAT・・",
+    "japanese_hex": "834583438393834f8260827381c381c4",
+    "english_hex": "82768289828e82878260827381c381c4",
+    "max_chars": 8,
+    "pointers": [
+      "0x125C28"
+    ]
+  },
+  {
+    "offset": "0x42878",
+    "japanese": "ウイングＡＴ・・",
+    "english": "WingAT・・",
+    "japanese_hex": "834583438393834f8260827381c181c2",
+    "english_hex": "82768289828e82878260827381c181c2",
+    "max_chars": 8,
+    "pointers": [
+      "0x125BCC"
+    ]
+  },
+  {
+    "offset": "0x4289C",
+    "japanese": "ウイングＤＦ⇒⇔",
+    "english": "WingDF⇒⇔",
+    "pointers": [
+      "0x125B14"
+    ]
+  },
+  {
+    "offset": "0x428B0",
+    "japanese": "ウイングＤＦ∨￢",
+    "english": "WingDF∨￢",
+    "pointers": [
+      "0x125AB8"
+    ]
+  },
+  {
+    "offset": "0x428C4",
+    "japanese": "ウイングＤＦ・・",
+    "english": "WingDF・・",
+    "japanese_hex": "834583438393834f8263826581c781c8",
+    "english_hex": "82768289828e82878263826581c781c8",
+    "max_chars": 8,
+    "pointers": [
+      "0x125A5C"
+    ]
+  },
+  {
+    "offset": "0x428D8",
+    "japanese": "ウイングＤＦ・・",
+    "english": "WingDF・・",
+    "japanese_hex": "834583438393834f8263826581c581c6",
+    "english_hex": "82768289828e82878263826581c581c6",
+    "max_chars": 8,
+    "pointers": [
+      "0x125A00"
+    ]
+  },
+  {
+    "offset": "0x428EC",
+    "japanese": "ウイングＤＦ・・",
+    "english": "WingDF・・",
+    "japanese_hex": "834583438393834f8263826581cf81d0",
+    "english_hex": "82768289828e82878263826581cf81d0",
+    "max_chars": 8,
+    "pointers": [
+      "0x1259A4"
+    ]
+  },
+  {
+    "offset": "0x42900",
+    "japanese": "ウイングＤＦ・・",
+    "english": "WingDF・・",
+    "japanese_hex": "834583438393834f8263826581c181c2",
+    "english_hex": "82768289828e82878263826581c181c2",
+    "max_chars": 8,
+    "pointers": [
+      "0x125948"
+    ]
+  },
+  {
+    "offset": "0x42924",
+    "japanese": "ホエールＣＲＳ⇒⇔",
+    "english": "WhlCRS⇒⇔",
+    "pointers": [
+      "0x125890"
+    ]
+  },
+  {
+    "offset": "0x42938",
+    "japanese": "ホエールＣＲＳ∨￢",
+    "english": "WhlCRS∨￢",
+    "pointers": [
+      "0x125834"
+    ]
+  },
+  {
+    "offset": "0x4294C",
+    "japanese": "ホエールＣＲＳ・・",
+    "english": "WhlCRS・・",
+    "japanese_hex": "837a8347815b838b82628271827281d181d2",
+    "english_hex": "82768288828c82628271827281d181d2",
+    "max_chars": 9,
+    "pointers": [
+      "0x1257D8"
+    ]
+  },
+  {
+    "offset": "0x42960",
+    "japanese": "ホエールＣＲＳ・・",
+    "english": "WhlCRS・・",
+    "japanese_hex": "837a8347815b838b82628271827281c581c6",
+    "english_hex": "82768288828c82628271827281c581c6",
+    "max_chars": 9,
+    "pointers": [
+      "0x12577C"
+    ]
+  },
+  {
+    "offset": "0x42974",
+    "japanese": "ホエールＣＲＳ・・",
+    "english": "WhlCRS・・",
+    "japanese_hex": "837a8347815b838b82628271827281c381c4",
+    "english_hex": "82768288828c82628271827281c381c4",
+    "max_chars": 9,
+    "pointers": [
+      "0x125720"
+    ]
+  },
+  {
+    "offset": "0x42988",
+    "japanese": "ホエールＣＲＳ・・",
+    "english": "WhlCRS・・",
+    "japanese_hex": "837a8347815b838b82628271827281c181c2",
+    "english_hex": "82768288828c82628271827281c181c2",
+    "max_chars": 9,
+    "pointers": [
+      "0x1256C4"
+    ]
+  },
+  {
+    "offset": "0x429AC",
+    "japanese": "リバースウルフ⇒⇔",
+    "english": "RevWolf⇒⇔",
+    "pointers": [
+      "0x12560C"
+    ]
+  },
+  {
+    "offset": "0x429C0",
+    "japanese": "リバースウルフ∨￢",
+    "english": "RevWolf∨￢",
+    "pointers": [
+      "0x1255B0"
+    ]
+  },
+  {
+    "offset": "0x429D4",
+    "japanese": "リバースウルフ・・",
+    "english": "RevWolf・・",
+    "japanese_hex": "838A836F815B83588345838B837481C781C8",
+    "english_hex": "8271828582968276828F828C828681C781C8",
+    "max_chars": 9,
+    "pointers": [
+      "0x125554"
+    ]
+  },
+  {
+    "offset": "0x429E8",
+    "japanese": "リバースウルフ・・",
+    "english": "RevWolf・・",
+    "japanese_hex": "838A836F815B83588345838B837481C581C6",
+    "english_hex": "8271828582968276828F828C828681C581C6",
+    "max_chars": 9,
+    "pointers": [
+      "0x1254F8"
+    ]
+  },
+  {
+    "offset": "0x429FC",
+    "japanese": "リバースウルフ・・",
+    "english": "RevWolf・・",
+    "japanese_hex": "838A836F815B83588345838B837481C381C4",
+    "english_hex": "8271828582968276828F828C828681C381C4",
+    "max_chars": 9,
+    "pointers": [
+      "0x12549C"
+    ]
+  },
+  {
+    "offset": "0x42A10",
+    "japanese": "リバースウルフ・・",
+    "english": "RevWolf・・",
+    "japanese_hex": "838A836F815B83588345838B837481C181C2",
+    "english_hex": "8271828582968276828F828C828681C181C2",
+    "max_chars": 9,
+    "pointers": [
+      "0x125440"
+    ]
+  },
+  {
+    "offset": "0x42A34",
+    "japanese": "バウンドアタック⇒⇔",
+    "english": "BndAtk⇒⇔",
+    "pointers": [
+      "0x125388"
+    ]
+  },
+  {
+    "offset": "0x42A4C",
+    "japanese": "バウンドアタック・・",
+    "english": "BndAtk・・",
+    "japanese_hex": "836F8345839383688341835E8362834E81D181D2",
+    "english_hex": "8261828E828482608294828B81D181D2",
+    "max_chars": 10,
+    "pointers": [
+      "0x12532C"
+    ]
+  },
+  {
+    "offset": "0x42A64",
+    "japanese": "バウンドアタック・・",
+    "english": "BndAtk・・",
+    "japanese_hex": "836F8345839383688341835E8362834E81C781C8",
+    "english_hex": "8261828E828482608294828B81C781C8",
+    "max_chars": 10,
+    "pointers": [
+      "0x1252D0"
+    ]
+  },
+  {
+    "offset": "0x42A7C",
+    "japanese": "バウンドアタック・・",
+    "english": "BndAtk・・",
+    "japanese_hex": "836F8345839383688341835E8362834E81C581C6",
+    "english_hex": "8261828E828482608294828B81C581C6",
+    "max_chars": 10,
+    "pointers": [
+      "0x125274"
+    ]
+  },
+  {
+    "offset": "0x42A94",
+    "japanese": "バウンドアタック・・",
+    "english": "BndAtk・・",
+    "japanese_hex": "836F8345839383688341835E8362834E81C381C4",
+    "english_hex": "8261828E828482608294828B81C381C4",
+    "max_chars": 10,
+    "pointers": [
+      "0x125218"
+    ]
+  },
+  {
+    "offset": "0x42AAC",
+    "japanese": "バウンドアタック・・",
+    "english": "BndAtk・・",
+    "japanese_hex": "836F8345839383688341835E8362834E81C181C2",
+    "english_hex": "8261828E828482608294828B81C181C2",
+    "max_chars": 10,
+    "pointers": [
+      "0x1251BC"
+    ]
+  },
+  {
+    "offset": "0x42AD8",
+    "japanese": "スパークアタック⇒⇔",
+    "english": "SpkAtk⇒⇔",
+    "pointers": [
+      "0x125104"
+    ]
+  },
+  {
+    "offset": "0x42AF0",
+    "japanese": "スパークアタック∨￢",
+    "english": "SpkAtk∨￢",
+    "pointers": [
+      "0x1250A8"
+    ]
+  },
+  {
+    "offset": "0x42B08",
+    "japanese": "スパークアタック・・",
+    "english": "SpkAtk・・",
+    "japanese_hex": "83588370815B834E8341835E8362834E81C781C8",
+    "english_hex": "82728290828B82608294828B81C781C8",
+    "max_chars": 11,
+    "pointers": [
+      "0x12504C"
+    ]
+  },
+  {
+    "offset": "0x42B20",
+    "japanese": "スパークアタック・・",
+    "english": "SpkAtk・・",
+    "japanese_hex": "83588370815B834E8341835E8362834E81C581C6",
+    "english_hex": "82728290828B82608294828B81C581C6",
+    "max_chars": 11,
+    "pointers": [
+      "0x124FF0"
+    ]
+  },
+  {
+    "offset": "0x42B38",
+    "japanese": "スパークアタック・・",
+    "english": "SpkAtk・・",
+    "japanese_hex": "83588370815B834E8341835E8362834E81C381C4",
+    "english_hex": "82728290828B82608294828B81C381C4",
+    "max_chars": 11,
+    "pointers": [
+      "0x124F94"
+    ]
+  },
+  {
+    "offset": "0x42B50",
+    "japanese": "スパークアタック・・",
+    "english": "SpkAtk・・",
+    "japanese_hex": "83588370815B834E8341835E8362834E81C181C2",
+    "english_hex": "82728290828B82608294828B81C181C2",
+    "max_chars": 11,
+    "pointers": [
+      "0x124F38"
+    ]
+  },
+  {
+    "offset": "0x42B7C",
+    "japanese": "ローラーアタック∀∃",
+    "english": "RollAtk∀∃",
+    "pointers": [
+      "0x124E80"
+    ]
+  },
+  {
+    "offset": "0x42B94",
+    "japanese": "ローラーアタック∨￢",
+    "english": "RollAtk∨￢",
+    "pointers": [
+      "0x124E24"
+    ]
+  },
+  {
+    "offset": "0x42BAC",
+    "japanese": "ローラーアタック・・",
+    "english": "RollAtk・・",
+    "japanese_hex": "838D815B8389815B8341835E8362834E81C781C8",
+    "english_hex": "8271828F828C828C82608294828B81C781C8",
+    "max_chars": 10,
+    "pointers": [
+      "0x124DC8"
+    ]
+  },
+  {
+    "offset": "0x42BC4",
+    "japanese": "ローラーアタック・・",
+    "english": "RollAtk・・",
+    "japanese_hex": "838D815B8389815B8341835E8362834E81C581C6",
+    "english_hex": "8271828F828C828C82608294828B81C581C6",
+    "max_chars": 10,
+    "pointers": [
+      "0x124D6C"
+    ]
+  },
+  {
+    "offset": "0x42BDC",
+    "japanese": "ローラーアタック・・",
+    "english": "RollAtk・・",
+    "japanese_hex": "838D815B8389815B8341835E8362834E81C381C4",
+    "english_hex": "8271828F828C828C82608294828B81C381C4",
+    "max_chars": 10,
+    "pointers": [
+      "0x124D10"
+    ]
+  },
+  {
+    "offset": "0x42BF4",
+    "japanese": "ローラーアタック・・",
+    "english": "RollAtk・・",
+    "japanese_hex": "838D815B8389815B8341835E8362834E81C181C2",
+    "english_hex": "8271828F828C828C82608294828B81C181C2",
+    "max_chars": 10,
+    "pointers": [
+      "0x124CB4"
+    ]
+  },
+  {
+    "offset": "0x42CA4",
+    "japanese": "ウォーベアー⇒⇔",
+    "english": "W.Bear⇒⇔",
+    "pointers": [
+      "0x124978"
+    ]
+  },
+  {
+    "offset": "0x42CB8",
+    "japanese": "ウォーベアー∨￢",
+    "english": "W.Bear∨￢",
+    "pointers": [
+      "0x12491C"
+    ]
+  },
+  {
+    "offset": "0x42CCC",
+    "japanese": "ウォーベアー・・",
+    "english": "W.Bear・・",
+    "japanese_hex": "83458348815B83788341815B81C781C8",
+    "english_hex": "82768144826182858281829281C781C8",
+    "max_chars": 8,
+    "pointers": [
+      "0x1248C0"
+    ]
+  },
+  {
+    "offset": "0x42CE0",
+    "japanese": "ウォーベアー∀∃",
+    "english": "W.Bear∀∃",
+    "pointers": [
+      "0x124864"
+    ]
+  },
+  {
+    "offset": "0x42CF4",
+    "japanese": "ウォーベアー・・",
+    "english": "W.Bear・・",
+    "japanese_hex": "83458348815B83788341815B81C381C4",
+    "english_hex": "82768144826182858281829281C381C4",
+    "max_chars": 8,
+    "pointers": [
+      "0x124808"
+    ]
+  },
+  {
+    "offset": "0x42D08",
+    "japanese": "ウォーベアー・・",
+    "english": "W.Bear・・",
+    "japanese_hex": "83458348815B83788341815B81C181C2",
+    "english_hex": "82768144826182858281829281C181C2",
+    "max_chars": 8,
+    "pointers": [
+      "0x1247AC"
+    ]
+  },
+  {
+    "offset": "0x42D2C",
+    "japanese": "ウォーモンキー⇒⇔",
+    "english": "WarMky⇒⇔",
+    "pointers": [
+      "0x1246F4"
+    ]
+  },
+  {
+    "offset": "0x42D40",
+    "japanese": "ウォーモンキー∨￢",
+    "english": "WarMky∨￢",
+    "pointers": [
+      "0x124698"
+    ]
+  },
+  {
+    "offset": "0x42D54",
+    "japanese": "ウォーモンキー・・",
+    "english": "WarMky・・",
+    "japanese_hex": "83458348815B83828393834C815B81C781C8",
+    "english_hex": "827682818292826C828B829981C781C8",
+    "max_chars": 9,
+    "pointers": [
+      "0x12463C"
+    ]
+  },
+  {
+    "offset": "0x42D68",
+    "japanese": "ウォーモンキー・・",
+    "english": "WarMky・・",
+    "japanese_hex": "83458348815B83828393834C815B81C581C6",
+    "english_hex": "827682818292826C828B829981C581C6",
+    "max_chars": 9,
+    "pointers": [
+      "0x1245E0"
+    ]
+  },
+  {
+    "offset": "0x42D7C",
+    "japanese": "ウォーモンキー・・",
+    "english": "WarMky・・",
+    "japanese_hex": "83458348815B83828393834C815B81C381C4",
+    "english_hex": "827682818292826C828B829981C381C4",
+    "max_chars": 9,
+    "pointers": [
+      "0x124584"
+    ]
+  },
+  {
+    "offset": "0x42D90",
+    "japanese": "ウォーモンキー・・",
+    "english": "WarMky・・",
+    "japanese_hex": "83458348815B83828393834C815B81C181C2",
+    "english_hex": "827682818292826C828B829981C181C2",
+    "max_chars": 9,
+    "pointers": [
+      "0x124528"
+    ]
+  },
+  {
+    "offset": "0x42DB4",
+    "japanese": "マックスシールド・・",
+    "english": "MaxShld・・",
+    "japanese_hex": "837D8362834E83588356815B838B836881D181D2",
+    "english_hex": "826C8281829882728288828C828481D181D2",
+    "max_chars": 10,
+    "pointers": [
+      "0x124470"
+    ]
+  },
+  {
+    "offset": "0x42DCC",
+    "japanese": "マックスシールド∨￢",
+    "english": "MaxShld∨￢",
+    "pointers": [
+      "0x124414"
+    ]
+  },
+  {
+    "offset": "0x42DE4",
+    "japanese": "マックスシールド・・",
+    "english": "MaxShld・・",
+    "japanese_hex": "837D8362834E83588356815B838B836881C781C8",
+    "english_hex": "826C8281829882728288828C828481C781C8",
+    "max_chars": 10,
+    "pointers": [
+      "0x1243B8"
+    ]
+  },
+  {
+    "offset": "0x42DFC",
+    "japanese": "マックスシールド・・",
+    "english": "MaxShld・・",
+    "japanese_hex": "837D8362834E83588356815B838B836881C581C6",
+    "english_hex": "826C8281829882728288828C828481C581C6",
+    "max_chars": 10,
+    "pointers": [
+      "0x12435C"
+    ]
+  },
+  {
+    "offset": "0x42E14",
+    "japanese": "マックスシールド・・",
+    "english": "MaxShld・・",
+    "japanese_hex": "837D8362834E83588356815B838B836881C381C4",
+    "english_hex": "826C8281829882728288828C828481C381C4",
+    "max_chars": 10,
+    "pointers": [
+      "0x124300"
+    ]
+  },
+  {
+    "offset": "0x42E2C",
+    "japanese": "マックスシールド・・",
+    "english": "MaxShld・・",
+    "japanese_hex": "837D8362834E83588356815B838B836881C181C2",
+    "english_hex": "826C8281829882728288828C828481C181C2",
+    "max_chars": 10,
+    "pointers": [
+      "0x1242A4"
+    ]
+  },
+  {
+    "offset": "0x42E58",
+    "japanese": "ウイングカッター⇒⇔",
+    "english": "WngCut⇒⇔",
+    "pointers": [
+      "0x1241EC"
+    ]
+  },
+  {
+    "offset": "0x42E70",
+    "japanese": "ウイングカッター∨￢",
+    "english": "WngCut∨￢",
+    "pointers": [
+      "0x124190"
+    ]
+  },
+  {
+    "offset": "0x42E88",
+    "japanese": "ウイングカッター・・",
+    "english": "WngCut・・",
+    "japanese_hex": "834583438393834F834A8362835E815B81CF81D0",
+    "english_hex": "8276828E828782628295829481CF81D0",
+    "max_chars": 10,
+    "pointers": [
+      "0x124134"
+    ]
+  },
+  {
+    "offset": "0x42EA0",
+    "japanese": "ウイングカッター・・",
+    "english": "WngCut・・",
+    "japanese_hex": "834583438393834F834A8362835E815B81C581C6",
+    "english_hex": "8276828E828782628295829481C581C6",
+    "max_chars": 10,
+    "pointers": [
+      "0x1240D8"
+    ]
+  },
+  {
+    "offset": "0x42EB8",
+    "japanese": "ウイングカッター・・",
+    "english": "WngCut・・",
+    "japanese_hex": "834583438393834F834A8362835E815B81C381C4",
+    "english_hex": "8276828E828782628295829481C381C4",
+    "max_chars": 10,
+    "pointers": [
+      "0x12407C"
+    ]
+  },
+  {
+    "offset": "0x42ED0",
+    "japanese": "ウイングカッター・・",
+    "english": "WngCut・・",
+    "japanese_hex": "834583438393834F834A8362835E815B81C181C2",
+    "english_hex": "8276828E828782628295829481C181C2",
+    "max_chars": 10,
+    "pointers": [
+      "0x124020"
+    ]
+  },
+  {
+    "offset": "0x42EFC",
+    "japanese": "タートルＳＶＶ⇒⇔",
+    "english": "TurtSVV⇒⇔",
+    "pointers": [
+      "0x123F68"
+    ]
+  },
+  {
+    "offset": "0x42F10",
+    "japanese": "タートルＳＶＶ∨￢",
+    "english": "TurtSVV∨￢",
+    "pointers": [
+      "0x123F0C"
+    ]
+  },
+  {
+    "offset": "0x42F24",
+    "japanese": "タートルＳＶＶ・・",
+    "english": "TurtSVV・・",
+    "japanese_hex": "835E815B8367838B82728275827581C781C8",
+    "english_hex": "827382958292829482728275827581C781C8",
+    "max_chars": 9,
+    "pointers": [
+      "0x123EB0"
+    ]
+  },
+  {
+    "offset": "0x42F38",
+    "japanese": "タートルＳＶＶ・・",
+    "english": "TurtSVV・・",
+    "japanese_hex": "835E815B8367838B82728275827581C581C6",
+    "english_hex": "827382958292829482728275827581C581C6",
+    "max_chars": 9,
+    "pointers": [
+      "0x123E54"
+    ]
+  },
+  {
+    "offset": "0x42F4C",
+    "japanese": "タートルＳＶＶ∀∃",
+    "english": "TurtSVV∀∃",
+    "pointers": [
+      "0x123DF8"
+    ]
+  },
+  {
+    "offset": "0x42F60",
+    "japanese": "タートルＳＶＶ・・",
+    "english": "TurtSVV・・",
+    "japanese_hex": "835E815B8367838B82728275827581C181C2",
+    "english_hex": "827382958292829482728275827581C181C2",
+    "max_chars": 9,
+    "pointers": [
+      "0x123D9C"
+    ]
+  },
+  {
+    "offset": "0x42F84",
+    "japanese": "シザーカッター⇒⇔",
+    "english": "ScisCut⇒⇔",
+    "pointers": [
+      "0x123CE4"
+    ]
+  },
+  {
+    "offset": "0x42F98",
+    "japanese": "シザーカッター∨￢",
+    "english": "ScisCut∨￢",
+    "pointers": [
+      "0x123C88"
+    ]
+  },
+  {
+    "offset": "0x42FAC",
+    "japanese": "シザーカッター・・",
+    "english": "ScisCut・・",
+    "japanese_hex": "83568355815B834A8362835E815B81C781C8",
+    "english_hex": "827282838289829382628295829481C781C8",
+    "max_chars": 9,
+    "pointers": [
+      "0x123C2C"
+    ]
+  },
+  {
+    "offset": "0x42FC0",
+    "japanese": "シザーカッター・・",
+    "english": "ScisCut・・",
+    "japanese_hex": "83568355815B834A8362835E815B81C581C6",
+    "english_hex": "827282838289829382628295829481C581C6",
+    "max_chars": 9,
+    "pointers": [
+      "0x123BD0"
+    ]
+  },
+  {
+    "offset": "0x42FD4",
+    "japanese": "シザーカッター・・",
+    "english": "ScisCut・・",
+    "japanese_hex": "83568355815B834A8362835E815B81D181D2",
+    "english_hex": "827282838289829382628295829481D181D2",
+    "max_chars": 9,
+    "pointers": [
+      "0x123B74"
+    ]
+  },
+  {
+    "offset": "0x42FE8",
+    "japanese": "シザーカッター・・",
+    "english": "ScisCut・・",
+    "japanese_hex": "83568355815B834A8362835E815B81C181C2",
+    "english_hex": "827282838289829382628295829481C181C2",
+    "max_chars": 9,
+    "pointers": [
+      "0x123B18"
+    ]
+  },
+  {
+    "offset": "0x4300C",
+    "japanese": "スターシェイプ・・",
+    "english": "StarShp・・",
+    "japanese_hex": "8358835E815B835683468343837681CF81D0",
+    "english_hex": "827282948281829282728288829081CF81D0",
+    "max_chars": 9,
+    "pointers": [
+      "0x123A60"
+    ]
+  },
+  {
+    "offset": "0x43034",
+    "japanese": "スターシェイプ・・",
+    "english": "StarShp・・",
+    "japanese_hex": "8358835E815B835683468343837681C781C8",
+    "english_hex": "827282948281829282728288829081C781C8",
+    "max_chars": 9,
+    "pointers": [
+      "0x1239A8"
+    ]
+  },
+  {
+    "offset": "0x43048",
+    "japanese": "スターシェイプ・・",
+    "english": "StarShp・・",
+    "japanese_hex": "8358835E815B835683468343837681C581C6",
+    "english_hex": "827282948281829282728288829081C581C6",
+    "max_chars": 9,
+    "pointers": [
+      "0x12394C"
+    ]
+  },
+  {
+    "offset": "0x4305C",
+    "japanese": "スターシェイプ・・",
+    "english": "StarShp・・",
+    "japanese_hex": "8358835E815B835683468343837681C381C4",
+    "english_hex": "827282948281829282728288829081C381C4",
+    "max_chars": 9,
+    "pointers": [
+      "0x1238F0"
+    ]
+  },
+  {
+    "offset": "0x43070",
+    "japanese": "スターシェイプ・・",
+    "english": "StarShp・・",
+    "japanese_hex": "8358835E815B835683468343837681C181C2",
+    "english_hex": "827282948281829282728288829081C181C2",
+    "max_chars": 9,
+    "pointers": [
+      "0x123894"
+    ]
+  },
+  {
+    "offset": "0x430C4",
+    "japanese": "トリプルウイング・・",
+    "english": "TriWing・・",
+    "japanese_hex": "8367838A8376838B834583438393834F81C781C8",
+    "english_hex": "82738292828982768289828E828781C781C8",
+    "max_chars": 10,
+    "pointers": [
+      "0x123724"
+    ]
+  },
+  {
+    "offset": "0x430DC",
+    "japanese": "トリプルウイング・・",
+    "english": "TriWing・・",
+    "japanese_hex": "8367838A8376838B834583438393834F81C581C6",
+    "english_hex": "82738292828982768289828E828781C581C6",
+    "max_chars": 10,
+    "pointers": [
+      "0x1236C8"
+    ]
+  },
+  {
+    "offset": "0x430F4",
+    "japanese": "トリプルウイング・・",
+    "english": "TriWing・・",
+    "japanese_hex": "8367838A8376838B834583438393834F81C381C4",
+    "english_hex": "82738292828982768289828E828781C381C4",
+    "max_chars": 10,
+    "pointers": [
+      "0x12366C"
+    ]
+  },
+  {
+    "offset": "0x4310C",
+    "japanese": "トリプルウイング・・",
+    "english": "TriWing・・",
+    "japanese_hex": "8367838A8376838B834583438393834F81C181C2",
+    "english_hex": "82738292828982768289828E828781C181C2",
+    "max_chars": 10,
+    "pointers": [
+      "0x123610"
+    ]
+  },
+  {
+    "offset": "0x43160",
+    "japanese": "ナイトクロウズ・・",
+    "english": "N.Crow・・",
+    "japanese_hex": "836983438367834E838D8345835981C781C8",
+    "english_hex": "826D814482628292828F829781C781C8",
+    "max_chars": 9,
+    "pointers": [
+      "0x1234A0"
+    ]
+  },
+  {
+    "offset": "0x43174",
+    "japanese": "ナイトクロウズ・・",
+    "english": "N.Crow・・",
+    "japanese_hex": "836983438367834E838D8345835981C581C6",
+    "english_hex": "826D814482628292828F829781C581C6",
+    "max_chars": 9,
+    "pointers": [
+      "0x123444"
+    ]
+  },
+  {
+    "offset": "0x43188",
+    "japanese": "ナイトクロウズ・・",
+    "english": "N.Crow・・",
+    "japanese_hex": "836983438367834E838D8345835981C381C4",
+    "english_hex": "826D814482628292828F829781C381C4",
+    "max_chars": 9,
+    "pointers": [
+      "0x1233E8"
+    ]
+  },
+  {
+    "offset": "0x4319C",
+    "japanese": "ナイトクロウズ・・",
+    "english": "N.Crow・・",
+    "japanese_hex": "836983438367834E838D8345835981C181C2",
+    "english_hex": "826D814482628292828F829781C181C2",
+    "max_chars": 9,
+    "pointers": [
+      "0x12338C"
+    ]
+  },
+  {
+    "offset": "0x431F0",
+    "japanese": "スマッシュＴＴＬ・・",
+    "english": "SmashT・・",
+    "japanese_hex": "8358837D83628356838582738273826B81C781C8",
+    "english_hex": "8272828D828182938288827381C781C8",
+    "max_chars": 10,
+    "pointers": [
+      "0x12321C"
+    ]
+  },
+  {
+    "offset": "0x43208",
+    "japanese": "スマッシュＴＴＬ・・",
+    "english": "SmashT・・",
+    "japanese_hex": "8358837D83628356838582738273826B81C581C6",
+    "english_hex": "8272828D828182938288827381C581C6",
+    "max_chars": 10,
+    "pointers": [
+      "0x1231C0"
+    ]
+  },
+  {
+    "offset": "0x43220",
+    "japanese": "スマッシュＴＴＬ・・",
+    "english": "SmashT・・",
+    "japanese_hex": "8358837D83628356838582738273826B81C381C4",
+    "english_hex": "8272828D828182938288827381C381C4",
+    "max_chars": 10,
+    "pointers": [
+      "0x123164"
+    ]
+  },
+  {
+    "offset": "0x43238",
+    "japanese": "スマッシュＴＴＬ・・",
+    "english": "SmashT・・",
+    "japanese_hex": "8358837D83628356838582738273826B81C181C2",
+    "english_hex": "8272828D828182938288827381C181C2",
+    "max_chars": 10,
+    "pointers": [
+      "0x123108"
+    ]
+  },
+  {
+    "offset": "0x43278",
+    "japanese": "アッパーＤＲＧ・・",
+    "english": "UpprDRG・・",
+    "japanese_hex": "834183628370815B82638271826681D181D2",
+    "english_hex": "827482908290829282638271826681D181D2",
+    "max_chars": 9,
+    "pointers": [
+      "0x122FF4"
+    ]
+  },
+  {
+    "offset": "0x4328C",
+    "japanese": "アッパーＤＲＧ・・",
+    "english": "UpprDRG・・",
+    "japanese_hex": "834183628370815B82638271826681C781C8",
+    "english_hex": "827482908290829282638271826681C781C8",
+    "max_chars": 9,
+    "pointers": [
+      "0x122F98"
+    ]
+  },
+  {
+    "offset": "0x432A0",
+    "japanese": "アッパーＤＲＧ・・",
+    "english": "UpprDRG・・",
+    "japanese_hex": "834183628370815B82638271826681C581C6",
+    "english_hex": "827482908290829282638271826681C581C6",
+    "max_chars": 9,
+    "pointers": [
+      "0x122F3C"
+    ]
+  },
+  {
+    "offset": "0x432B4",
+    "japanese": "アッパーＤＲＧ・・",
+    "english": "UpprDRG・・",
+    "japanese_hex": "834183628370815B82638271826681C381C4",
+    "english_hex": "827482908290829282638271826681C381C4",
+    "max_chars": 9,
+    "pointers": [
+      "0x122EE0"
+    ]
+  },
+  {
+    "offset": "0x432C8",
+    "japanese": "アッパーＤＲＧ・・",
+    "english": "UpprDRG・・",
+    "japanese_hex": "834183628370815B82638271826681C181C2",
+    "english_hex": "827482908290829282638271826681C181C2",
+    "max_chars": 9,
+    "pointers": [
+      "0x122E84"
+    ]
+  },
+  {
+    "offset": "0x432EC",
+    "japanese": "クロススパイク・・",
+    "english": "XSpike・・",
+    "japanese_hex": "834E838D8358835883708343834E81D581D6",
+    "english_hex": "8277827282908289828B828581D581D6",
+    "max_chars": 9,
+    "pointers": [
+      "0x122DCC"
+    ]
+  },
+  {
+    "offset": "0x43314",
+    "japanese": "クロススパイク・・",
+    "english": "XSpike・・",
+    "japanese_hex": "834E838D8358835883708343834E81C781C8",
+    "english_hex": "8277827282908289828B828581C781C8",
+    "max_chars": 9,
+    "pointers": [
+      "0x122D14"
+    ]
+  },
+  {
+    "offset": "0x43328",
+    "japanese": "クロススパイク・・",
+    "english": "XSpike・・",
+    "japanese_hex": "834E838D8358835883708343834E81C581C6",
+    "english_hex": "8277827282908289828B828581C581C6",
+    "max_chars": 9,
+    "pointers": [
+      "0x122CB8"
+    ]
+  },
+  {
+    "offset": "0x4333C",
+    "japanese": "クロススパイク・・",
+    "english": "XSpike・・",
+    "japanese_hex": "834E838D8358835883708343834E81C381C4",
+    "english_hex": "8277827282908289828B828581C381C4",
+    "max_chars": 9,
+    "pointers": [
+      "0x122C5C"
+    ]
+  },
+  {
+    "offset": "0x43350",
+    "japanese": "クロススパイク・・",
+    "english": "XSpike・・",
+    "japanese_hex": "834E838D8358835883708343834E81C181C2",
+    "english_hex": "8277827282908289828B828581C181C2",
+    "max_chars": 9,
+    "pointers": [
+      "0x122C00"
+    ]
+  },
+  {
+    "offset": "0x43388",
+    "japanese": "タイガーＤＦ∨￢",
+    "english": "TigrDF∨￢",
+    "pointers": [
+      "0x122AEC"
+    ]
+  },
+  {
+    "offset": "0x4339C",
+    "japanese": "タイガーＤＦ・・",
+    "english": "TigrDF・・",
+    "japanese_hex": "835E8343834B815B8263826581C781C8",
+    "english_hex": "82738289828782928263826581C781C8",
+    "max_chars": 8,
+    "pointers": [
+      "0x122A90"
+    ]
+  },
+  {
+    "offset": "0x433B0",
+    "japanese": "タイガーＤＦ・・",
+    "english": "TigrDF・・",
+    "japanese_hex": "835E8343834B815B8263826581C581C6",
+    "english_hex": "82738289828782928263826581C581C6",
+    "max_chars": 8,
+    "pointers": [
+      "0x122A34"
+    ]
+  },
+  {
+    "offset": "0x433C4",
+    "japanese": "タイガーＤＦ・・",
+    "english": "TigrDF・・",
+    "japanese_hex": "835E8343834B815B8263826581C381C4",
+    "english_hex": "82738289828782928263826581C381C4",
+    "max_chars": 8,
+    "pointers": [
+      "0x1229D8"
+    ]
+  },
+  {
+    "offset": "0x433D8",
+    "japanese": "タイガーＤＦ・・",
+    "english": "TigrDF・・",
+    "japanese_hex": "835E8343834B815B8263826581D181D2",
+    "english_hex": "82738289828782928263826581D181D2",
+    "max_chars": 8,
+    "pointers": [
+      "0x12297C"
+    ]
+  },
+  {
+    "offset": "0x433FC",
+    "japanese": "ダブルウィング⇒⇔",
+    "english": "DblWing⇒⇔",
+    "pointers": [
+      "0x1228C4"
+    ]
+  },
+  {
+    "offset": "0x43438",
+    "japanese": "ダブルウィング・・",
+    "english": "DblWing・・",
+    "japanese_hex": "835F8375838B834583428393834F81C581C6",
+    "english_hex": "82638282828C82768289828E828781C581C6",
+    "max_chars": 9,
+    "pointers": [
+      "0x1227B0"
+    ]
+  },
+  {
+    "offset": "0x4344C",
+    "japanese": "ダブルウィング・・",
+    "english": "DblWing・・",
+    "japanese_hex": "835F8375838B834583428393834F81C381C4",
+    "english_hex": "82638282828C82768289828E828781C381C4",
+    "max_chars": 9,
+    "pointers": [
+      "0x122754"
+    ]
+  },
+  {
+    "offset": "0x43460",
+    "japanese": "ダブルウィング・・",
+    "english": "DblWing・・",
+    "japanese_hex": "835F8375838B834583428393834F81C181C2",
+    "english_hex": "82638282828C82768289828E828781C181C2",
+    "max_chars": 9,
+    "pointers": [
+      "0x1226F8"
+    ]
+  },
+  {
+    "offset": "0x434B4",
+    "japanese": "リバースドラゴン・・",
+    "english": "RevDrgn・・",
+    "japanese_hex": "838A836F815B8358836883898353839381C781C8",
+    "english_hex": "827182858296826382928287828E81C781C8",
+    "max_chars": 10,
+    "pointers": [
+      "0x122588"
+    ]
+  },
+  {
+    "offset": "0x434CC",
+    "japanese": "リバースドラゴン・・",
+    "english": "RevDrgn・・",
+    "japanese_hex": "838A836F815B8358836883898353839381C581C6",
+    "english_hex": "827182858296826382928287828E81C581C6",
+    "max_chars": 10,
+    "pointers": [
+      "0x12252C"
+    ]
+  },
+  {
+    "offset": "0x434E4",
+    "japanese": "リバースドラゴン・・",
+    "english": "RevDrgn・・",
+    "japanese_hex": "838A836F815B8358836883898353839381C381C4",
+    "english_hex": "827182858296826382928287828E81C381C4",
+    "max_chars": 10,
+    "pointers": [
+      "0x1224D0"
+    ]
+  },
+  {
+    "offset": "0x434FC",
+    "japanese": "リバースドラゴン・・",
+    "english": "RevDrgn・・",
+    "japanese_hex": "838A836F815B8358836883898353839381D381D4",
+    "english_hex": "827182858296826382928287828E81D381D4",
+    "max_chars": 10,
+    "pointers": [
+      "0x122474"
+    ]
+  },
+  {
+    "offset": "0x43554",
+    "japanese": "アースウイング・・",
+    "english": "EarthW・・",
+    "japanese_hex": "8341815B8358834583438393834F81D181D2",
+    "english_hex": "82648281829282948288827681D181D2",
+    "max_chars": 9,
+    "pointers": [
+      "0x12B040"
+    ]
+  },
+  {
+    "offset": "0x43568",
+    "japanese": "アースウイング・・",
+    "english": "EarthW・・",
+    "japanese_hex": "8341815B8358834583438393834F81CF81D0",
+    "english_hex": "82648281829282948288827681CF81D0",
+    "max_chars": 9,
+    "pointers": [
+      "0x12AFE4"
+    ]
+  },
+  {
+    "offset": "0x435B8",
+    "japanese": "アースウイング・・",
+    "english": "EarthW・・",
+    "japanese_hex": "8341815B8358834583438393834F81C781C8",
+    "english_hex": "82648281829282948288827681C781C8",
+    "max_chars": 9,
+    "pointers": [
+      "0x12AE74"
+    ]
+  },
+  {
+    "offset": "0x435CC",
+    "japanese": "アースウイング・・",
+    "english": "EarthW・・",
+    "japanese_hex": "8341815B8358834583438393834F81C581C6",
+    "english_hex": "82648281829282948288827681C581C6",
+    "max_chars": 9,
+    "pointers": [
+      "0x12AE18"
+    ]
+  },
+  {
+    "offset": "0x435E0",
+    "japanese": "アースウイング・・",
+    "english": "EarthW・・",
+    "japanese_hex": "8341815B8358834583438393834F81C381C4",
+    "english_hex": "82648281829282948288827681C381C4",
+    "max_chars": 9,
+    "pointers": [
+      "0x12ADBC"
+    ]
+  },
+  {
+    "offset": "0x43604",
+    "japanese": "Ｇ－スペシャル・・",
+    "english": "G-Spec・・",
+    "japanese_hex": "8266817C8358837983568383838B81D181D2",
+    "english_hex": "8266817C827282908285828381D181D2",
+    "max_chars": 9,
+    "pointers": [
+      "0x12AD04"
+    ]
+  },
+  {
+    "offset": "0x43618",
+    "japanese": "Ｇ－スペシャル・・",
+    "english": "G-Spec・・",
+    "japanese_hex": "8266817C8358837983568383838B81CF81D0",
+    "english_hex": "8266817C827282908285828381CF81D0",
+    "max_chars": 9,
+    "pointers": [
+      "0x12ACA8"
+    ]
+  },
+  {
+    "offset": "0x43668",
+    "japanese": "Ｇ－スペシャル・・",
+    "english": "G-Spec・・",
+    "japanese_hex": "8266817C8358837983568383838B81C781C8",
+    "english_hex": "8266817C827282908285828381C781C8",
+    "max_chars": 9,
+    "pointers": [
+      "0x12AB38"
+    ]
+  },
+  {
+    "offset": "0x4367C",
+    "japanese": "Ｇ－スペシャル・・",
+    "english": "G-Spec・・",
+    "japanese_hex": "8266817C8358837983568383838B81C581C6",
+    "english_hex": "8266817C827282908285828381C581C6",
+    "max_chars": 9,
+    "pointers": [
+      "0x12AADC"
+    ]
+  },
+  {
+    "offset": "0x43690",
+    "japanese": "Ｇ－スペシャル・・",
+    "english": "G-Spec・・",
+    "japanese_hex": "8266817C8358837983568383838B81C381C4",
+    "english_hex": "8266817C827282908285828381C381C4",
+    "max_chars": 9,
+    "pointers": [
+      "0x12AA80"
+    ]
+  },
+  {
+    "offset": "0x436B4",
+    "japanese": "マグネフラット・・",
+    "english": "MagFlat・・",
+    "japanese_hex": "837D834F836C837483898362836781D181D2",
+    "english_hex": "826C828182878265828C8281829481D181D2",
+    "max_chars": 9,
+    "pointers": [
+      "0x12A9C8"
+    ]
+  },
+  {
+    "offset": "0x436C8",
+    "japanese": "マグネフラット・・",
+    "english": "MagFlat・・",
+    "japanese_hex": "837D834F836C837483898362836781CF81D0",
+    "english_hex": "826C828182878265828C8281829481CF81D0",
+    "max_chars": 9,
+    "pointers": [
+      "0x12A96C"
+    ]
+  },
+  {
+    "offset": "0x43718",
+    "japanese": "マグネフラット・・",
+    "english": "MagFlat・・",
+    "japanese_hex": "837D834F836C837483898362836781C781C8",
+    "english_hex": "826C828182878265828C8281829481C781C8",
+    "max_chars": 9,
+    "pointers": [
+      "0x12A7FC"
+    ]
+  },
+  {
+    "offset": "0x4372C",
+    "japanese": "マグネフラット・・",
+    "english": "MagFlat・・",
+    "japanese_hex": "837D834F836C837483898362836781C581C6",
+    "english_hex": "826C828182878265828C8281829481C581C6",
+    "max_chars": 9,
+    "pointers": [
+      "0x12A7A0"
+    ]
+  },
+  {
+    "offset": "0x43740",
+    "japanese": "マグネフラット・・",
+    "english": "MagFlat・・",
+    "japanese_hex": "837D834F836C837483898362836781C381C4",
+    "english_hex": "826C828182878265828C8281829481C381C4",
+    "max_chars": 9,
+    "pointers": [
+      "0x12A744"
+    ]
+  },
+  {
+    "offset": "0x43764",
+    "japanese": "グリフォリオン・・",
+    "english": "Griff・・",
+    "japanese_hex": "834F838A83748348838A8349839381D181D2",
+    "english_hex": "8266829282898286828681D181D2",
+    "max_chars": 9,
+    "pointers": [
+      "0x12A68C"
+    ]
+  },
+  {
+    "offset": "0x43778",
+    "japanese": "グリフォリオン・・",
+    "english": "Griff・・",
+    "japanese_hex": "834F838A83748348838A8349839381CF81D0",
+    "english_hex": "8266829282898286828681CF81D0",
+    "max_chars": 9,
+    "pointers": [
+      "0x12A630"
+    ]
+  },
+  {
+    "offset": "0x437C8",
+    "japanese": "グリフォリオン・・",
+    "english": "Griff・・",
+    "japanese_hex": "834F838A83748348838A8349839381C781C8",
+    "english_hex": "8266829282898286828681C781C8",
+    "max_chars": 9,
+    "pointers": [
+      "0x12A4C0"
+    ]
+  },
+  {
+    "offset": "0x437DC",
+    "japanese": "グリフォリオン・・",
+    "english": "Griff・・",
+    "japanese_hex": "834F838A83748348838A8349839381C581C6",
+    "english_hex": "8266829282898286828681C581C6",
+    "max_chars": 9,
+    "pointers": [
+      "0x12A464"
+    ]
+  },
+  {
+    "offset": "0x437F0",
+    "japanese": "グリフォリオン・・",
+    "english": "Griff・・",
+    "japanese_hex": "834F838A83748348838A8349839381C381C4",
+    "english_hex": "8266829282898286828681C381C4",
+    "max_chars": 9,
+    "pointers": [
+      "0x12A408"
+    ]
+  },
+  {
+    "offset": "0x43C6C",
+    "japanese": "メタルボール・・",
+    "english": "MtBall・・",
+    "japanese_hex": "8381835E838B837B815B838B81D181D2",
+    "english_hex": "826C829482618281828C828C81D181D2",
+    "max_chars": 8,
+    "pointers": [
+      "0x128FE8"
+    ]
+  },
+  {
+    "offset": "0x43C80",
+    "japanese": "メタルボール・・",
+    "english": "MtBall・・",
+    "japanese_hex": "8381835E838B837B815B838B81CF81D0",
+    "english_hex": "826C829482618281828C828C81CF81D0",
+    "max_chars": 8,
+    "pointers": [
+      "0x128F8C"
+    ]
+  },
+  {
+    "offset": "0x43CD0",
+    "japanese": "メタルボール・・",
+    "english": "MtBall・・",
+    "japanese_hex": "8381835E838B837B815B838B81C781C8",
+    "english_hex": "826C829482618281828C828C81C781C8",
+    "max_chars": 8,
+    "pointers": [
+      "0x128E1C"
+    ]
+  },
+  {
+    "offset": "0x43CE4",
+    "japanese": "メタルボール・・",
+    "english": "MtBall・・",
+    "japanese_hex": "8381835E838B837B815B838B81C581C6",
+    "english_hex": "826C829482618281828C828C81C581C6",
+    "max_chars": 8,
+    "pointers": [
+      "0x128DC0"
+    ]
+  },
+  {
+    "offset": "0x43CF8",
+    "japanese": "メタルボール・・",
+    "english": "MtBall・・",
+    "japanese_hex": "8381835E838B837B815B838B81C381C4",
+    "english_hex": "826C829482618281828C828C81C381C4",
+    "max_chars": 8,
+    "pointers": [
+      "0x128D64"
+    ]
+  },
+  {
+    "offset": "0x43D1C",
+    "japanese": "メタルチェンジ・・",
+    "english": "MChg・・",
+    "japanese_hex": "8381835E838B836083468393835781D181D2",
+    "english_hex": "826C82628288828781D181D2",
+    "max_chars": 9,
+    "pointers": [
+      "0x128CAC"
+    ]
+  },
+  {
+    "offset": "0x43D30",
+    "japanese": "メタルチェンジ・・",
+    "english": "MChg・・",
+    "japanese_hex": "8381835E838B836083468393835781CF81D0",
+    "english_hex": "826C82628288828781CF81D0",
+    "max_chars": 9,
+    "pointers": [
+      "0x128C50"
+    ]
+  },
+  {
+    "offset": "0x43D80",
+    "japanese": "メタルチェンジ・・",
+    "english": "MChg・・",
+    "japanese_hex": "8381835E838B836083468393835781C781C8",
+    "english_hex": "826C82628288828781C781C8",
+    "max_chars": 9,
+    "pointers": [
+      "0x128AE0"
+    ]
+  },
+  {
+    "offset": "0x43D94",
+    "japanese": "メタルチェンジ・・",
+    "english": "MChg・・",
+    "japanese_hex": "8381835E838B836083468393835781C581C6",
+    "english_hex": "826C82628288828781C581C6",
+    "max_chars": 9,
+    "pointers": [
+      "0x128A84"
+    ]
+  },
+  {
+    "offset": "0x43DA8",
+    "japanese": "メタルチェンジ・・",
+    "english": "MChg・・",
+    "japanese_hex": "8381835E838B836083468393835781C381C4",
+    "english_hex": "826C82628288828781C381C4",
+    "max_chars": 9,
+    "pointers": [
+      "0x128A28"
+    ]
+  }
+]

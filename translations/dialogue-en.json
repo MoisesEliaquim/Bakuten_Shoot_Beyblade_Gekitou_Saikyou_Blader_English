@@ -1,0 +1,2956 @@
+{
+  "308": [
+    {
+      "speaker": 0,
+      "text": "This is a test."
+    }
+  ],
+  "309": [
+    {
+      "speaker": 2,
+      "text": "This is a test of switching to a different scenario."
+    }
+  ],
+  "310": [
+    {
+      "speaker": 2,
+      "text": "Now, where should I go?"
+    }
+  ],
+  "317": [
+    {
+      "speaker": 2,
+      "text": "I'll try ten when they're cheaper!"
+    }
+  ],
+  "318": [
+    {
+      "speaker": 2,
+      "text": "They come out with unusual flavors sometimes."
+    }
+  ],
+  "319": [
+    {
+      "speaker": 2,
+      "text": "Hmm...\n\nHonestly,\nI can't recommend it."
+    }
+  ],
+  "322": [
+    {
+      "speaker": null,
+      "text": "For 180 yen, my afternoon is set."
+    }
+  ],
+  "323": [
+    {
+      "speaker": null,
+      "text": "Sometimes, splurge on a latte."
+    }
+  ],
+  "324": [
+    {
+      "speaker": null,
+      "text": "A nice change when you're tired of coffee."
+    }
+  ],
+  "325": [
+    {
+      "speaker": null,
+      "text": "The roast chicken is pretty good."
+    }
+  ],
+  "328": [
+    {
+      "speaker": null,
+      "text": "The customers here are pretty classy."
+    }
+  ],
+  "329": [
+    {
+      "speaker": null,
+      "text": "Order a tall and really enjoy it."
+    }
+  ],
+  "330": [
+    {
+      "speaker": null,
+      "text": "Caramel macchiato.\n\nDrown in caramel."
+    }
+  ],
+  "331": [
+    {
+      "speaker": null,
+      "text": "Another iced coffee, please!"
+    }
+  ],
+  "332": [
+    {
+      "speaker": 0,
+      "text": "00: Daichi"
+    }
+  ],
+  "333": [
+    {
+      "speaker": 1,
+      "text": "01: Takao"
+    }
+  ],
+  "334": [
+    {
+      "speaker": 2,
+      "text": "02: Kai"
+    }
+  ],
+  "335": [
+    {
+      "speaker": 3,
+      "text": "03: Rei"
+    }
+  ],
+  "336": [
+    {
+      "speaker": 4,
+      "text": "04: Max"
+    }
+  ],
+  "337": [
+    {
+      "speaker": 5,
+      "text": "05: Nobuo"
+    }
+  ],
+  "338": [
+    {
+      "speaker": 6,
+      "text": "06: Akira"
+    }
+  ],
+  "339": [
+    {
+      "speaker": 7,
+      "text": "07: Seiichi"
+    }
+  ],
+  "340": [
+    {
+      "speaker": 8,
+      "text": "08: Michael"
+    }
+  ],
+  "341": [
+    {
+      "speaker": 9,
+      "text": "09: Ralf"
+    }
+  ],
+  "342": [
+    {
+      "speaker": 10,
+      "text": "10: Yuri"
+    }
+  ],
+  "343": [
+    {
+      "speaker": 11,
+      "text": "11: Rai"
+    }
+  ],
+  "344": [
+    {
+      "speaker": 12,
+      "text": "12: Mao"
+    }
+  ],
+  "345": [
+    {
+      "speaker": 13,
+      "text": "13: Kiki"
+    }
+  ],
+  "346": [
+    {
+      "speaker": 15,
+      "text": "15: Kaoru"
+    }
+  ],
+  "347": [
+    {
+      "speaker": 16,
+      "text": "16: Masamune"
+    }
+  ],
+  "348": [
+    {
+      "speaker": 17,
+      "text": "17: Prof."
+    }
+  ],
+  "349": [
+    {
+      "speaker": 18,
+      "text": "18: BldrDJ"
+    }
+  ],
+  "350": [
+    {
+      "speaker": 23,
+      "text": "23: Daitenji"
+    }
+  ],
+  "351": [
+    {
+      "speaker": 24,
+      "text": "24: Gramp"
+    }
+  ],
+  "352": [
+    {
+      "speaker": 25,
+      "text": "25: Mizuhara"
+    }
+  ],
+  "353": [
+    {
+      "speaker": 0,
+      "text": "I came all the way to town without telling Mom, but... Wow, the city really is amazing! There are buildings everywhere you look, yet the park is this tiny! It's way smaller than the yard at my house! Huh? There's a big crowd over there! What's going on?"
+    }
+  ],
+  "354": [
+    {
+      "speaker": 7,
+      "text": "Ha! Go! Right there!"
+    },
+    {
+      "speaker": 5,
+      "text": "Get him! Take him down! That's the way! All right! Finish him off!! Yes! I win!"
+    },
+    {
+      "speaker": 7,
+      "text": "Darn it! I lost!"
+    }
+  ],
+  "355": [
+    {
+      "speaker": 1,
+      "text": "Huh? Who are you?"
+    },
+    {
+      "speaker": 0,
+      "text": "Hey! I'm Sumeragi Daichi! Call me Daichi! Nice to meet you!"
+    },
+    {
+      "speaker": 1,
+      "text": "Hmm... So your name's Daichi? I'm Kinomiya Takao. Just call me Takao! By the way, Daichi, where did you come from?"
+    },
+    {
+      "speaker": 0,
+      "text": "Umm, well... I don't know!"
+    },
+    {
+      "speaker": 1,
+      "text": "Hey, now... What do you mean, you don't know...?"
+    }
+  ],
+  "356": [
+    {
+      "speaker": 17,
+      "text": "What's the matter, Takao...?"
+    },
+    {
+      "speaker": 1,
+      "text": "Kyouju..."
+    },
+    {
+      "speaker": 17,
+      "text": "I don't believe I've seen him before... Who is he?"
+    },
+    {
+      "speaker": 0,
+      "text": "My name's Daichi! Nice to meet you!"
+    },
+    {
+      "speaker": 17,
+      "text": "Pleased to meet you... I'm called Kyouju. As you can see, I research Beyblades."
+    },
+    {
+      "speaker": 0,
+      "text": "Oh, really."
+    },
+    {
+      "speaker": 17,
+      "text": "Oh? Daichi, you have an unusual Beyblade... And a Bit Chip I've never seen before..."
+    }
+  ],
+  "357": [
+    {
+      "speaker": 6,
+      "text": "What are you doing, Takao...?"
+    },
+    {
+      "speaker": 1,
+      "text": "Hm...? Oh..."
+    },
+    {
+      "speaker": 17,
+      "text": "We were looking at Daichi's Beyblade."
+    },
+    {
+      "speaker": 6,
+      "text": "Huh... I've never seen a Beyblade like that... Are you good at Beybattles?"
+    },
+    {
+      "speaker": 0,
+      "text": "Of course I am!"
+    }
+  ],
+  "358": [
+    {
+      "speaker": 5,
+      "text": "Then let's have a Beybattle!"
+    }
+  ],
+  "359": [
+    {
+      "speaker": 7,
+      "text": "We were just deciding who will represent this district."
+    },
+    {
+      "speaker": 0,
+      "text": "Represent it?"
+    }
+  ],
+  "360": [
+    {
+      "speaker": 23,
+      "text": "Ho ho ho! Nice to meet you, Daichi."
+    },
+    {
+      "speaker": 0,
+      "text": "Hey!"
+    },
+    {
+      "speaker": 23,
+      "text": "We were choosing our representative for the World Tournament, the Beyblade world championship held every year."
+    },
+    {
+      "speaker": 0,
+      "text": "Can I join in too?"
+    },
+    {
+      "speaker": 23,
+      "text": "Of course. Please do take part."
+    },
+    {
+      "speaker": 0,
+      "text": "All right! I'll give it my all!"
+    }
+  ],
+  "361": [
+    {
+      "speaker": 1,
+      "text": "Oh! There they are! Hey, everyone!"
+    }
+  ],
+  "362": [
+    {
+      "speaker": 5,
+      "text": "Hey, Takao!"
+    },
+    {
+      "speaker": 1,
+      "text": "Hey!"
+    },
+    {
+      "speaker": 5,
+      "text": "Have you heard? They're holding the tournament again this year!"
+    },
+    {
+      "speaker": 1,
+      "text": "I know! You're slow to hear the news, Nobuo! But I'll be invited as a seeded player anyway, so the qualifiers don't concern me!"
+    }
+  ],
+  "363": [
+    {
+      "speaker": 17,
+      "text": "That's not true! This year's tournament is an individual competition. Chairman Daitenji said everyone must battle properly, and the winners will qualify!"
+    },
+    {
+      "speaker": 1,
+      "text": "What? What a pain! I'm obviously the strongest anyway... Oh, well! I'll just battle and get chosen officially!"
+    },
+    {
+      "speaker": 17,
+      "text": "Yes! That's exactly right!"
+    }
+  ],
+  "364": [
+    {
+      "speaker": 6,
+      "text": "It won't be that easy!"
+    },
+    {
+      "speaker": 1,
+      "text": "W-what do you mean?!"
+    },
+    {
+      "speaker": 5,
+      "text": "We've gotten stronger while you were away, too! We won't lose that easily!"
+    },
+    {
+      "speaker": 1,
+      "text": "A battle will settle that in no time!"
+    }
+  ],
+  "365": [
+    {
+      "speaker": 23,
+      "text": "Ho ho ho! It has been a while,\n{N1}.\n\nTo enter this tournament, you must defeat everyone in this region. With your ability, I believe you can win. Do your best and claim victory!"
+    }
+  ],
+  "366": [
+    {
+      "speaker": 17,
+      "text": "To enter the tournament, we now need to win our way through the Asian region. Speaking of China, there's the White Tiger Clan, led by Rei!"
+    }
+  ],
+  "367": [
+    {
+      "speaker": 12,
+      "text": "Are you our next opponent?"
+    },
+    {
+      "speaker": 0,
+      "text": "Yeah! That's right!"
+    },
+    {
+      "speaker": 12,
+      "text": "Oh, come on... I came to see what our opponent was like, and you're still just a kid!"
+    },
+    {
+      "speaker": 0,
+      "text": "I'm not a kid!"
+    },
+    {
+      "speaker": 12,
+      "text": "Oh? Did I hurt your feelings? Sorry about that!"
+    },
+    {
+      "speaker": 0,
+      "text": "Darn it! You made fun of me! When we battle, I'll beat you to a pulp!"
+    },
+    {
+      "speaker": 12,
+      "text": "What?! I'm apologizing, and you're being so rude!"
+    }
+  ],
+  "368": [
+    {
+      "speaker": 3,
+      "text": "Stop it, Mao!"
+    },
+    {
+      "speaker": 12,
+      "text": "R-Rei..."
+    },
+    {
+      "speaker": 3,
+      "text": "It seems Mao said something rude... I'm sorry. Will you forgive her?"
+    },
+    {
+      "speaker": 0,
+      "text": "Who are you?!"
+    },
+    {
+      "speaker": 3,
+      "text": "My name is Rei... I'm the representative of the White Tiger Clan."
+    },
+    {
+      "speaker": 0,
+      "text": "I'm Daichi!"
+    },
+    {
+      "speaker": 3,
+      "text": "Yeah... I know... I heard you beat Takao in Japan!"
+    },
+    {
+      "speaker": 0,
+      "text": "You know Takao?"
+    },
+    {
+      "speaker": 3,
+      "text": "Yeah... Takao and I fought together as teammates in the BBA."
+    },
+    {
+      "speaker": 0,
+      "text": "Oh! Then I'll forgive her!"
+    },
+    {
+      "speaker": 12,
+      "text": "What?! Who do you think you are?!"
+    },
+    {
+      "speaker": 3,
+      "text": "That's enough, Mao!"
+    },
+    {
+      "speaker": 12,
+      "text": "..."
+    },
+    {
+      "speaker": 0,
+      "text": "Bleh!!"
+    },
+    {
+      "speaker": 3,
+      "text": "... Anyway... Let's both give it our best!"
+    },
+    {
+      "speaker": 0,
+      "text": "Huh?! Yeah! Let's do our best!"
+    }
+  ],
+  "369": [
+    {
+      "speaker": 17,
+      "text": "To enter the tournament, we now need to win our way through the Asian region. Our next opponents are none other than the White Tiger Clan, formerly China's team! What's more, Rei is now a member of the White Tiger Clan too. According to my calculations, Takao has only a 1% chance of defeating them. But please don't give up hope. Give it your best!"
+    }
+  ],
+  "370": [
+    {
+      "speaker": 3,
+      "text": "You haven't changed, Kyouju..."
+    },
+    {
+      "speaker": 17,
+      "text": "R-Rei!"
+    },
+    {
+      "speaker": 3,
+      "text": "And Takao, too... I've been wanting to see you..."
+    },
+    {
+      "speaker": 1,
+      "text": "Yeah... It's been a while..."
+    },
+    {
+      "speaker": 3,
+      "text": "Sorry, Takao, but this time I'm going to win!"
+    },
+    {
+      "speaker": 1,
+      "text": "I won't lose either!"
+    },
+    {
+      "speaker": 3,
+      "text": "Let's both give it our best!"
+    },
+    {
+      "speaker": 1,
+      "text": "Of course!"
+    }
+  ],
+  "371": [
+    {
+      "speaker": 17,
+      "text": "To enter the tournament, we now need to win our way through the Asian region. Our next opponents are none other than the White Tiger Clan, formerly China's team!\n\nAccording to my calculations,\n{N1}\nhas only a 1% chance of defeating them.\n\nBut please don't give up hope. Give it your best!"
+    }
+  ],
+  "372": [
+    {
+      "speaker": 17,
+      "text": "We defeated the White Tiger Clan and made it to the World Tournament! This is truly wonderful! But the real battles are still ahead! People who used to be our teammates will probably be entering the tournament too. Stay focused and give it your best!"
+    }
+  ],
+  "373": [
+    {
+      "speaker": 4,
+      "text": "Oh! Kyouju!"
+    },
+    {
+      "speaker": 17,
+      "text": "M-Max?!"
+    },
+    {
+      "speaker": 4,
+      "text": "Long time no see!"
+    },
+    {
+      "speaker": 17,
+      "text": "Th-then... Does that mean you're in this block too?!"
+    },
+    {
+      "speaker": 4,
+      "text": "That's right! I'm in this block!"
+    },
+    {
+      "speaker": 17,
+      "text": "N-no... It can't be..."
+    },
+    {
+      "speaker": 4,
+      "text": "Kyouju?! What's wrong? Are you feeling sick?"
+    },
+    {
+      "speaker": 0,
+      "text": "Got a stomachache?"
+    },
+    {
+      "speaker": 17,
+      "text": "That's not it! Max's Draciel has the strongest guard in the BBA... In other words... An ironclad defense!"
+    },
+    {
+      "speaker": 0,
+      "text": "Th-that's so cool!"
+    },
+    {
+      "speaker": 17,
+      "text": "How can you be so carefree?! Listen! Every attack Daichi makes will be deflected by Max's guard and have no effect!"
+    },
+    {
+      "speaker": 0,
+      "text": "My Bey can beat any opponent! I'll show you!"
+    },
+    {
+      "speaker": 4,
+      "text": "Daichi... Somehow, I think he's a little like Takao..."
+    },
+    {
+      "speaker": 17,
+      "text": "I think so too..."
+    },
+    {
+      "speaker": 4,
+      "text": "Anyway, I don't know when we'll face each other, but I'm looking forward to a great battle!"
+    },
+    {
+      "speaker": 0,
+      "text": "Yeah! Bring it on!"
+    }
+  ],
+  "374": [
+    {
+      "speaker": 17,
+      "text": "We defeated the White Tiger Clan and made it to the World Tournament! This is truly wonderful!"
+    }
+  ],
+  "375": [
+    {
+      "speaker": 4,
+      "text": "Ta-ka-o!"
+    },
+    {
+      "speaker": 1,
+      "text": "M-Max!"
+    },
+    {
+      "speaker": 4,
+      "text": "Heh heh! Long time no see!"
+    },
+    {
+      "speaker": 1,
+      "text": "You said you were going to see your mom... And then you entered this tournament?"
+    },
+    {
+      "speaker": 4,
+      "text": "That's right! I knew you'd enter this tournament, Takao, so I signed up ahead of you!"
+    },
+    {
+      "speaker": 1,
+      "text": "So that's what happened..."
+    },
+    {
+      "speaker": 4,
+      "text": "I'm really looking forward to battling you, Takao! Well, see you later!"
+    }
+  ],
+  "376": [
+    {
+      "speaker": 17,
+      "text": "We defeated the White Tiger Clan and made it to the World Tournament! This is truly wonderful! But the real battles are still ahead! People who used to be our teammates will probably be entering the tournament too. Stay focused and give it your best!"
+    }
+  ],
+  "377": [
+    {
+      "speaker": 17,
+      "text": "Now the real competition begins. Defeat them and become the strongest Blader in the world!"
+    }
+  ],
+  "378": [
+    {
+      "speaker": 17,
+      "text": "Now the real competition begins. Defeat them and become the strongest Blader in the world!"
+    }
+  ],
+  "379": [
+    {
+      "speaker": 2,
+      "text": "I thought I might find a clue if I came here..."
+    },
+    {
+      "speaker": 1,
+      "text": "Kai! What have you been doing?"
+    },
+    {
+      "speaker": 2,
+      "text": "It's none of your business..."
+    },
+    {
+      "speaker": 1,
+      "text": "What did you say?!"
+    },
+    {
+      "speaker": 2,
+      "text": "Kinomiya... It's time to settle things between us!"
+    },
+    {
+      "speaker": 1,
+      "text": "Bring it on!"
+    }
+  ],
+  "380": [
+    {
+      "speaker": 17,
+      "text": "Wonderful! I couldn't be happier to see you come this far,\n{N1}!\n\nNow that we're here, let's win the championship!"
+    }
+  ],
+  "381": [
+    {
+      "speaker": 15,
+      "text": "Hmph! So you're my opponent."
+    },
+    {
+      "speaker": 0,
+      "text": "That's my line!"
+    },
+    {
+      "speaker": 15,
+      "text": "... Is that your Beyblade?"
+    },
+    {
+      "speaker": 0,
+      "text": "That's right!"
+    },
+    {
+      "speaker": 15,
+      "text": "Heh... A Bey like that couldn't put a single scratch on my Wing Breaker."
+    },
+    {
+      "speaker": 0,
+      "text": "Shut up! My dad's Bey is the strongest! Don't make fun of it!!"
+    },
+    {
+      "speaker": 15,
+      "text": "Talking to you is a waste of time... Let's begin the battle!"
+    },
+    {
+      "speaker": 2,
+      "text": "Kaoru!! You're Kaoru, aren't you?!"
+    },
+    {
+      "speaker": 15,
+      "text": "..."
+    },
+    {
+      "speaker": 2,
+      "text": "Why won't you answer?! Have you forgotten me?! Kaoru... Why are you here?!"
+    },
+    {
+      "speaker": 15,
+      "text": "Kai... I watched your battle."
+    },
+    {
+      "speaker": 2,
+      "text": "?!"
+    },
+    {
+      "speaker": 15,
+      "text": "I was looking forward to seeing how much you'd improved. But after such a pathetic battle... Have you no shame?!"
+    },
+    {
+      "speaker": 2,
+      "text": "Ghh..."
+    },
+    {
+      "speaker": 15,
+      "text": "There's no point in talking any further! Now, let's begin the battle!"
+    }
+  ],
+  "382": [
+    {
+      "speaker": 15,
+      "text": "Hmph! So you're my opponent."
+    },
+    {
+      "speaker": 1,
+      "text": "Wh-what's with that attitude?!"
+    },
+    {
+      "speaker": 15,
+      "text": "... Is that your Beyblade?"
+    },
+    {
+      "speaker": 1,
+      "text": "This is my Dragoon!"
+    },
+    {
+      "speaker": 15,
+      "text": "Heh... A Bey like that couldn't put a single scratch on my Wing Breaker."
+    },
+    {
+      "speaker": 1,
+      "text": "W-what did you say?!"
+    },
+    {
+      "speaker": 15,
+      "text": "Talking to you is a waste of time... Let's begin the battle!"
+    },
+    {
+      "speaker": 2,
+      "text": "Kaoru!! You're Kaoru, aren't you?!"
+    },
+    {
+      "speaker": 15,
+      "text": "..."
+    },
+    {
+      "speaker": 2,
+      "text": "Why won't you answer?! Have you forgotten me?! Kaoru... Why are you here?!"
+    },
+    {
+      "speaker": 15,
+      "text": "Kai... I watched your battle."
+    },
+    {
+      "speaker": 2,
+      "text": "?!"
+    },
+    {
+      "speaker": 15,
+      "text": "I was looking forward to seeing how much you'd improved. But after such a pathetic battle... Have you no shame?!"
+    },
+    {
+      "speaker": 2,
+      "text": "Ghh..."
+    },
+    {
+      "speaker": 15,
+      "text": "There's no point in talking any further! Now, let's begin the battle!"
+    }
+  ],
+  "383": [
+    {
+      "speaker": 15,
+      "text": "Hmph! So you're my opponent. Don't worry... My Wing Breaker will put that Bey out of its misery in no time... Now... Let's begin the battle!"
+    },
+    {
+      "speaker": 2,
+      "text": "Kaoru!! You're Kaoru, aren't you?!"
+    },
+    {
+      "speaker": 15,
+      "text": "..."
+    },
+    {
+      "speaker": 2,
+      "text": "Why won't you answer?! Have you forgotten me?! Kaoru... Why are you here?!"
+    },
+    {
+      "speaker": 15,
+      "text": "Kai... I watched your battle."
+    },
+    {
+      "speaker": 2,
+      "text": "?!"
+    },
+    {
+      "speaker": 15,
+      "text": "I was looking forward to seeing how much you'd improved. But after such a pathetic battle... Have you no shame?!"
+    },
+    {
+      "speaker": 2,
+      "text": "Ghh..."
+    },
+    {
+      "speaker": 15,
+      "text": "There's no point in talking any further! Now, let's begin the battle!"
+    }
+  ],
+  "384": [
+    {
+      "speaker": 23,
+      "text": "Ho ho ho! It seems Daichi has won."
+    },
+    {
+      "speaker": 0,
+      "text": "I'm number one!"
+    },
+    {
+      "speaker": 1,
+      "text": "Tch... I let my guard down..."
+    },
+    {
+      "speaker": 23,
+      "text": "Ho ho ho! Then Daichi will be our representative in this tournament."
+    },
+    {
+      "speaker": 0,
+      "text": "Yes!!"
+    },
+    {
+      "speaker": 23,
+      "text": "However, each region is to choose two representatives for this tournament. I'd like to ask Takao to be our other representative. What do you say, Takao?"
+    },
+    {
+      "speaker": 1,
+      "text": "Huh?! Really?"
+    },
+    {
+      "speaker": 23,
+      "text": "If you're willing, Takao."
+    },
+    {
+      "speaker": 1,
+      "text": "All right! Thank you, Chairman!"
+    },
+    {
+      "speaker": 23,
+      "text": "Ho ho ho! It's best when children are full of energy!"
+    }
+  ],
+  "385": [
+    {
+      "speaker": 2,
+      "text": "I heard there was an unfamiliar Blader here... Is that you?"
+    },
+    {
+      "speaker": 0,
+      "text": "Wh-what?! You can't just come up and say that! Who are you, anyway?!"
+    },
+    {
+      "speaker": 2,
+      "text": "It seems I mistook you for someone else..."
+    }
+  ],
+  "386": [
+    {
+      "speaker": 0,
+      "text": "What's with that guy?! He just shows up out of nowhere and then leaves whenever he likes!"
+    }
+  ],
+  "387": [
+    {
+      "speaker": 17,
+      "text": "He's a Blader named Kai. He fought alongside Takao and the rest of us as a member of the BBA team. Recently, Kai said he was looking for someone and wouldn't enter this tournament. He must have mistaken Daichi for the person he's looking for."
+    },
+    {
+      "speaker": 0,
+      "text": "Huh. He seems like a real jerk."
+    },
+    {
+      "speaker": 1,
+      "text": "Come on, don't say that. He's always like that. Don't let it bother you..."
+    }
+  ],
+  "388": [
+    {
+      "speaker": 23,
+      "text": "Ho ho ho! Kai must have his own reasons. Let's leave him be for now. Knowing him, I'm sure he'll enter the tournament. By the way, Kyouju..."
+    },
+    {
+      "speaker": 17,
+      "text": "Yes? What is it?"
+    },
+    {
+      "speaker": 23,
+      "text": "If you're willing, we'd like you to accompany us as our mechanic for this tournament too. What do you think?"
+    },
+    {
+      "speaker": 17,
+      "text": "What?! May I really come?!"
+    },
+    {
+      "speaker": 23,
+      "text": "If you're willing, Kyouju, we'd very much like you to."
+    },
+    {
+      "speaker": 17,
+      "text": "I'd be delighted! I'm looking forward to working with you!"
+    },
+    {
+      "speaker": 23,
+      "text": "Now then, Daichi... We have preparations to make for our departure. Please come this way."
+    }
+  ],
+  "389": [
+    {
+      "speaker": 23,
+      "text": "Ho ho ho! Just as I expected!"
+    },
+    {
+      "speaker": 1,
+      "text": "Oh! Old man Daitenji!"
+    },
+    {
+      "speaker": 23,
+      "text": "So Takao was the strongest Blader in this region after all."
+    },
+    {
+      "speaker": 1,
+      "text": "Of course! You knew that before we even battled! You're pretty mean, Chairman!"
+    },
+    {
+      "speaker": 23,
+      "text": "That's not true, Takao. While you were competing overseas, everyone here endured very hard training for this tournament. So I didn't think your victory was a certainty."
+    },
+    {
+      "speaker": 1,
+      "text": "O-oh, so that's how it was... Hearing that makes me feel like I did something awful to everyone..."
+    }
+  ],
+  "390": [
+    {
+      "speaker": 6,
+      "text": "Don't worry about it, Takao!"
+    }
+  ],
+  "391": [
+    {
+      "speaker": 5,
+      "text": "That's right, Takao! You beat us!"
+    }
+  ],
+  "392": [
+    {
+      "speaker": 7,
+      "text": "That's right. You're our representative, Takao. Enter the tournament and fight for all of us!"
+    }
+  ],
+  "393": [
+    {
+      "speaker": 0,
+      "text": "Yeah, that's right!! Takao's sure to win the championship!"
+    },
+    {
+      "speaker": 1,
+      "text": "Y-yeah... I'll enter the tournament and fight for all of you!"
+    },
+    {
+      "speaker": 0,
+      "text": "That's it! That's the spirit!"
+    }
+  ],
+  "394": [
+    {
+      "speaker": 23,
+      "text": "Ho ho ho! It's good to see you so full of energy, Daichi. Two representatives from each region will enter this tournament. Alongside Takao, I'd like to ask Daichi to be this region's other representative. What do you say, Daichi?"
+    },
+    {
+      "speaker": 0,
+      "text": "Huh?! What does that mean?"
+    },
+    {
+      "speaker": 1,
+      "text": "It means you and I were chosen as the representatives!"
+    },
+    {
+      "speaker": 17,
+      "text": "That's wonderful! I'd been hoping to study Daichi more, too."
+    },
+    {
+      "speaker": 0,
+      "text": "Hmm... I don't really get it, but can I enter the tournament too?"
+    },
+    {
+      "speaker": 23,
+      "text": "Certainly, if you're willing, Daichi."
+    },
+    {
+      "speaker": 0,
+      "text": "All right! Let's give it our best and win the championship!!"
+    },
+    {
+      "speaker": 1,
+      "text": "Y-yeah!!"
+    },
+    {
+      "speaker": 17,
+      "text": "With Daichi acting just like Takao, I'm worried about what lies ahead..."
+    },
+    {
+      "speaker": 23,
+      "text": "Now then, Kyouju, I'll leave the maintenance of Takao's and Daichi's Beyblades to you."
+    },
+    {
+      "speaker": 17,
+      "text": "Y-yes!"
+    },
+    {
+      "speaker": 23,
+      "text": "We have preparations to make for our departure. Please come this way..."
+    }
+  ],
+  "395": [
+    {
+      "speaker": 23,
+      "text": "Ho ho ho! It seems\n{N1}\nhas won."
+    },
+    {
+      "speaker": 23,
+      "text": "Then you will be entering this tournament. We have preparations to make right away, so please come this way."
+    }
+  ],
+  "396": [
+    {
+      "speaker": 23,
+      "text": "Ho ho ho! Well done. I'm impressed that you defeated the White Tiger Clan, said to be the strongest in Asia."
+    },
+    {
+      "speaker": 0,
+      "text": "Yeah! Of course! But those guys were really strong!"
+    }
+  ],
+  "397": [
+    {
+      "speaker": 17,
+      "text": "I didn't think Daichi would make it this far either. But he's certainly grown stronger through these battles. Even his technique, which used to be his weak point, has improved a great deal. I think he has a good chance of advancing in the next tournament too."
+    },
+    {
+      "speaker": 23,
+      "text": "I agree with Kyouju. Keep up the good work, Daichi."
+    },
+    {
+      "speaker": 0,
+      "text": "Yeah! Leave it to me!"
+    }
+  ],
+  "398": [
+    {
+      "speaker": 23,
+      "text": "Ho ho ho! Just as I expected!"
+    },
+    {
+      "speaker": 1,
+      "text": "All done!"
+    }
+  ],
+  "399": [
+    {
+      "speaker": 3,
+      "text": "Looks like Takao beat us again."
+    },
+    {
+      "speaker": 1,
+      "text": "Yeah. But honestly, I was in quite a bit of trouble too!"
+    },
+    {
+      "speaker": 3,
+      "text": "Ha ha ha! Of course you were! You beat us, the White Tiger Clan! You're really something!"
+    },
+    {
+      "speaker": 1,
+      "text": "Well, that's what I can do!"
+    },
+    {
+      "speaker": 3,
+      "text": "Anyway, congratulations! We'll be cheering you on too. Make sure you win the championship!"
+    },
+    {
+      "speaker": 1,
+      "text": "R-Rei... I wish we could have battled in the tournament..."
+    }
+  ],
+  "400": [
+    {
+      "speaker": 23,
+      "text": "Ho ho ho! If that's how you feel, why doesn't Rei enter the second-chance round?"
+    },
+    {
+      "speaker": 3,
+      "text": "The second-chance round?!"
+    },
+    {
+      "speaker": 23,
+      "text": "That's right. This tournament has a second-chance round."
+    },
+    {
+      "speaker": 1,
+      "text": "Then if he wins his way through it, Rei can reach the final league too?!"
+    },
+    {
+      "speaker": 23,
+      "text": "That's correct."
+    },
+    {
+      "speaker": 1,
+      "text": "Then that settles it! Right, Rei?"
+    },
+    {
+      "speaker": 3,
+      "text": "Yeah... All right! I'll give it a try!!"
+    },
+    {
+      "speaker": 1,
+      "text": "That's the spirit! See you in the final league!"
+    }
+  ],
+  "401": [
+    {
+      "speaker": 23,
+      "text": "Ho ho ho! Just as I expected! At last, it's time for the qualifying league. Stay focused and give it your best!"
+    }
+  ],
+  "402": [
+    {
+      "speaker": 23,
+      "text": "Ho ho ho! You've made steady progress through the tournament qualifiers. Next comes the final league at last. It's been a long battle, but now that you've come this far, please win the championship. I wish you the best of luck!"
+    }
+  ],
+  "403": [
+    {
+      "speaker": 17,
+      "text": "Now that you've come this far, there's nothing more for me to say. Just battle the way you think is best, Daichi. I'm sure you can win the championship. I believe in you."
+    },
+    {
+      "speaker": 0,
+      "text": "Yeah! I'm definitely going to win the championship and become the number one guy in the world, just like Dad said!"
+    }
+  ],
+  "404": [
+    {
+      "speaker": 23,
+      "text": "Just as I expected! You're making steady progress. But next is the final league. You'll be facing Bladers even stronger than before. Stay focused when you battle."
+    }
+  ],
+  "405": [
+    {
+      "speaker": 17,
+      "text": "Now that you've come this far, there's nothing more for me to say. Just battle the way you think is best, Takao. I'm sure you can win the championship. I believe in you."
+    },
+    {
+      "speaker": 1,
+      "text": "Leave it to me! I'll win the championship and become the strongest in the world!"
+    }
+  ],
+  "406": [
+    {
+      "speaker": 23,
+      "text": "Ho ho ho! Next comes the final league. Stay focused when you battle."
+    }
+  ],
+  "407": [
+    {
+      "speaker": 18,
+      "text": "The Beyblade World Tournament champion is Sumeragi Daichi! Daichi defeated many of the favorites to claim the championship! How do you feel right now?"
+    },
+    {
+      "speaker": 0,
+      "text": "Oh! Yeah! I'm really happy! I came down from the mountain without telling Mom. I kept entering the tournament a secret all this time, and now I've even won it! My dad told me to be number one at something, no matter what it was. I'm really happy I kept my promise to Dad!"
+    },
+    {
+      "speaker": 18,
+      "text": "D-Daichi, you entered this tournament without telling your mother?"
+    },
+    {
+      "speaker": 0,
+      "text": "That's right!"
+    },
+    {
+      "speaker": 18,
+      "text": "Daichi's mother! Daichi has won the championship in style!! Please praise him when he gets home!"
+    },
+    {
+      "speaker": 1,
+      "text": "Wouldn't he normally get in trouble for that?"
+    },
+    {
+      "speaker": 4,
+      "text": "I think so too..."
+    }
+  ],
+  "408": [
+    {
+      "speaker": 23,
+      "text": "Ho ho ho! Congratulations on winning the championship!"
+    },
+    {
+      "speaker": 0,
+      "text": "Thanks!"
+    },
+    {
+      "speaker": 23,
+      "text": "Daichi, you will receive the championship trophy and the legendary Beyblade. This Beyblade served as the basis for all others. You could call it the Beyblade of Beyblades. It's also said to contain a mysterious power."
+    },
+    {
+      "speaker": 0,
+      "text": "Huh. Really? It's shining... It feels kind of mysterious!"
+    },
+    {
+      "speaker": 23,
+      "text": "Now, Daichi. Please accept it."
+    },
+    {
+      "speaker": 0,
+      "text": "Yeah!"
+    }
+  ],
+  "409": [
+    {
+      "speaker": 0,
+      "text": "Whoa! What is it?!"
+    },
+    {
+      "speaker": 23,
+      "text": "What on earth is happening?"
+    }
+  ],
+  "410": [
+    {
+      "speaker": 16,
+      "text": "Heh heh heh... It's been a while, Daitenji..."
+    },
+    {
+      "speaker": 23,
+      "text": "Ah! You're... Chizan Masamune!!"
+    },
+    {
+      "speaker": 0,
+      "text": "Who are you, old man?"
+    },
+    {
+      "speaker": 16,
+      "text": "Daitenji... You believe you're gathering the strongest Bladers according to your own ideas. But holding a tournament like this... What a crude way to go about it..."
+    },
+    {
+      "speaker": 0,
+      "text": "Hey, hey! Who are you, old man?"
+    },
+    {
+      "speaker": 16,
+      "text": "Daitenji... You know why I've appeared before you, don't you?"
+    },
+    {
+      "speaker": 0,
+      "text": "Hey! Stop ignoring me!"
+    },
+    {
+      "speaker": 23,
+      "text": "Masamune... You're after the legendary Beyblade, aren't you?"
+    },
+    {
+      "speaker": 16,
+      "text": "Then we needn't waste any words... Kaoru... Come out!"
+    }
+  ],
+  "411": [
+    {
+      "speaker": 15,
+      "text": "Master Chizan... Did you call for me?"
+    },
+    {
+      "speaker": 16,
+      "text": "This Kaoru is the Blader I trained, worthy of being called the strongest. That boy and Kaoru will battle, with the legendary Beyblade at stake!"
+    },
+    {
+      "speaker": 23,
+      "text": "Ho ho ho! You certainly seem confident, but you'd do well not to underestimate Daichi."
+    },
+    {
+      "speaker": 0,
+      "text": "Yeah, that's right! I'll beat you!"
+    },
+    {
+      "speaker": 15,
+      "text": "Heh..."
+    },
+    {
+      "speaker": 2,
+      "text": "Kaoru?! Is that Kaoru?!"
+    }
+  ],
+  "412": [
+    {
+      "speaker": 18,
+      "text": "The Beyblade World Tournament champion is Kinomiya Takao! Takao defeated many of the favorites to claim the championship! How do you feel right now?"
+    },
+    {
+      "speaker": 1,
+      "text": "I did it! I'm the strongest Blader!"
+    }
+  ],
+  "413": [
+    {
+      "speaker": 23,
+      "text": "Ho ho ho! Congratulations on winning the championship!"
+    },
+    {
+      "speaker": 1,
+      "text": "Thank you!"
+    },
+    {
+      "speaker": 23,
+      "text": "Takao, you will receive the championship trophy and the legendary Beyblade. This Beyblade served as the basis for all others. You could call it the Beyblade of Beyblades. It's also said to contain a mysterious power."
+    },
+    {
+      "speaker": 1,
+      "text": "Wow... The legendary Beyblade... I can definitely feel a mysterious power!"
+    },
+    {
+      "speaker": 23,
+      "text": "Now, Takao. Please accept it."
+    },
+    {
+      "speaker": 1,
+      "text": "Y-yes!"
+    }
+  ],
+  "414": [
+    {
+      "speaker": 1,
+      "text": "W-what?!"
+    },
+    {
+      "speaker": 23,
+      "text": "What on earth is happening?"
+    }
+  ],
+  "415": [
+    {
+      "speaker": 16,
+      "text": "Heh heh heh... It's been a while, Daitenji..."
+    },
+    {
+      "speaker": 23,
+      "text": "Ah! You're... Chizan Masamune!!"
+    },
+    {
+      "speaker": 16,
+      "text": "Daitenji... You believe you're gathering the strongest Bladers according to your own ideas. But holding a tournament like this... What a crude way to go about it..."
+    },
+    {
+      "speaker": 16,
+      "text": "Daitenji... You know why I've appeared before you, don't you?"
+    },
+    {
+      "speaker": 23,
+      "text": "Masamune... You're after the legendary Beyblade, aren't you?"
+    },
+    {
+      "speaker": 16,
+      "text": "Then we needn't waste any words... Kaoru... Come out!"
+    }
+  ],
+  "416": [
+    {
+      "speaker": 15,
+      "text": "Master Chizan... Did you call for me?"
+    },
+    {
+      "speaker": 16,
+      "text": "This Kaoru is the Blader I trained, worthy of being called the strongest. That boy and Kaoru will battle, with the legendary Beyblade at stake!"
+    },
+    {
+      "speaker": 23,
+      "text": "Ho ho ho! You certainly seem confident, but you'd do well not to underestimate Takao."
+    },
+    {
+      "speaker": 1,
+      "text": "I've been listening to you go on and on, saying whatever you like! I don't care who this Kaoru is. I'll beat him with Dragoon!"
+    },
+    {
+      "speaker": 15,
+      "text": "Heh..."
+    },
+    {
+      "speaker": 2,
+      "text": "Kaoru?! Is that Kaoru?!"
+    }
+  ],
+  "417": [
+    {
+      "speaker": 18,
+      "text": "The Beyblade World Tournament champion is\n{N1}!\n\nAfter defeating many of the favorites to win the championship,\n{N1}\nwill receive a gift from Chairman Daitenji!"
+    }
+  ],
+  "418": [
+    {
+      "speaker": 23,
+      "text": "Ho ho ho! Congratulations on winning the championship!"
+    },
+    {
+      "speaker": 23,
+      "text": "{N1}\nwill receive the championship trophy and the legendary Beyblade. This Beyblade served as the basis for all others. You could call it the Beyblade of Beyblades. It's also said to contain a mysterious power."
+    },
+    {
+      "speaker": 23,
+      "text": "Now, please accept it,\n{N1}."
+    }
+  ],
+  "419": [
+    {
+      "speaker": 23,
+      "text": "What on earth is happening?"
+    }
+  ],
+  "420": [
+    {
+      "speaker": 16,
+      "text": "Heh heh heh... It's been a while, Daitenji..."
+    },
+    {
+      "speaker": 23,
+      "text": "Ah! You're... Chizan Masamune!!"
+    },
+    {
+      "speaker": 16,
+      "text": "Daitenji... You believe you're gathering the strongest Bladers according to your own ideas. But holding a tournament like this... What a crude way to go about it..."
+    },
+    {
+      "speaker": 16,
+      "text": "Daitenji... You know why I've appeared before you, don't you?"
+    },
+    {
+      "speaker": 23,
+      "text": "Masamune... You're after the legendary Beyblade, aren't you?"
+    },
+    {
+      "speaker": 16,
+      "text": "Then we needn't waste any words... Kaoru... Come out!"
+    }
+  ],
+  "421": [
+    {
+      "speaker": 15,
+      "text": "Master Chizan... Did you call for me?"
+    },
+    {
+      "speaker": 16,
+      "text": "This Kaoru is the Blader I trained, worthy of being called the strongest. That boy and Kaoru will battle, with the legendary Beyblade at stake!"
+    },
+    {
+      "speaker": 23,
+      "text": "Ho ho ho! You certainly seem confident, but you'd do well not to underestimate\n{N1}."
+    }
+  ],
+  "422": [
+    {
+      "speaker": 0,
+      "text": "I came all the way to town without telling Mom, but... Wow, the city really is amazing! There are buildings everywhere you look, yet the park is this tiny! It's way smaller than the yard at my house! Huh? There's a big crowd over there! What's going on?"
+    }
+  ],
+  "423": [
+    {
+      "speaker": 7,
+      "text": "Ha! Go! Right there!"
+    },
+    {
+      "speaker": 5,
+      "text": "Get him! Take him down! That's the way! All right! Finish him off!! Yes! I win!"
+    },
+    {
+      "speaker": 7,
+      "text": "Darn it! I lost!"
+    }
+  ],
+  "424": [
+    {
+      "speaker": 7,
+      "text": "Huh? I haven't seen you around before..."
+    },
+    {
+      "speaker": 0,
+      "text": "Hey! My name's Daichi! Nice to meet you!"
+    },
+    {
+      "speaker": 7,
+      "text": "Nice to meet you. I'm Seiichi. By the way... Where did you come from?"
+    },
+    {
+      "speaker": 0,
+      "text": "Heh heh! I don't know!"
+    },
+    {
+      "speaker": 7,
+      "text": "..."
+    },
+    {
+      "speaker": 0,
+      "text": "My house is up on a mountain! But there aren't any friends nearby, so I was always bored. That's why I sneaked down from the mountain!"
+    },
+    {
+      "speaker": 7,
+      "text": "Oh, so you don't have anyone to play with... Hey, if you'd like, why don't you play with me?"
+    },
+    {
+      "speaker": 0,
+      "text": "Yeah! Sure!"
+    },
+    {
+      "speaker": 7,
+      "text": "It looks like you have a Beyblade too, Daichi... Let's all have a battle!"
+    },
+    {
+      "speaker": 0,
+      "text": "Huh? So this is called a Beyblade?"
+    },
+    {
+      "speaker": 7,
+      "text": "... Yes... Didn't you know?"
+    },
+    {
+      "speaker": 0,
+      "text": "Nope! I didn't know! But I've been playing with this thing all along, so I know exactly how to use it! Let's hurry up and battle!"
+    },
+    {
+      "speaker": 7,
+      "text": "D-Daichi, you sure are full of energy..."
+    }
+  ],
+  "425": [
+    {
+      "speaker": 1,
+      "text": "Oh! There they are! Hey, everyone!"
+    }
+  ],
+  "426": [
+    {
+      "speaker": 5,
+      "text": "Hey, Takao!"
+    },
+    {
+      "speaker": 1,
+      "text": "Hey!"
+    },
+    {
+      "speaker": 5,
+      "text": "Have you heard? They're holding the tournament again this year!"
+    },
+    {
+      "speaker": 1,
+      "text": "I know! You're slow to hear the news, Nobuo! But I'll be invited as a seeded player anyway, so the qualifiers don't concern me!"
+    }
+  ],
+  "427": [
+    {
+      "speaker": 17,
+      "text": "That's not true! This year's tournament is an individual competition. Chairman Daitenji said everyone must battle properly, and the winners will qualify!"
+    },
+    {
+      "speaker": 1,
+      "text": "What? What a pain! Oh, well! I'll just battle and get chosen officially!"
+    },
+    {
+      "speaker": 17,
+      "text": "Yes! That's exactly right!"
+    }
+  ],
+  "428": [
+    {
+      "speaker": 6,
+      "text": "It won't be that easy!"
+    },
+    {
+      "speaker": 1,
+      "text": "W-what do you mean?!"
+    },
+    {
+      "speaker": 5,
+      "text": "We've gotten stronger while you were away, too! We won't lose that easily!"
+    },
+    {
+      "speaker": 1,
+      "text": "A battle will settle that in no time!"
+    }
+  ],
+  "429": [
+    {
+      "speaker": 1,
+      "text": "Oh! There they are! Hey, everyone!"
+    }
+  ],
+  "430": [
+    {
+      "speaker": 5,
+      "text": "Hey, Takao!"
+    },
+    {
+      "speaker": 1,
+      "text": "Hey!"
+    },
+    {
+      "speaker": 5,
+      "text": "Have you heard? They're holding the tournament again this year!"
+    },
+    {
+      "speaker": 1,
+      "text": "I know! You're slow to hear the news, Nobuo! But I'll be invited as a seeded player anyway, so the qualifiers don't concern me!"
+    }
+  ],
+  "431": [
+    {
+      "speaker": 17,
+      "text": "That's not true! This year's tournament is an individual competition. Chairman Daitenji said everyone must battle properly, and the winners will qualify!"
+    },
+    {
+      "speaker": 1,
+      "text": "What? What a pain! Oh, well! I'll just battle and get chosen officially!"
+    },
+    {
+      "speaker": 17,
+      "text": "Yes! That's exactly right!"
+    }
+  ],
+  "432": [
+    {
+      "speaker": 6,
+      "text": "It won't be that easy!"
+    },
+    {
+      "speaker": 1,
+      "text": "W-what do you mean?!"
+    },
+    {
+      "speaker": 5,
+      "text": "We've gotten stronger while you were away, too! We won't lose that easily!"
+    },
+    {
+      "speaker": 1,
+      "text": "A battle will settle that in no time!"
+    }
+  ],
+  "433": [
+    {
+      "speaker": 0,
+      "text": "All right!! I win!!"
+    }
+  ],
+  "434": [
+    {
+      "speaker": 0,
+      "text": "How's that?! Dad's Bey is unbeatable!!"
+    }
+  ],
+  "435": [
+    {
+      "speaker": 0,
+      "text": "Heh heh! You've got some promise! Practice more and get stronger!"
+    }
+  ],
+  "436": [
+    {
+      "speaker": 0,
+      "text": "Heh heh! You're pretty strong too!"
+    }
+  ],
+  "437": [
+    {
+      "speaker": 1,
+      "text": "I didn't know there were different kinds of Dragoon!"
+    }
+  ],
+  "438": [
+    {
+      "speaker": 1,
+      "text": "You've got some promise! Keep practicing and you'll get even stronger!"
+    }
+  ],
+  "439": [
+    {
+      "speaker": 1,
+      "text": "Hey, now!! Aren't you a little too weak to be using my name?!"
+    }
+  ],
+  "440": [
+    {
+      "speaker": 1,
+      "text": "It feels weird to be fighting myself!"
+    }
+  ],
+  "441": [
+    {
+      "speaker": 1,
+      "text": "That was a good battle! Let's battle again!"
+    }
+  ],
+  "442": [
+    {
+      "speaker": 1,
+      "text": "That was an amazing match! I won today, but who knows what'll happen next time?!"
+    }
+  ],
+  "443": [
+    {
+      "speaker": 1,
+      "text": "That's Driger for you! You nearly had me!"
+    }
+  ],
+  "444": [
+    {
+      "speaker": 1,
+      "text": "Heh heh! Dragoon really is the best!"
+    }
+  ],
+  "445": [
+    {
+      "speaker": 1,
+      "text": "How's that, Max?! You can't call me a one-trick pony anymore!"
+    }
+  ],
+  "446": [
+    {
+      "speaker": 1,
+      "text": "Heh heh! Even your ironclad defense can't stand up to Dragoon's attacks!"
+    }
+  ],
+  "447": [
+    {
+      "speaker": 2,
+      "text": "There's no strategy at all in the way you fight. A mountain monkey is still a mountain monkey."
+    }
+  ],
+  "448": [
+    {
+      "speaker": 2,
+      "text": "You need to study the basics of Beybattles more."
+    }
+  ],
+  "449": [
+    {
+      "speaker": 2,
+      "text": "I've paid you back for what happened that time..."
+    }
+  ],
+  "450": [
+    {
+      "speaker": 2,
+      "text": "Kinomiya!! You're stronger than that!! Fight with everything you've got!!"
+    }
+  ],
+  "451": [
+    {
+      "speaker": 2,
+      "text": "Don't let me see you put on such a pathetic display!"
+    }
+  ],
+  "452": [
+    {
+      "speaker": 2,
+      "text": "A battle like this won't settle things between us..."
+    }
+  ],
+  "453": [
+    {
+      "speaker": 2,
+      "text": "Hmph... I won't tolerate another me!!"
+    }
+  ],
+  "454": [
+    {
+      "speaker": 2,
+      "text": "Did you think you could take my place?"
+    }
+  ],
+  "455": [
+    {
+      "speaker": 2,
+      "text": "If you want to beat me, you'll have to get stronger..."
+    }
+  ],
+  "456": [
+    {
+      "speaker": 2,
+      "text": "No one can stop Dranzer's wings!"
+    }
+  ],
+  "457": [
+    {
+      "speaker": 2,
+      "text": "If you want to beat me, you'll have to get stronger..."
+    }
+  ],
+  "458": [
+    {
+      "speaker": 2,
+      "text": "No one can stop Dranzer's wings!"
+    }
+  ],
+  "459": [
+    {
+      "speaker": 3,
+      "text": "You've got talent. Give me an even more exciting battle next time!"
+    }
+  ],
+  "460": [
+    {
+      "speaker": 3,
+      "text": "Get stronger, and let's battle again!"
+    }
+  ],
+  "461": [
+    {
+      "speaker": 3,
+      "text": "What happened to you? You weren't your usual self, Takao."
+    }
+  ],
+  "462": [
+    {
+      "speaker": 3,
+      "text": "What's wrong?! Put more effort into the battle!"
+    }
+  ],
+  "463": [
+    {
+      "speaker": 3,
+      "text": "Today's battle is mine!"
+    }
+  ],
+  "464": [
+    {
+      "speaker": 3,
+      "text": "Underestimate Driger and you'll regret it!"
+    }
+  ],
+  "465": [
+    {
+      "speaker": 3,
+      "text": "You've got some nerve, making fakes of me and Driger!"
+    }
+  ],
+  "466": [
+    {
+      "speaker": 3,
+      "text": "If you're going to use my name, you'd better get stronger..."
+    }
+  ],
+  "467": [
+    {
+      "speaker": 3,
+      "text": "That's Draciel for you! Its defense is far from ordinary!"
+    }
+  ],
+  "468": [
+    {
+      "speaker": 3,
+      "text": "That was a good match, Max. Let's battle again!"
+    }
+  ],
+  "469": [
+    {
+      "speaker": 4,
+      "text": "Yes!! Nice fight!! Let's battle again!!"
+    }
+  ],
+  "470": [
+    {
+      "speaker": 4,
+      "text": "You've got amazing guts! Even my Draciel nearly lost!"
+    }
+  ],
+  "471": [
+    {
+      "speaker": 4,
+      "text": "Ta-ka-o! Your attacks are as predictable as ever! You'll need to learn a lot more attack variations to beat me!"
+    }
+  ],
+  "472": [
+    {
+      "speaker": 4,
+      "text": "Nice fight! Dragoon and Draciel both gave it their all! That was a wonderful battle!"
+    }
+  ],
+  "473": [
+    {
+      "speaker": 4,
+      "text": "That's Dranzer for you! Even my Draciel nearly lost!"
+    }
+  ],
+  "474": [
+    {
+      "speaker": 4,
+      "text": "Nice fight! But today, we're the winners!"
+    }
+  ],
+  "475": [
+    {
+      "speaker": 4,
+      "text": "That's Driger for you! I've never had a battle that felt so refreshing!"
+    }
+  ],
+  "476": [
+    {
+      "speaker": 4,
+      "text": "Nice fight! But today, we're the winners!"
+    }
+  ],
+  "477": [
+    {
+      "speaker": 4,
+      "text": "Are you an imitation of us?"
+    }
+  ],
+  "478": [
+    {
+      "speaker": 4,
+      "text": "No one can imitate Draciel's power!"
+    }
+  ],
+  "479": [
+    {
+      "speaker": 5,
+      "text": "How's that?! I can do it too when I put my mind to it!"
+    }
+  ],
+  "480": [
+    {
+      "speaker": 5,
+      "text": "How's that?! My skills are pretty good too, aren't they?"
+    }
+  ],
+  "481": [
+    {
+      "speaker": 6,
+      "text": "Believe it or not, I'm the champion of the next town over!"
+    }
+  ],
+  "482": [
+    {
+      "speaker": 6,
+      "text": "Let's have another Beybattle!"
+    }
+  ],
+  "483": [
+    {
+      "speaker": 7,
+      "text": "Today's battle is mine!"
+    }
+  ],
+  "484": [
+    {
+      "speaker": 7,
+      "text": "Let's practice together and get stronger!"
+    }
+  ],
+  "485": [
+    {
+      "speaker": 8,
+      "text": "How's that? Your Bey can't hold up against Trygle, can it?!"
+    }
+  ],
+  "486": [
+    {
+      "speaker": 8,
+      "text": "Hey, hey, hey! Let's keep it cooler when we battle!"
+    }
+  ],
+  "487": [
+    {
+      "speaker": 9,
+      "text": "This is how a Bit Beast should be used..."
+    }
+  ],
+  "488": [
+    {
+      "speaker": 9,
+      "text": "Why does someone like you have a Bit Beast?"
+    }
+  ],
+  "489": [
+    {
+      "speaker": 10,
+      "text": "Did you think that kind of power would work against me?!"
+    }
+  ],
+  "490": [
+    {
+      "speaker": 10,
+      "text": "Fighting you was a waste of time..."
+    }
+  ],
+  "491": [
+    {
+      "speaker": 11,
+      "text": "Now do you understand how fearsome the White Tiger Clan is?!"
+    }
+  ],
+  "492": [
+    {
+      "speaker": 11,
+      "text": "You're pretty strong!"
+    }
+  ],
+  "493": [
+    {
+      "speaker": 11,
+      "text": "Now do you understand how fearsome the White Tiger Clan is?!"
+    }
+  ],
+  "494": [
+    {
+      "speaker": 11,
+      "text": "You're not strong enough to beat me!"
+    }
+  ],
+  "495": [
+    {
+      "speaker": 11,
+      "text": "Now do you understand how fearsome the White Tiger Clan is?!"
+    }
+  ],
+  "496": [
+    {
+      "speaker": 11,
+      "text": "You're not strong enough to beat me!"
+    }
+  ],
+  "497": [
+    {
+      "speaker": 11,
+      "text": "Traitor! I'm the one who deserves the White Tiger Bit Chip!"
+    }
+  ],
+  "498": [
+    {
+      "speaker": 11,
+      "text": "I'm the one who inherited our clan's power! A traitor like you could never beat me!"
+    }
+  ],
+  "499": [
+    {
+      "speaker": 11,
+      "text": "Rei!! Why did you betray us?!"
+    }
+  ],
+  "500": [
+    {
+      "speaker": 11,
+      "text": "Rei! I'll never forgive you!"
+    }
+  ],
+  "501": [
+    {
+      "speaker": 11,
+      "text": "Now do you understand how fearsome the White Tiger Clan is?!"
+    }
+  ],
+  "502": [
+    {
+      "speaker": 11,
+      "text": "You're pretty strong!"
+    }
+  ],
+  "503": [
+    {
+      "speaker": 12,
+      "text": "Oh, come on! I won't lose to someone like you!"
+    }
+  ],
+  "504": [
+    {
+      "speaker": 12,
+      "text": "How disappointing... I thought I'd have a little more fun. What a shame..."
+    }
+  ],
+  "505": [
+    {
+      "speaker": 12,
+      "text": "You haven't changed at all either!"
+    }
+  ],
+  "506": [
+    {
+      "speaker": 12,
+      "text": "How disappointing... I thought I'd have a little more fun. What a shame..."
+    }
+  ],
+  "507": [
+    {
+      "speaker": 12,
+      "text": "I thought you'd be a little stronger... What a shame."
+    }
+  ],
+  "508": [
+    {
+      "speaker": 12,
+      "text": "Dranzer is such a beautiful Bit Beast..."
+    }
+  ],
+  "509": [
+    {
+      "speaker": 12,
+      "text": "Rei! Today's victory is mine!"
+    }
+  ],
+  "510": [
+    {
+      "speaker": 12,
+      "text": "What's wrong, Rei? Are you feeling sick?"
+    }
+  ],
+  "511": [
+    {
+      "speaker": 12,
+      "text": "Rei! You have to battle me again!"
+    }
+  ],
+  "512": [
+    {
+      "speaker": 12,
+      "text": "Well? Galux is pretty strong too, isn't it?"
+    }
+  ],
+  "513": [
+    {
+      "speaker": 12,
+      "text": "You can't beat me if all you do is defend!"
+    }
+  ],
+  "514": [
+    {
+      "speaker": 12,
+      "text": "Looks like even your ironclad guard was no match for Catty Bites!"
+    }
+  ],
+  "515": [
+    {
+      "speaker": 13,
+      "text": "I was stronger than you when I was your age! Practice more and get stronger!"
+    }
+  ],
+  "516": [
+    {
+      "speaker": 13,
+      "text": "You can't read Galman's movements!"
+    }
+  ],
+  "517": [
+    {
+      "speaker": 13,
+      "text": "Did you think someone like you could beat me?"
+    }
+  ],
+  "518": [
+    {
+      "speaker": 13,
+      "text": "What?! You're really weak!"
+    }
+  ],
+  "519": [
+    {
+      "speaker": 13,
+      "text": "Oh, so you're all show. I got fired up for nothing!"
+    }
+  ],
+  "520": [
+    {
+      "speaker": 13,
+      "text": "Give me more of a challenge! What a letdown!"
+    }
+  ],
+  "521": [
+    {
+      "speaker": 13,
+      "text": "You betrayed us, and this is what you have to show for it... I expected better of you!"
+    }
+  ],
+  "522": [
+    {
+      "speaker": 13,
+      "text": "I'm not the same guy I used to be!"
+    }
+  ],
+  "523": [
+    {
+      "speaker": 13,
+      "text": "Oh, so you're all show. I got fired up for nothing!"
+    }
+  ],
+  "524": [
+    {
+      "speaker": 13,
+      "text": "What?! You're really weak!"
+    }
+  ],
+  "525": [
+    {
+      "speaker": 15,
+      "text": "A battle based on brute strength alone is beneath notice..."
+    }
+  ],
+  "526": [
+    {
+      "speaker": 15,
+      "text": "There's no point in battling recklessly..."
+    }
+  ],
+  "527": [
+    {
+      "speaker": 15,
+      "text": "I want to fight someone strong!"
+    }
+  ],
+  "528": [
+    {
+      "speaker": 15,
+      "text": "Focus more on the battle!"
+    }
+  ],
+  "529": [
+    {
+      "speaker": 15,
+      "text": "Dranzer... Even with the power of a Bit Beast, is that all you've got?"
+    }
+  ],
+  "530": [
+    {
+      "speaker": 15,
+      "text": "Kai! What are you fighting for?!"
+    }
+  ],
+  "531": [
+    {
+      "speaker": 15,
+      "text": "I was looking forward to battling you... But I never thought it would turn out like this..."
+    }
+  ],
+  "532": [
+    {
+      "speaker": 15,
+      "text": "I want to fight someone strong..."
+    }
+  ],
+  "533": [
+    {
+      "speaker": 15,
+      "text": "Focus more on the battle!"
+    }
+  ],
+  "534": [
+    {
+      "speaker": 15,
+      "text": "I want to fight someone strong..."
+    }
+  ],
+  "535": [
+    {
+      "speaker": 15,
+      "text": "Focus more on the battle!"
+    }
+  ],
+  "536": [
+    {
+      "speaker": 0,
+      "text": "Aw, man! I lost! You must be something special to beat me!"
+    }
+  ],
+  "537": [
+    {
+      "speaker": 0,
+      "text": "Darn it! I lost! You're unbelievably strong!"
+    }
+  ],
+  "538": [
+    {
+      "speaker": 0,
+      "text": "Aw, man! I can't believe I lost! It's not fair to run off after winning! Battle me again!"
+    }
+  ],
+  "539": [
+    {
+      "speaker": 1,
+      "text": "That's strange! What's wrong, Dragoon?!"
+    }
+  ],
+  "540": [
+    {
+      "speaker": 1,
+      "text": "You're amazing! Where do you keep all that power in that body of yours?"
+    }
+  ],
+  "541": [
+    {
+      "speaker": 1,
+      "text": "It feels weird to be fighting myself!"
+    }
+  ],
+  "542": [
+    {
+      "speaker": 1,
+      "text": "Darn it! Kai! I'll beat you next time!"
+    }
+  ],
+  "543": [
+    {
+      "speaker": 1,
+      "text": "Darn it! I definitely won't lose next time!"
+    }
+  ],
+  "544": [
+    {
+      "speaker": 1,
+      "text": "Aw, man! Did I get a little too carried away?"
+    }
+  ],
+  "545": [
+    {
+      "speaker": 1,
+      "text": "I definitely won't lose next time!"
+    }
+  ],
+  "546": [
+    {
+      "speaker": 1,
+      "text": "Aw, man! Did I get a little too carried away?"
+    }
+  ],
+  "547": [
+    {
+      "speaker": 1,
+      "text": "I definitely won't lose next time!"
+    }
+  ],
+  "548": [
+    {
+      "speaker": 2,
+      "text": "Hmph... It seems you're more than just a mountain monkey."
+    }
+  ],
+  "549": [
+    {
+      "speaker": 2,
+      "text": "Impressive... Kinomiya..."
+    }
+  ],
+  "550": [
+    {
+      "speaker": 2,
+      "text": "Remember, I'm the one who will defeat you!"
+    }
+  ],
+  "551": [
+    {
+      "speaker": 2,
+      "text": "I lost to someone like you?!"
+    }
+  ],
+  "552": [
+    {
+      "speaker": 2,
+      "text": "I hadn't counted on you having that much power..."
+    }
+  ],
+  "553": [
+    {
+      "speaker": 2,
+      "text": "It seems I underestimated you a little... But things won't go this way next time..."
+    }
+  ],
+  "554": [
+    {
+      "speaker": 2,
+      "text": "I hadn't counted on you having that much power..."
+    }
+  ],
+  "555": [
+    {
+      "speaker": 2,
+      "text": "It seems I underestimated you a little... But things won't go this way next time..."
+    }
+  ],
+  "556": [
+    {
+      "speaker": 3,
+      "text": "That was a good battle! Would you battle me again sometime?"
+    }
+  ],
+  "557": [
+    {
+      "speaker": 3,
+      "text": "You're small, but you've got incredible power!"
+    }
+  ],
+  "558": [
+    {
+      "speaker": 3,
+      "text": "It seems you've beaten me again... I owe you another rematch."
+    }
+  ],
+  "559": [
+    {
+      "speaker": 3,
+      "text": "I can't match your power, Takao!"
+    }
+  ],
+  "560": [
+    {
+      "speaker": 3,
+      "text": "It looks like I've lost this time."
+    }
+  ],
+  "561": [
+    {
+      "speaker": 3,
+      "text": "I'll definitely pay you back in our next battle!"
+    }
+  ],
+  "562": [
+    {
+      "speaker": 3,
+      "text": "I can't believe I lost to an impostor..."
+    }
+  ],
+  "563": [
+    {
+      "speaker": 3,
+      "text": "It looks like I've lost this time."
+    }
+  ],
+  "564": [
+    {
+      "speaker": 3,
+      "text": "I'll definitely pay you back in our next battle!"
+    }
+  ],
+  "565": [
+    {
+      "speaker": 4,
+      "text": "Nice fight! Losing hurts, but that was a wonderful battle!"
+    }
+  ],
+  "566": [
+    {
+      "speaker": 4,
+      "text": "You're a very, very strong boy!"
+    }
+  ],
+  "567": [
+    {
+      "speaker": 4,
+      "text": "Nice fight! Losing hurts, but that was a wonderful battle!"
+    }
+  ],
+  "568": [
+    {
+      "speaker": 4,
+      "text": "Ta-ka-o! Next time, I'll definitely be the winner!"
+    }
+  ],
+  "569": [
+    {
+      "speaker": 4,
+      "text": "Nice fight! Losing hurts, but that was a wonderful battle!"
+    }
+  ],
+  "570": [
+    {
+      "speaker": 4,
+      "text": "I lost today, but next time I'll definitely be the winner!"
+    }
+  ],
+  "571": [
+    {
+      "speaker": 4,
+      "text": "Nice fight! Losing hurts, but that was a wonderful battle!"
+    }
+  ],
+  "572": [
+    {
+      "speaker": 4,
+      "text": "I lost today, but next time I'll definitely be the winner!"
+    }
+  ],
+  "573": [
+    {
+      "speaker": 4,
+      "text": "I lost to myself... Isn't that strange?"
+    }
+  ],
+  "574": [
+    {
+      "speaker": 5,
+      "text": "Darn it!! I lost again! I'll show you I can win next time!"
+    }
+  ],
+  "575": [
+    {
+      "speaker": 5,
+      "text": "You're amazing... How do you control your Bey so freely?"
+    }
+  ],
+  "576": [
+    {
+      "speaker": 6,
+      "text": "You got me! You're really strong! Give me some special training sometime!"
+    }
+  ],
+  "577": [
+    {
+      "speaker": 6,
+      "text": "Amazing! That was one intense Beybattle!"
+    }
+  ],
+  "578": [
+    {
+      "speaker": 7,
+      "text": "Winning really isn't easy, is it?"
+    }
+  ],
+  "579": [
+    {
+      "speaker": 7,
+      "text": "I lost... I'll do my best in the next battle too!"
+    }
+  ],
+  "580": [
+    {
+      "speaker": 7,
+      "text": "I lost, but I'll practice more and become as strong as you someday!"
+    }
+  ],
+  "581": [
+    {
+      "speaker": 8,
+      "text": "Whew! That battle was one of your finest performances!"
+    }
+  ],
+  "582": [
+    {
+      "speaker": 8,
+      "text": "Shit! Looks like I'm losing my edge!"
+    }
+  ],
+  "583": [
+    {
+      "speaker": 9,
+      "text": "For me to lose... No... That's just my own arrogance talking..."
+    }
+  ],
+  "584": [
+    {
+      "speaker": 9,
+      "text": "I'll repay this debt in our next battle..."
+    }
+  ],
+  "585": [
+    {
+      "speaker": 10,
+      "text": "Impossible! How could I lose?!"
+    }
+  ],
+  "586": [
+    {
+      "speaker": 10,
+      "text": "For my homeland, I'll defeat you next time!"
+    }
+  ],
+  "587": [
+    {
+      "speaker": 11,
+      "text": "On the name of the White Tiger Clan, I'll win next time!"
+    }
+  ],
+  "588": [
+    {
+      "speaker": 11,
+      "text": "I'll pay you back in our next battle!"
+    }
+  ],
+  "589": [
+    {
+      "speaker": 12,
+      "text": "Oh, come on! Taking it so seriously... How uncool!"
+    }
+  ],
+  "590": [
+    {
+      "speaker": 12,
+      "text": "Normally... I'd never lose to someone like you!"
+    }
+  ],
+  "591": [
+    {
+      "speaker": 13,
+      "text": "Darn it! You'll pay for this!"
+    }
+  ],
+  "592": [
+    {
+      "speaker": 13,
+      "text": "I definitely won't lose next time!"
+    }
+  ],
+  "593": [
+    {
+      "speaker": 15,
+      "text": "It seems I was the arrogant one."
+    }
+  ],
+  "594": [
+    {
+      "speaker": 15,
+      "text": "I see... So this is your true strength..."
+    }
+  ],
+  "595": [
+    {
+      "speaker": 17,
+      "text": "Splendid! This is exactly the research material I've been looking for! Do your best in the next battle too!"
+    }
+  ],
+  "596": [
+    {
+      "speaker": 17,
+      "text": "Impressive! Your Beyblade's configuration seems perfect too! Let's keep up this momentum!"
+    }
+  ],
+  "597": [
+    {
+      "speaker": 17,
+      "text": "Hmm... That was unfortunate. But sometimes you need to lose, too. Let's practice more and make sure we win next time!"
+    }
+  ],
+  "598": [
+    {
+      "speaker": 17,
+      "text": "That was a good battle. Let's use this experience in the next battle and make sure we win!"
+    }
+  ],
+  "599": [
+    {
+      "speaker": 17,
+      "text": "That's strange... Let's think carefully about why you lost. If you'd like, I'll help you..."
+    }
+  ],
+  "600": [
+    {
+      "speaker": 17,
+      "text": "You lost... Why not reconsider your combination of parts?"
+    }
+  ],
+  "601": [
+    {
+      "speaker": 17,
+      "text": "{N1}\nseems to have leveled up. This is most fascinating!!"
+    }
+  ],
+  "602": [
+    {
+      "speaker": 17,
+      "text": "{N1}\nhas leveled up! What's this?! It seems you've learned a new move too! This is most fascinating!! Let's try it out right away and see what it does!"
+    }
+  ],
+  "603": [
+    {
+      "speaker": 17,
+      "text": "You won the Beybattle and received parts!"
+    }
+  ],
+  "604": [
+    {
+      "speaker": 17,
+      "text": "You received parts!"
+    }
+  ],
+  "605": [
+    {
+      "speaker": null,
+      "text": "Let's use these parts to build an even stronger Beyblade!"
+    }
+  ],
+  "606": [
+    {
+      "speaker": null,
+      "text": "I'm fascinated to see what kind of Beyblade we can build with these parts! Let's try building one right away!"
+    }
+  ],
+  "607": [
+    {
+      "speaker": 17,
+      "text": "You won the Beybattle and received parts! Oh? This is a shooter, isn't it?!"
+    }
+  ],
+  "608": [
+    {
+      "speaker": 17,
+      "text": "Oh! What's this?! It seems you've received a shooter! This is most fascinating!"
+    }
+  ],
+  "609": [
+    {
+      "speaker": null,
+      "text": "Using this should make the launches of\n{N1}\neven more powerful."
+    }
+  ],
+  "610": [
+    {
+      "speaker": null,
+      "text": "I'm fascinated to see what kind of power this shooter has! Let's try it out right away!"
+    }
+  ],
+  "611": [
+    {
+      "speaker": 15,
+      "text": "I... I lost?"
+    },
+    {
+      "speaker": 4,
+      "text": "That's right! We won!"
+    },
+    {
+      "speaker": 2,
+      "text": "Kaoru... What happened to you? Could you tell us?"
+    },
+    {
+      "speaker": 15,
+      "text": "... I... Back then, I..."
+    }
+  ],
+  "612": [
+    {
+      "speaker": 16,
+      "text": "You fool!! Losing to someone like this! What do you think all that training was for?! You idiot!!"
+    },
+    {
+      "speaker": 15,
+      "text": "I... I am terribly sorry!"
+    },
+    {
+      "speaker": 16,
+      "text": "You've disgraced me... I never want to see your face again!"
+    },
+    {
+      "speaker": 15,
+      "text": "Ugh..."
+    },
+    {
+      "speaker": 16,
+      "text": "So, you're called\n{N1}.\n\nI've lost this time. But next time, I'll make sure that Bey is mine! Until we meet again! Ha ha ha ha ha!!"
+    }
+  ],
+  "613": [
+    {
+      "speaker": 15,
+      "text": "I... I lost?"
+    },
+    {
+      "speaker": 4,
+      "text": "That's right! We won!"
+    },
+    {
+      "speaker": 2,
+      "text": "Kaoru... What happened to you? Could you tell us?"
+    },
+    {
+      "speaker": 15,
+      "text": "... I... Back then, I..."
+    }
+  ],
+  "614": [
+    {
+      "speaker": 16,
+      "text": "You fool!! Losing to someone like this! What do you think all that training was for?! You idiot!!"
+    },
+    {
+      "speaker": 15,
+      "text": "I... I am terribly sorry!"
+    },
+    {
+      "speaker": 16,
+      "text": "You've disgraced me... I never want to see your face again!"
+    },
+    {
+      "speaker": 15,
+      "text": "Ugh..."
+    },
+    {
+      "speaker": 16,
+      "text": "So, you're called\n{N1}.\n\nI've lost this time. But next time, I'll make sure that Bey is mine! Until we meet again! Ha ha ha ha ha!!"
+    }
+  ],
+  "615": [
+    {
+      "speaker": 15,
+      "text": "I... I lost?"
+    },
+    {
+      "speaker": 4,
+      "text": "That's right! We won!"
+    },
+    {
+      "speaker": 2,
+      "text": "Kaoru... What happened to you? Could you tell us?"
+    },
+    {
+      "speaker": 15,
+      "text": "... I... Back then, I..."
+    }
+  ],
+  "616": [
+    {
+      "speaker": 16,
+      "text": "You fool!! Losing to someone like this! What do you think all that training was for?! You idiot!!"
+    },
+    {
+      "speaker": 15,
+      "text": "I... I am terribly sorry!"
+    },
+    {
+      "speaker": 16,
+      "text": "You've disgraced me... I never want to see your face again!"
+    },
+    {
+      "speaker": 15,
+      "text": "Ugh..."
+    },
+    {
+      "speaker": 16,
+      "text": "So, you're called\n{N1}.\n\nI've lost this time. But next time, I'll make sure that Bey is mine! Until we meet again! Ha ha ha ha ha!!"
+    }
+  ],
+  "313": [
+    {
+      "speaker": 2,
+      "text": "Want to eat here?"
+    }
+  ],
+  "314": [
+    {
+      "speaker": 2,
+      "text": "Oh, you're back again?! What now? Want to eat here?"
+    }
+  ],
+  "315": [
+    {
+      "speaker": 2,
+      "text": "Oh, you're back again? That's not good for you! What now? Want to eat here?"
+    }
+  ],
+  "316": [
+    {
+      "speaker": 2,
+      "text": "What'll it be?"
+    }
+  ],
+  "320": [
+    {
+      "speaker": 17,
+      "text": "Will you be eating here?"
+    }
+  ],
+  "321": [
+    {
+      "speaker": null,
+      "text": "Ready to order?"
+    }
+  ],
+  "326": [
+    {
+      "speaker": 4,
+      "text": "For here?"
+    }
+  ],
+  "327": [
+    {
+      "speaker": null,
+      "text": "Help?"
+    }
+  ]
+}

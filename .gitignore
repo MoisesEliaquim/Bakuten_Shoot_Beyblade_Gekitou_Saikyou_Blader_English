@@ -1,0 +1,21 @@
+# User-supplied game files and emulator state must stay local.
+*.gba
+*.sav
+*.state
+*.ss0
+*.ss1
+*.7z
+*.zip
+*.dll
+*.exe
+*.bin
+build/
+build-*.log
+input/
+private/
+__pycache__/
+*.py[cod]
+.venv/
+vendor/
+.DS_Store
+Thumbs.db
