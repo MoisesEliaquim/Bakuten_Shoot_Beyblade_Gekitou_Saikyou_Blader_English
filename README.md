@@ -62,4 +62,4 @@ The `.tbl` is an inspection aid, not a complete script parser. Parameter bytes a
 
 This work uses original analysis and purpose-built scripts. [Meowth GBA Translator](https://github.com/Olcmyk/Meowth-GBA-Translator) provided a workflow reference, and [mGBA](https://github.com/mgba-emu/mgba) was used for testing. The [V-Force decompilation](https://github.com/marijnvdwerf/gba-beyblade-vforce) and [GBA matching-decomp skill](https://github.com/FacundoMainere/gba-matching-decomp-skill) were reviewed as references; their code is not bundled here.
 
-This is an unofficial project, with no affiliation to the game's rights holders. No original ROM, emulator binary, or save state is included. Project-wide licensing has not yet been selected; record it before a public contribution release.
+This is an unofficial project, with no affiliation to the game's rights holders.
